@@ -5,7 +5,7 @@ description: ""
 ---
 <head>
 <style>
-	.video-container {
+  .video-container {
   position: relative;
   width: 100%;
   overflow: hidden;
@@ -35,14 +35,14 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
-	@media only screen and (max-width: 600px){ 
-	.btn1,.btn2{
+  @media only screen and (max-width: 600px){ 
+  .btn1,.btn2{
    margin-left: -6px;
-	  padding: 1px 8px;
-	}
-	}
-	.btn1,.btn2{
-	    font-size: 18px;
+    padding: 1px 8px;
+  }
+  }
+  .btn1,.btn2{
+      font-size: 18px;
     font-family: KaiTi;
     background-color: #d84178;
     padding: 13px 13px;
@@ -50,8 +50,8 @@ description: ""
     text-align: center;
     display: block;
     margin-left: 26px;
-	}
-	 .btn1:hover {
+  }
+   .btn1:hover {
 background-color: lightgrey;!important;
 }
  .btn2:hover {
@@ -77,7 +77,7 @@ max-width:30%;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-			<a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a></td>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a></td>
 <td style="border: none;
   text-align: left;padding: 25px;width: 20%;"><a href="/chinese-session" style="float:right;">Back</a>
 </td>
@@ -93,27 +93,30 @@ max-width:30%;
 *Video is best viewed in 1080p.<br />
     <div class="climg">
   <div class="column">
-    <img src="/images/Speakers_CL Connie Lum.png" style="width:100%" />
+    <img src="/images/CL-Ms-Siau-Jiahui.png" style="width:100%" />
   </div>
-     <p> <strong>Dr. Connie Lum</strong><br />
-    <span style="font-size:22px;font-family:KaiTi;"><strong>林美莲博士</strong></span><br />
+     <p style="font-family:Lato,sans-serif;"> <strong>Ms Siau Jiahui <br/>
+    <span style="font-size:22px; font-family:KaiTi;"><strong>萧嘉蕙</strong></span><br />
 </p>
    <h4 id="C1" style="font-size:30px;font-family:KaiTi;color:#d84178;">介绍</h4>
    <p style="font-size:21px;font-family:KaiTi;"> 
- 林美莲博士是职总优儿学府的母语课程策划总监，目前管理170所学前中心。林博士在课程设计、教学和培训等方面拥有近二十年的经验。她也是新加坡推广华文学习委员会学前华文教育支援组的委员之一。</p><br />
+萧嘉蕙是新传媒属下电台YES933的广播员。 她欢快的嗓音和活泼的个性在过去二十年为许多听众带来了充满欢乐的时光。她目前主持周日上午10点至下午2点的午餐节目《午刻乐乐》。此外，嘉蕙自2020年起于社交媒体推出“STORY TIME WITH 嘉蕙”华语讲故事系列，至今已分享了60多个故事，吸引数千名小朋友们观看。</p><br />
    <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4>  
-   <h4 style="font-family:KaiTi;font-size:30px;color:#d84178;">借用“感官”经验发展小朋友学习华文的能力</h4>  
-   
-   <p style="font-size:21px;font-family:KaiTi;">一块冰，可以激发孩子“说”的欲望；一张图片，可以帮助孩子加深对故事的理解。这个工作坊将通过五官教学（视觉、听觉、嗅觉、味觉、触觉）及鹰架教学（语言鹰架、材料鹰架、同伴鹰架）促进幼儿学习华文的兴趣，同步提升幼儿的认知发展、专注力及创造力。
-</p><br />
+   <h4 style="font-family:KaiTi;font-size:30px;color:#d84178;">通过讲故事激发孩子对华语的兴趣 </h4>  
+   <p style="font-size:21px;font-family:KaiTi;">   许多新加坡孩子在学校和家里都习惯说英语。 为激发孩子对母语（MTL）的兴趣，父母可以做些什么呢？
+</p>
+<p style="font-size:21px;font-family:KaiTi;">  自2020年《STORY TIME WITH 嘉蕙》上线以来，嘉蕙的华文讲故事节目让许多孩子愿意跳出舒适圈，开始讲华语、学习母语。因此，这档节目也得到了很多家长的赞赏和好评。</p>
+<p style="font-size:21px;font-family:KaiTi;"> 在本届母语学习论坛上，嘉蕙将分享她如何培养 6 岁女儿的双语能力，以及如何为孩子打造有利于学习母语的环境。 她也将介绍如何以生动有趣的方式讲述故事，以培养孩子对用华语讲故事的兴趣。</p>
+<br>
 <h4 style="color:#d84178;">Profile</h4>  
    <p>
- Dr Connie Lum has worked in the early childhood field for over 20 years. She is currently Director, Mother Tongue Languages at NTUC First Campus. She works closely with principals and teachers in delivering the Chinese curriculum and programmes to children through curriculum writing, training of teachers, evaluating children’s learning environments, and conducting continuous reviews of curriculum tools and techniques. She is a member of the Committee to Promote Chinese Language Learning (CPCLL) Pre-School Group.
+Ms Siau Jiahui is a producer-presenter with Mediacorp YES933 who is  currently helming the lunch belt programme 午刻乐乐 from 10am to 2pm on weekdays. Her cheerful voice and vivacious personality have brightened up the days of many listeners over the past two decades.  In 2020, she launched “Storytime with Jiahui” – an online storytelling series on social media which has more than 60 stories and which has been viewed by thousands of young viewers. 
 </p><br />
   <h4 style="color:#d84178;"> Synopsis</h4>  
-   <h4 style="color:#d84178;"> Leveraging on the Five Senses in Developing Skills to Learn Chinese Language</h4>  
    <p>
-A piece of ice may motivate children to speak; an image or a photo may help children to develop a deeper understanding of the stories read.<br /><br />
-In this sharing session, the use of multiple sensory play (i.e. visual, auditory, olfactory, gustatory and tactile) and scaffolding strategies (i.e. linguistics scaffolding, curriculum resources scaffolding and peer scaffolding) will be introduced. These will ignite children’s interest in learning Chinese, and enhance cognitive development, concentration and  creativity in children.
+Sparking children’s interest in Chinese Language through Storytelling
+Many children are used to speaking English at home and in school- so, what can parents do to spark their children’s interest in their Mother Tongue Language (MTL)? 
+Since the launch of “Storytime with Jiahui” in 2020, Jiahui has received much positive feedback and appreciatory messages from parents on how her storytelling has motivated their children to speak and learn MTL.<br /><br />
+In this session, Jiahui will share her experience on raising her 6-year-old to be effectively bilingual, and how to create a conducive environment for the learning of  MTL. She will also share tips on how to narrate stories in an animated and engaging manner that will  cultivate children’s interest in storytelling in Mandarin.
       </p></div>
     <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
