@@ -5,7 +5,7 @@ description: ""
 ---
 <head>
 <style>
-	.video-container {
+  .video-container {
   position: relative;
   width: 100%;
   overflow: hidden;
@@ -35,8 +35,8 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
-		.btn1,.btn2{
-	    font-size: 18px;
+    .btn1,.btn2{
+      font-size: 18px;
     font-family: KaiTi;
     background-color: #fa0;
     padding: 13px 13px;
@@ -44,14 +44,14 @@ description: ""
     text-align: center;
     display: block;
     margin-left: 26px;
-	}
-	@media only screen and (max-width: 600px){ 
-	.btn1,.btn2{
+  }
+  @media only screen and (max-width: 600px){ 
+  .btn1,.btn2{
    margin-left: -6px;
-	  padding: 1px 8px;
-	}
-	}
-	 .btn1:hover {
+    padding: 1px 8px;
+  }
+  }
+   .btn1:hover {
 background-color: lightgrey;!important;
 }
  .btn2:hover {
@@ -74,9 +74,9 @@ max-width:100%;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-			<a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
-		</td>
-			<td  style="border: none;
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+    </td>
+      <td  style="border: none;
   text-align: left;padding: 25px;width: 20%;">
 <a href="/english-session" style="float:right;">Back</a>
 </td>
@@ -87,20 +87,19 @@ max-width:100%;
     </div>
     <br />
 <div class="video-container">
-	<iframe class="responsive-iframe" src="https://player.vimeo.com/video/591940265?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=dd88c6938a" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  <iframe class="responsive-iframe" src="https://player.vimeo.com/video/591940265?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=dd88c6938a" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
 *Video is best viewed in 1080p.<br />
     <div class="elimg">
-    <img src="/images/EL-Leher Singh.png" style="width:30%" />
+    <img src="/images/EL-Rilla.png" style="width:30%" />
    </div>
-      <p> <strong> A/P  Leher Singh</strong>
+      <p> <strong>Ms Rilla Melati Bte Bahri</strong>
 </p>
   <h4  id="C1" style="padding-top:12px;margin:10px;color:#fa0;">Raising Bilingual Children: Challenges, Opportunities and Strategies for Success</h4>
-       <p><h4 style="padding-top:12px;margin:10px;color:#fa0;">Profile</h4></p>
-       <p style="margin:10px;">A/P Leher Singh is an Associate Professor of Psychology at the National University of Singapore. She directs the NUS Infant and Child Language Centre. Her research focuses on the impact of bilingualism on language acquisition, social development and cognitive growth in young children. She has published more than 50 research articles on bilingual development and conducts research on how language in bilingual children differs from that of monolingual peers.</p>
+       <p><h4 style="padding-top:12px;margin:10px;color:#fa0;font-family:Lato,sans-serif;">Profile</h4></p>
+       <p style="margin:10px;">Rilla Melati is a pioneer of Malay Speech & Drama programmes in schools in Singapore, fusing education and entertainment into one. She has authored over 25 children’s picture books and is a two-time winner of the Aungerah Persuratan (Children’s Literature Category). A co-creator of Fonik Ria Cepat Membaca, a Singapore-made Malay reading system, and translator of the Malay edition of SR Nathan’s The Crane & The Crab, Rilla’s bilingual book Baju Melayu Ati was a recipient of the Lee Kuan Yew Fund for Bilingualism in 2013. She is presently the Director of Mini Monsters Limited, an educational company committed to producing cross-media creative content for children.</p>
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#fa0;">Synopsis</h4>
-<p style="margin:10px;">Raising children bilingually opens them to tremendous opportunities and is crucial to our children’s academic success. At the same time, families often experience challenges in deciding on a pathway to bilingualism and are often confronted with conflicting advice. Many parents also report high levels of stress and anxiety around Mother Tongue Language learning. <br /><br />
-        What does science say about how best to raise a bilingual child? This sharing session will focus on how bilingualism can be expected to impact a child’s development, as well as some of the common challenges that parents face and research-based strategies to support bilingualism in young children.
+<p style="margin:10px;font-family:Lato,sans-serif;">Whilst much of the creative content for children today is explicitly produced with education in mind, other content treats education as a secondary purpose, or even as merely incidental. However, with the growing popularity of new media among the present generation of children, the lines between education and entertainment become blurred. So, what then is the role of edutainment as a tool for language learning? Can it be used to effectively engage and encourage children to speak in the Mother Tongue Language (MTL)? Join in the discussion to explore the merits of edutainment as a learning tool to help the reluctant MTL speaker.
 </p>  
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
