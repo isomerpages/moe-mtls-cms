@@ -3,7 +3,36 @@ title: Menyemai cinta akan Bahasa Ibunda!
 permalink: /ml-Lee-Kuan-Yew-Fund-for-Bilingualism-Synopsis
 description: ""
 ---
-<h4 style="font-size: 35px;font-family: KaiTi;padding-top:12px;margin:10px;color: #a3c864;">Menyemai cinta akan Bahasa Ibunda!</h4>
+<style>
+   .btntop {
+    position: fixed;
+    float: right;
+    bottom: 20px;
+    right: 80px;
+    z-index: 99;
+    boder: none;
+    background-color: #3bb9ff;
+    cursor: pointer;
+    padding: 15px;
+    boder-radius: 4px;
+    color: #fff;
+    font-weight: 600;
+}
+  .backbtn{
+   margin-left: -100px;
+   border: none;
+  text-align: left;
+  width: 20%;
+  font-family:Lato,sans-serif;
+  } 
+@media only screen and (max-width: 600px) {
+.backbtn {
+   margin-left: 6px;
+  }
+}
+</style>
+<a href="/exhibits/melayu-malay-language-exhibitions-e/community-partners/" style="float:left;" class="backbtn">Back</a><br>
+<h4 style="font-size: 35px;font-family: Lato,sans-serif;padding-top:12px;margin:10px;color: #a3c864;">Menyemai cinta akan Bahasa Ibunda!</h4>
 <p style="font-size: 20px;font-family: Lato,sans-serif;">Penubuhan Dana Kedwibahasaan Lee Kuan Yew telah diumumkan sewaktu pelancaran buku Encik Lee Kuan Yew, “My Lifelong Challenge: Singapore’s Bilingual Journey” pada tahun 2011.</p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;">Dana ini menyokong pendekatan-pendekatan menarik dan kreatif yang boleh menggalakkan kedwibahasaan dan pembelajaran Bahasa Ibunda sebagai bahasa yang hidup. </p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;">Dengan menyokong pelbagai bahan dan program pembelajaran, Dana ini berperanan sebagai pemangkin pembelajaran dan penggunaan Bahasa Ibunda.</p>
@@ -12,3 +41,4 @@ description: ""
 <p  style="font-size: 20px;font-family:Lato,sans-serif;">The Fund supports creative and engaging approaches that encourage bilingualism and the learning of Mother Tongue Languages (MTLs) as living languages.</p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;">The Fund acts as a catalyst in the learning and usage of MTLs through various Fund-supported resources, events and programmes.</p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;">Fun and interesting resources that support the learning of MTLs for young children can be accessed through social media platforms such as the Fund’s YouTube channel, Facebook and Instagram.</p>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
