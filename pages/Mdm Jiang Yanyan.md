@@ -93,7 +93,7 @@ max-width:30%;
 *Video is best viewed in 1080p.<br />
     <div class="climg">
   <div class="column">
-    <img src="#" style="width:100%" />
+    <img src="/images/CL-Mdm-Jiang-Yanyan.jpg" style="width:100%" />
   </div>
      <p style="font-family:Lato,sans-serif;"> <strong>Mdm Jiang Yanyan  </strong><br/>
    <strong> <span style="font-size:22px;font-family:KaiTi;">姜嫣嫣</span></strong><br />
