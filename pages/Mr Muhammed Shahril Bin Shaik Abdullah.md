@@ -37,7 +37,7 @@ description: ""
 }
 		.btn1,.btn2{
 	    font-size: 18px;
-    font-family: KaiTi;
+    font-family: Lato,sans-serif;
     background-color: #a3c864;
     padding: 13px 13px;
     border-radius: 6px;
