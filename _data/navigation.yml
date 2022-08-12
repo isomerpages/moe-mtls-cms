@@ -17,8 +17,8 @@ links:
         url: /tamil-session
       - title: Register Now
         url: /register-now
-   - title: Exhibits
-     url: /exhibits/overview/overview
+  - title: Exhibits
+    url: /exhibits/overview/overview
     sublinks:
       - title: Overview
         url: /exhibits/overview/overview
