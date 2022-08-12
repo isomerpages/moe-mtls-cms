@@ -5,7 +5,7 @@ description: ""
 ---
 <head>
 <style>
-	.video-container {
+  .video-container {
   position: relative;
   width: 100%;
   overflow: hidden;
@@ -21,7 +21,6 @@ description: ""
   height: 100%;
   border: none;
 }
-
 .btntop {
     position: fixed;
     float: right;
@@ -36,8 +35,8 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
-		.btn1,.btn2{
-	    font-size: 18px;
+    .btn1,.btn2{
+      font-size: 18px;
     font-family: KaiTi;
     background-color: #a3c864;
     padding: 13px 13px;
@@ -45,14 +44,14 @@ description: ""
     text-align: center;
     display: block;
     margin-left: 26px;
-	}
-	@media only screen and (max-width: 600px){ 
-	.btn1,.btn2{
+  }
+  @media only screen and (max-width: 600px){ 
+  .btn1,.btn2{
    margin-left: -6px;
-	  padding: 1px 8px;
-	}
-	}
-	 .btn1:hover {
+    padding: 1px 8px;
+  }
+  }
+   .btn1:hover {
 background-color: lightgrey;!important;
 }
  .btn2:hover {
@@ -78,9 +77,9 @@ max-width:30%;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-			<a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
-		</td>
-			<td  style="border: none;
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+    </td>
+      <td  style="border: none;
   text-align: left;padding: 25px;width: 20%;">
 <a href="/malay-session" style="float:right;">Back</a>
 </td>
@@ -91,31 +90,34 @@ max-width:30%;
     </div>
     <br />
 <div class="video-container">
-	<iframe class="responsive-iframe" src="https://player.vimeo.com/video/594996053?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=d5daed0d43" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  <iframe class="responsive-iframe" src="https://player.vimeo.com/video/594996053?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=d5daed0d43" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
 *Video is best viewed in 1080p.<br />
     <div class="mlimg">
      <div class="column">
-<img src="/images/Speakers_ML Nurashikin Jasni.png" style="width:100%" />
+<img src="/images/ML-Mr-MUHAMAD-SHAHZULHARI-BIN-JOHARI.png" style="width:100%" />
    </div>
-     <p><strong>Mdm Nurashikin Jasni</strong><br />
+     <p style="font-family:Lato,sans-serif;"><strong>Muhamad Shahzulhari Bin Johari</strong><br />
  </p>
-<h4 id="C1" style="color:#a3c864;">Profil</h4> 
-       <p>Puan Nurashikin Jasni atau lebih dikenali dengan panggilan Nura J, pernah bertugas sebagai guru sekolah rendah dan personaliti TV. Kini, beliau bertugas sebagai agen hartanah dengan Propnex dan juga pengasas Pearlista; salun rambut khas wanita. Puan Nura J juga telah menulis dua buah buku bersama anak perempuan beliau, Nyla Esman yang berjudul "The Big Good Wolf" dan "Chickchickaboomz". Pada 2018, beliau menulis "Leia dan Oumar Berhari Raya" bersama rakan baik beliau, Umie Isa. Beliau gemar membaca dan sering mengunjungi perpustakaan dan membaca bersama anak-anak beliau. Puan Nura J percaya bahawa membaca dapat mengekalkan minda yang sihat, membina daya imaginasi yang tinggi dan menajamkan fikiran.</p>
-			<h4 id="C2" style="color:#a3c864;">Sinopsis</h4> 
-      <h4 style="color:#a3c864;">Pembelajaran Bahasa Melayu yang Menarik untuk Kanak-kanak</h4>
-      <p> Ibu bapa merupakan guru pertama anak-anak. Justeru, Puan Nura J yang gemar membaca dan penyokong kegiatan membaca, telah mendedahkan anak-anak beliau kepada pelbagai genre buku cerita bahasa Melayu termasuklah buku yang ditulis dalam bahasa Indonesia. Beliau meluangkan masa sekurang-kurangnya tiga kali seminggu untuk membacakan buku bahasa Melayu kepada anak-anak beliau sebelum mereka tidur. Beliau percaya bahawa membaca dapat memperluas kosa kata mereka. Melalui sesi ini, Puan Nura J akan berkongsi cara mudah beliau menyediakan persekitaran yang menyeronokkan bagi anak-anak beliau belajar dan menggunakan bahasa Melayu.
-</p>
+     <div class="column">
+<img src="/images/ML-Mr-AIRI-BIN-BUJANG.png" style="width:100%" />
+   </div>
+     <p style="font-family:Lato,sans-serif;"><strong>Airi Bin Bujang</strong><br />
+ </p>
+ <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Dari Cetak ke Layar: Memanfaatkan Penggunaan Video untuk Menjana Minat Murid terhadap Bahasa</h4>
+<h4 id="C1" style="color:#a3c864;font-family:Lato,sans-serif;">Profil</h4> 
+       <p style="font-family:Lato,sans-serif;">Cikgu Shahzulhari mempunyai pengalaman mengajar lebih 15 tahun. Sepanjang kerjayanya, beliau telah menyertai pelbagai sesi perkongsian dan sesi persidangan di Singapura untuk memperkaya pengalaman mengajarnya. Beliau gemar menggabungkan penggunaan video atau gambar dalam pengajaran demi menghidupkan minat dan menarik perhatian murid-muridnya semasa pembelajaran bahasa Melayu. </p>
+       <p style="font-family:Lato,sans-serif;">Cikgu Airi Bujang pula mempunyai pengalaman mengajar Bahasa Melayu lebih 12 tahun. Beliau seorang guru yang bersemangat waja dan sangat berdedikasi dalam meningkatkan keyakinan para murid. Cikgu Airi sedang giat mendalami aspek pemikiran dan cara membantu para murid melalui pendekatan ini.</p>
+        <h4  id="C2" style="color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
+      <p style="font-family:Lato,sans-serif;">Pelbagai penyelidikan yang dijalankan di serata dunia telah membuktikan bahawa membaca amat perlu untuk pemerolehan dan kecekapan berbahasa. Namun, ramai pelajar kurang memberikan penekanan terhadap hal ini dan ini mengakibatkan mereka menghadapi kesukaran untuk memperoleh kecekapan berbahasa Melayu. 
+Dengan memanfaatkan kecenderungan pelajar menonton video, kita boleh menggalakkan pelajar untuk minat membaca.Pendekatan ini juga akan meningkatkan kesedaran mereka tentang norma-norma budaya dan isu-isu kemasyarakatan. Ini akan memberikan kesan yang positif kepada minat pelajar terhadap subjek tersebut. Perkongsian ini akan memperlihatkan cara video boleh digunakan sebagai alat pengajaran untuk menggalakkan pembacaan dan minat terhadap bahasa Melayu sebagai pembelajaran sepanjang hayat. Dalam perkongsian ini, para peserta akan dapat melihat cara projek ini membantu para pelajar dalam aspek pembelajaran yang lain di samping merangsang minat untuk membaca. </p>
      <h4 style="color:#a3c864;">Profile</h4>   
-       <p>Mdm Nurashikin Jasni, also known as Nura J, is a former primary school teacher and TV personality. She is currently a realtor with Propnex and the founder of Pearlista, an all-ladies hair salon.
+       <p style="font-family:Lato,sans-serif;">Mr Shah has more than 15 years of experience of teaching the Malay Language. Throughout the years, he has presented in various local sharing sessions and participated in conferences that have enriched his teaching experiences. He enjoys using videos or images to make the learning of the language enjoyable for students. </p>
+<p style="font-family:Lato,sans-serif;">With over 12 years of experience in Malay Language education, Mr Airi Bujang is an effective Malay Language teacher who has taught across all levels. He is especially committed to motivating low-progress students through pastoral care and is currently carrying out active learning and reflection on how the brain works in his continuing pursuit to help them.</p>
+  <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
+     
+  <p style="font-family:Lato,sans-serif;">Numerous research studies conducted worldwide have shown that reading is indispensable to language acquisition and proficiency. However, many students do not see its importance, and this  results in them facing difficulties in acquiring  proficiency in Malay. 
 </p>
-
-<p>As a local author, Mdm Nurashikin Jasni has co-written “The Big, Good Wolf” and “Chickchickaboomz” with her daughter Nyla Esman, and also co-written “Leia dan Oumar Berhari Raya” with her good friend, Umie Isa.</p>
-<p>A reading advocate who visits the National Library often and loves reading with her children, she firmly believes that reading keeps minds healthy, imaginative and sharp.</p>
-  <h4 style="color:#a3c864;">Synopsis</h4> 
-        <h4 style="color:#a3c864;">Learning Malay in a Fun Way for Our Children</h4>
-  <p>Parents are their children’s first teachers. As a reading advocate, Mdm Nurashikin Jasni believes that reading will widen children’s vocabulary, and exposes her children to different genres of Malay storybooks, including books written in Indonesian vernacular language. She reads Malay books to her children at least thrice a week at bedtime.
-</p>
-<p>Through this session, participants will gain insight into how Mdm Nurashikin Jasni creates a fun environment for her children to learn and use Malay effectively, and with ease. </p></div>
+<p style="font-family:Lato,sans-serif;">Students’ interest in watching videos can be leveraged to reignite and encourage  students’  interest in reading, . This approach will also raise students’ awareness of cultural norms and societal issues so as  to positively impact their feelings about  the Malay language. This sharing will provide educators with insight into how videos can be used as a teaching tool to promote reading and facilitate life-long learning of the language. There will also be a sharing on how the project has aided students in other areas of learning and the cognitive aspects behind using videos as a teaching tool. </p></div>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
