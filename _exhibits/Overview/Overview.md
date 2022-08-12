@@ -61,5 +61,4 @@ background-color: lightgrey;!important;
 <a href="/exhibits/tmail-exhibitions-a/tl-overview"> <div style="display:inline-block; font-family:Anjal New InaiMathi Sch Book;;font-size:25px;" class="btnClass1">தமிழ்மொழிக் காட்சிக்கூடம்</div></a>
   </div></div>
   <p style="font-family:Lato,sans-serif;font-size:18px;">Let us know how you feel about MTLS 2022!</p>
-  <img src="/images/feedback.jpg">
   <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
