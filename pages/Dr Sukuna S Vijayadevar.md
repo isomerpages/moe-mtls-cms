@@ -92,7 +92,7 @@ max-width:30%;
 <br />
      <div class="tlimg">
   <div class="column">
-<img src="//images/TL-Dr-Sukuna.png" style="width:100%" />
+<img src="/images/TL-Dr-Sukuna.png" style="width:100%" />
    </div>
     <p style="font-family:Lato,sans-serif;"><strong>Dr Sukuna S Vijayadevar</strong><br/>
       <span style="font-family:Anjal InaiMathi;"> <strong>முனைவர் சுகுணா விஜயதேவர்</strong></span><br />
