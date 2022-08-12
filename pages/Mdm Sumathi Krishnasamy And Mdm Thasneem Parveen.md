@@ -5,7 +5,7 @@ description: ""
 ---
 <head>
 <style>
-	.video-container {
+  .video-container {
   position: relative;
   width: 100%;
   overflow: hidden;
@@ -35,23 +35,23 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
-		.btn1,.btn2{
-	    font-size: 18px;
-    font-family: KaiTi;
+    .btn1,.btn2{
+      font-size: 18px;
+    font-family: Lato,sans-serif;
     background-color:  #9b4490;
     padding: 13px 13px;
     border-radius: 6px;
     text-align: center;
     display: block;
     margin-left: 26px;
-	}
-	@media only screen and (max-width: 600px){ 
-	.btn1,.btn2{
+  }
+  @media only screen and (max-width: 600px){ 
+  .btn1,.btn2{
    margin-left: -6px;
-	  padding: 1px 8px;
-	}
-	}
-	 .btn1:hover {
+    padding: 1px 8px;
+  }
+  }
+   .btn1:hover {
 background-color: lightgrey;!important;
 }
  .btn2:hover {
@@ -71,15 +71,15 @@ max-width:30%;
 </style>
 </head>
 <body>
-	<table>
+  <table>
   <tr>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-			<a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
-		</td>
-			<td  style="border: none;
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+    </td>
+      <td  style="border: none;
   text-align: left;padding: 25px;width: 20%;">
 <a href="/tamil-session" style="float:right;">Back</a>
 </td>
@@ -90,31 +90,37 @@ max-width:30%;
     </div>
     <br />
 <div class="video-container">
-	<iframe class="responsive-iframe" src="https://player.vimeo.com/video/593644601?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=53eb00b951" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-</div>
+  <iframe class="responsive-iframe" src="https://player.vimeo.com/video/593644601?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=53eb00b951" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe></div>
 *Video is best viewed in 1080p.<br />
      <div class="tlimg">
   <div class="column">
-<img src="/images/Speakers_TL Bharathi Rani Arunachalam.png" style="width:100%" />
+<img src="#" style="width:100%" />
    </div>
-    <p><strong>Ms Bharathi Rani Arunachalam</strong><br />
+    <p style="font-family:Lato,sans-serif;"><strong>Mdm Sumathi Krishnasamy </strong><br/>
+      <span style="font-family:Anjal InaiMathi;"> <strong>திருமதி சுமதி</strong><br />
+   </p>
+    <div class="column">
+<img src="#" style="width:100%" />
+   </div>
+    <p style="font-family:Lato,sans-serif;"><strong>Mdm Thasneem Parveen D/O Sirazudeen </strong><br/>
+      <span style="font-family:Anjal InaiMathi;"> <strong>திருமதி தஸ்னீம் பர்வீன்</strong><br />
    </p>
     <h4 id="C1" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தன்விவரம்</h4>
  <p style="margin:10px;font-family:Anjal InaiMathi;">
-  குமாரி பாரதி நீ ஆன் பலதுறைக் கல்லூரியில் மனிதநேயம் மற்றும் சமூக அறிவியல் பிரிவில் விரிவுரையாளராகப்  பணியாற்றிவருகிறார். இவர் ஆங்கிலத்திலும் தமிழிலும் வகுப்புகள் நடத்திவருகிறார். இவர் ஊடகத் துறையில் பல ஆண்டுகள் பணியாற்றிய அனுபவமிக்கவர். இவர் நன்யாங் தொழில்நுட்பப் பல்கலைக்கழகத்தில் தகவல் தொடர்புத் துறையில் முதுகலைப் பட்டம்பெற்றுள்ளார். 
+ திருமதி சுமதி ஹொராய்சன் தொடக்கப்பள்ளியில் மூத்த ஆசிரியராகப் பணிபுரிகிறார். இவர் 25 வருட காலமாகக் கற்பித்தல் துறையில் தம் பங்கை ஆற்றி வருகிறார். 2018-ஆம் ஆண்டில் இவருக்கு நல்லாசிரியருக்கான விருது வழங்கப்பட்டது. இவர் தற்போது N4 குழுமத்தின் தலைவராகவும் வட்டாரக் குழுமத்தின் ஓர் உறுப்பினராகவும் இருந்து வருகிறார். இவர் MOE ExcelFest, தாய்மொழிகளின் கருத்தரங்கு, உலகத் தமிழாசிரியர் மாநாடுகள், ஆசிரியர் வழிநடத்தும் பயிலரங்குகள், தமிழ்மொழி வலையரங்கம் போன்றவற்றில் பகிர்வுகள் நடத்தியுள்ளார்.
 </p>
+<p style="margin:10px;font-family:Anjal InaiMathi;">திருமதி தஸ்னீம் ஹொராய்சன் தொடக்கப்பள்ளியில் இரண்டு வருடக் காலமாகத் தமிழாசிரியராகப் பணிபுரிகிறார். இவர் சுமார் 8 வருடங்களாக உதவி ஆசிரியராகவும் பணியாற்றி வந்தார். இவர் ஆசிரியர் வழிநடத்தும் பயிலரங்கில் பகிர்வு நடத்தியுள்ளார்.  வாழ்நாள் கற்றலை மனத்தில் கொண்டு, இவர் தற்போது தமிழ்மொழி மற்றும் இலக்கியம் ஆகியவற்றில் தமது பட்டக்கல்வியை மேற்கொண்டு வருகிறார். தமிழுக்கும் தமது மாணவர்களுக்கும் தம்மால் தொடர்ந்து சேவையாற்ற முடியும்  என்று இவர் திண்ணமாக நம்புகிறார்.</p>
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">சுருக்கவுரை</h4>
-     <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">பிள்ளைகள் வீட்டிலும் பள்ளியிலும் தாய்மொழியில் உரையாடுவதை ஊக்குவிப்போம்! </h4>
        <p style="margin:10px;font-family:Anjal InaiMathi;">
- பிள்ளைகளிடையே தமிழ்மொழி ஆர்வத்தை நிலைபெறச்செய்ய ஊக்குவிக்கும் வகையில் கதை, பாடல், விளையாட்டு, பாகமேற்று நடித்தல் முதலிய வழிமுறைகளைப் பயன்படுத்துவது அவசியம். பிள்ளைகளின் தமிழ்மொழி ஆர்வத்தைத் தூண்டுவதற்குரிய பல உத்திமுறைகளை இப்பகிர்வரங்கில் அறிந்துகொள்ளலாம். பொருத்தமான நடவடிக்கைகளைப் புத்தாக்கம் மிகுந்த வகையில் பயன்படுத்திப் பிள்ளைகளுக்குத் தாய்மொழி கற்றலுக்கான உகந்த சூழலை  அமைக்கும் வழிமுறைகளைப் பெற்றோர்களும் ஆசிரியர்களும் இப்பகிர்வில் அறிந்துகொள்ளலாம். மேலும், தமிழ்மொழி  கற்றலுக்கு உகந்த iOS செயலிகளைப் பற்றியும் இதில் பகிர்ந்துகொள்ளப்படும்.
+ விளையாட்டுவழி மொழியைக் கற்பிக்கும்போது, கற்றல் மாணவர்களுக்கு இனிமையாக அமைவதோடு அதற்கான உந்துதலையும் ஏற்படுத்துகின்றது என்பது கல்வியாளர்களின் பொதுவான கருத்தாகும். விளையாட்டுவழிக் கற்கும்போது மகிழ்வுமிக்க கற்றல் சூழல் அமைகிறது. மாணவர்களின் ஆர்வத்தைத் தூண்டும் வகையில் வடிவமைக்கப்படும் விளையாட்டுகள் அவர்களைச் சுய கற்றலில் ஈடுபடுத்துவதோடு அவர்களின் படைப்பாக்கத் திறனையும் வளர்க்க துணைபுரிகின்றன. ஆகவே, தமிழ்மொழியை மாணவர்களின் மனத்தில் ஆழப் பதிய வைக்க அச்சுறுத்தலற்ற சூழலில்விளையாட்டு முறைகளைப் பயன்படுத்திப் பாடங்களைக் கற்பிக்க வேண்டும். 
 </p>
+<p style="margin:10px;font-family:Anjal InaiMathi;">விளையாட்டுவழிக் கற்றலை நிகழ்த்துவதற்கான பாட நோக்கத்தையும் கற்றல் வளங்களையும் ஆசிரியர்கள் திட்டமிட்டு உருவாக்க வேண்டும். அந்த வகையில் தமிழ்மொழிவகுப்பில் விளையாட்டைக்கொண்டு எப்படிக் கற்பிக்கலாம் என்பதை இந்தப் பகிர்வரங்கில் அறிந்துகொள்ளலாம். மேலும், பேச்சுவழிக் கருத்துப்பரிமாற்றத் திறனையும் மொழித்திறனையும் குறிப்பாக ஒலி வேறுபாட்டுச் சொற்களின் பயன்பாட்டைமேம்படுத்தச் சில கற்பித்தல் முறைகளையும் அறிந்துகொள்ளலாம். நம் வகுப்பறையில் வெவ்வேறு நிலைகளில் இருக்கும் மாணவர்களுக்கு இம்மொழித்திறனை வளர்க்க எத்தகைய ஆதரவை வழங்கலாம் என்பதைப் பற்றியும் அறிந்துகொள்ளலாம்.</p>
       <br />
-        <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Profile</h4>
-       <p style="margin:10px;">Ms Bharathi Rani Arunachalam is a lecturer at Ngee Ann Polytechnic, School of Humanities &amp; Social Sciences in both English and Tamil. With a master’s degree in mass communication from Nanyang Technological University, she is also a speech and drama trainer who boasts a wealth of experience in the broadcast media industry as an actor, host, radio jockey, and voiceover artist.</p>
+        <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Profile</h4>
+       <p style="margin:10px;font-family:Lato,sans-serif;">Mrs Sumathi is a Senior Teacher- Tamil Language at Horizon Primary School and has been serving the teaching fraternity for 25 years. She received the Most Inspiring Tamil Teachers’ Award in 2018. She is also heading the N4 CoP Tamil Language and serves as the Tamil Language Cluster Representative for North Zone schools. She has conducted sharing sessions at the MOE ExcelFest, MTL Symposium, the World Tamil Teachers’ Conference, Teacher-Led Workshops (TLWs) and TL Webinar at the Academy of Singapore Teachers (AST). </p>
+       <p style="margin:10px;font-family:Lato,sans-serif;">TMdm Thasneem has 2 years of experience in Tamil Language teaching. She was serving as an Allied Educator for more than 8 years and conducted a TLW session in 2021. As a part of her efforts to promote lifelong learning, she is currently pursuing her Degree in Tamil Language and Literature.</p>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
-         <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Strategies to Encourage Children to Speak in MTL at Home &amp; in School</h4> 
-       <p style="margin:10px;">
-To keep the Tamil language alive, our children need to be encouraged to love the language through stories, songs, games and role-play. This workshop will explore how parents and educators can tap into activities creatively to provide a rich language environment for children both in and beyond the classroom. In addition,Tamil Language teachers can also find out more about some useful iOS applications.
-      </p></div>
+       <p style="margin:10px;font-family:Lato,sans-serif;">Educators across the nation have long professed the importance of learning through play. By enhancing the teaching of language through play, learning becomes pleasant, which then motivates students to learn. Learning through play not only creates a joyful learning environment, stimulating games also enable students to become self-directed learners and enhance their creativity. It is therefore important to infuse strategies for learning through play in a non-threatening environment so as to etch Tamil Language lessons deeply in the hearts of our students. </p>
+       <p style="margin:10px;font-family:Lato,sans-serif;">To facilitate learning through play, teachers must decide on lesson objectives, design lesson plans and devise resources. Through this session, participants will learn to infuse games into the teaching of the Tamil Language. Participants will learn more about lesson ideas to enhance students’ interactive conversational skills and vocabulary (with a particular focus on synonyms). They will also learn to design games to cater to the different learning needs of the students.</p></div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
