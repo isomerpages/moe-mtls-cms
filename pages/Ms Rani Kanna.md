@@ -92,7 +92,7 @@ max-width:30%;
 <br />
      <div class="tlimg">
   <div class="column">
-<img src="#" style="width:100%" />
+<img src="/images/TL-Ms-Rani-Kanna.png" style="width:100%" />
    </div>
     <p style="font-family:Lato,sans-serif;"><strong>Rani Kanna </strong><br/>
       <span style="font-family:Anjal InaiMathi;"> <strong>திருமதி ராணி கண்ணா</strong></span><br />
