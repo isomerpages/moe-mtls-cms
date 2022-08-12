@@ -5,7 +5,7 @@ description: ""
 ---
 <head>
 <style>
-	.video-container {
+  .video-container {
   position: relative;
   width: 100%;
   overflow: hidden;
@@ -35,23 +35,23 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
-		.btn1,.btn2{
-	    font-size: 18px;
-    font-family: KaiTi;
+    .btn1,.btn2{
+      font-size: 18px;
+    font-family: Lato,sans-serif;;
     background-color: #a3c864;
     padding: 13px 13px;
     border-radius: 6px;
     text-align: center;
     display: block;
     margin-left: 26px;
-	}
-	@media only screen and (max-width: 600px){ 
-	.btn1,.btn2{
+  }
+  @media only screen and (max-width: 600px){ 
+  .btn1,.btn2{
    margin-left: -6px;
-	  padding: 1px 8px;
-	}
-	}
-	 .btn1:hover {
+    padding: 1px 8px;
+  }
+  }
+   .btn1:hover {
 background-color: lightgrey;!important;
 }
  .btn2:hover {
@@ -77,9 +77,9 @@ max-width:30%;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-			<a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
-		</td>
-			<td  style="border: none;
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+    </td>
+      <td  style="border: none;
   text-align: left;padding: 25px;width: 20%;">
 <a href="/malay-session" style="float:right;">Back</a>
 </td>
@@ -90,30 +90,28 @@ max-width:30%;
     </div>
     <br />
 <div class="video-container">
-	<iframe class="responsive-iframe" src="https://player.vimeo.com/video/594996053?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=d5daed0d43" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  <iframe class="responsive-iframe" src="https://player.vimeo.com/video/594996053?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=d5daed0d43" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
 *Video is best viewed in 1080p.<br />
     <div class="mlimg">
      <div class="column">
-<img src="/images/Speakers_ML Nurashikin Jasni.png" style="width:100%" />
+<img src="
+/images/ML-Mdm-Nurain-Syakirah.png" style="width:100%" />
    </div>
-     <p><strong>Mdm Nurashikin Jasni</strong><br />
+     <p style="font-family:Lato,sans-serif;"><strong>Nurain Syakirah Binte Nordin
+     </strong>
  </p>
-<h4 id="C1" style="color:#a3c864;">Profil</h4> 
-       <p>Puan Nurashikin Jasni atau lebih dikenali dengan panggilan Nura J, pernah bertugas sebagai guru sekolah rendah dan personaliti TV. Kini, beliau bertugas sebagai agen hartanah dengan Propnex dan juga pengasas Pearlista; salun rambut khas wanita. Puan Nura J juga telah menulis dua buah buku bersama anak perempuan beliau, Nyla Esman yang berjudul "The Big Good Wolf" dan "Chickchickaboomz". Pada 2018, beliau menulis "Leia dan Oumar Berhari Raya" bersama rakan baik beliau, Umie Isa. Beliau gemar membaca dan sering mengunjungi perpustakaan dan membaca bersama anak-anak beliau. Puan Nura J percaya bahawa membaca dapat mengekalkan minda yang sihat, membina daya imaginasi yang tinggi dan menajamkan fikiran.</p>
-        <h4 id="C2" style="color:#a3c864;">Sinopsis</h4> 
-      <h4 style="color:#a3c864;">Pembelajaran Bahasa Melayu yang Menarik untuk Kanak-kanak</h4>
-      <p> Ibu bapa merupakan guru pertama anak-anak. Justeru, Puan Nura J yang gemar membaca dan penyokong kegiatan membaca, telah mendedahkan anak-anak beliau kepada pelbagai genre buku cerita bahasa Melayu termasuklah buku yang ditulis dalam bahasa Indonesia. Beliau meluangkan masa sekurang-kurangnya tiga kali seminggu untuk membacakan buku bahasa Melayu kepada anak-anak beliau sebelum mereka tidur. Beliau percaya bahawa membaca dapat memperluas kosa kata mereka. Melalui sesi ini, Puan Nura J akan berkongsi cara mudah beliau menyediakan persekitaran yang menyeronokkan bagi anak-anak beliau belajar dan menggunakan bahasa Melayu.
-</p>
-     <h4 style="color:#a3c864;">Profile</h4>   
-       <p>Mdm Nurashikin Jasni, also known as Nura J, is a former primary school teacher and TV personality. She is currently a realtor with Propnex and the founder of Pearlista, an all-ladies hair salon.
-</p>
-<p>As a local author, Mdm Nurashikin Jasni has co-written “The Big, Good Wolf” and “Chickchickaboomz” with her daughter Nyla Esman, and also co-written “Leia dan Oumar Berhari Raya” with her good friend, Umie Isa.</p>
-<p>A reading advocate who visits the National Library often and loves reading with her children, she firmly believes that reading keeps minds healthy, imaginative and sharp.</p>
-  <h4 style="color:#a3c864;">Synopsis</h4> 
-        <h4 style="color:#a3c864;">Learning Malay in a Fun Way for Our Children</h4>
-  <p>Parents are their children’s first teachers. As a reading advocate, Mdm Nurashikin Jasni believes that reading will widen children’s vocabulary, and exposes her children to different genres of Malay storybooks, including books written in Indonesian vernacular language. She reads Malay books to her children at least thrice a week at bedtime.
-</p>
-<p>Through this session, participants will gain insight into how Mdm Nurashikin Jasni creates a fun environment for her children to learn and use Malay effectively, and with ease. </p></div>
+ <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Memperkenalkan Literasi Bahasa Melayu melalui Bercerita
+ </h4>
+<h4 id="C1" style="color:#a3c864;font-family:Lato,sans-serif;">Profil</h4> 
+       <p style="font-family:Lato,sans-serif;">Puan Nurain Syakirah atau lebih dikenali sebagai Teacher Ain berkelulusan dalam bidang Pendidikan Awal Kanak-Kanak dan mempunyai pengalaman selama 10 tahun sebagai guru prasekolah. Beliau percaya bahawa sebagai seorang guru, beliau mempunyai peranan penting untuk mempermudah pembelajaran melalui permainan yang terarah. Bercerita merupakan salah satu peluang pembelajaran yang paling baik untuk menyokong perkembangan kanak-kanak pada tahun-tahun awal mereka.  Puan Ain percaya bahawa melalui penceritaan, setiap kanak-kanak mampu belajar apabila diberikan peluang yang sesuai dengan kekuatan dan keperluan perkembangan mereka.</p>
+        <h4  id="C2" style="color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
+      <p style="font-family:Lato,sans-serif;">Sesi perkongsian interaktif ini, menyediakan peluang untuk ibu bapa melibatkan diri dalam aktiviti-aktiviti mudah yang boleh dilakukan di rumah untuk memupuk minat dalam pembelajaran bahasa Melayu anak-anak mereka, seperti bercerita. Sesi ini juga menggalakkan ibu bapa untuk membinca asas Bahasa Melayu dan kemahiran literasi anak-anak mereka di samping mendedahkan mereka pada budaya Melayu pada usia yang muda lagi. Penggunaan bahasa Melayu dalam kehidupan harian dapat mengukuhkan ikatan keluarga dan membolehkan kanak-kanak menaakul interaksi mereka sesama rakan sebaya, orang dewasa dan bahan teks Melayu.  Perkongsian ini akan mendedahkan ibu bapa kepada cara membentuk kecekapan dan keyakinan anak-anak mereka untuk mendengar dan bertutur dalam bahasa Melayu. Membaca buku secara lantang kepada kanak-kanak dapat merangsang imaginasi dan meluaskan pemahaman kanak-kanak tentang dunia di samping membina kemahiran mendengar, bertutur dan membaca dengan memahami.</p>
+     <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Profile</h4>   
+       <p style="font-family:Lato,sans-serif;">Nurain Syakirah, better known as Teacher Ain, holds a degree in Early Childhood Education and has 10 years of experience as a pre-school teacher. She believes that as a teacher, she has an important role in facilitating learning through purposeful play. Storytelling is one of the learning opportunities that best support the children’s developmental milestones in their early years. Teacher Ain believes that through stories, every child is capable of learning when offered opportunities that match their developmental strengths and needs.</p>
+  <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
+     <p style="font-family:Lato,sans-serif;">Hands-on experiences help to feed the natural curiosity of young children while supporting the development of essential skills including understanding and communication. Using literature as a basis in acquiring language in children, how can we make these experiences more relevant and interesting so as to entice children into learning Malay Language? </p>
+     <p style="font-family:Lato,sans-serif;">This interactive sharing session creates opportunities for parents to engage in simple activities such as storytelling that they can do at home to cultivate their children’s interest in learning Malay. This session also encourages parents to develop their children’s foundation in  the Malay Language and literacy skills from an early age as well as guiding them to an awareness of Malay  culture. Inculcating Malay into children’s daily lives strengthens family-bonds and enables children to make meaning from their interactions with peers, adults, and texts in Malay. This sharing will show parents how to build  children’s capacity and confidence to both listen attentively n and speak Malay. Reading books aloud to children stimulates their imagination and expands their understanding of the world whilst helping them to develop language and listening skills and better understand the texts./p>
+   </div>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
