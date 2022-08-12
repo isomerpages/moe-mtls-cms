@@ -93,7 +93,7 @@ max-width:30%;
 *Video is best viewed in 1080p.<br />
     <div class="climg">
   <div class="column">
-    <img src="#" style="width:100%" />
+    <img src="/images/CL-Mdm-Cheah-Sin-Wei.png" style="width:100%" />
   </div>
      <p style="font-family:Lato,sans-serif;"> <strong>Mdm Cheah Sin Wei  </strong><br/>
    <strong> <span style="font-size:22px;font-family:KaiTi;">谢欣薇 </span></strong><br />
