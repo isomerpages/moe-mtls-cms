@@ -5,7 +5,7 @@ description: ""
 ---
 <head>
 <style>
-	.video-container {
+  .video-container {
   position: relative;
   width: 100%;
   overflow: hidden;
@@ -35,23 +35,23 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
-		.btn1,.btn2{
-	    font-size: 18px;
-    font-family: KaiTi;
+    .btn1,.btn2{
+      font-size: 18px;
+    font-family: Lato,sans-serif;
     background-color:  #9b4490;
     padding: 13px 13px;
     border-radius: 6px;
     text-align: center;
     display: block;
     margin-left: 26px;
-	}
-	@media only screen and (max-width: 600px){ 
-	.btn1,.btn2{
+  }
+  @media only screen and (max-width: 600px){ 
+  .btn1,.btn2{
    margin-left: -6px;
-	  padding: 1px 8px;
-	}
-	}
-	 .btn1:hover {
+    padding: 1px 8px;
+  }
+  }
+   .btn1:hover {
 background-color: lightgrey;!important;
 }
  .btn2:hover {
@@ -71,15 +71,15 @@ max-width:30%;
 </style>
 </head>
 <body>
-<table>
+  <table>
   <tr>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-			<a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
-		</td>
-			<td  style="border: none;
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+    </td>
+      <td  style="border: none;
   text-align: left;padding: 25px;width: 20%;">
 <a href="/tamil-session" style="float:right;">Back</a>
 </td>
@@ -90,31 +90,33 @@ max-width:30%;
     </div>
     <br />
 <div class="video-container">
-	<iframe class="responsive-iframe" src="https://player.vimeo.com/video/593644601?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=53eb00b951" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-</div>
+  <iframe class="responsive-iframe" src="https://player.vimeo.com/video/593644601?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=53eb00b951" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe></div>
 *Video is best viewed in 1080p.<br />
      <div class="tlimg">
   <div class="column">
-<img src="/images/Speakers_TL Bharathi Rani Arunachalam.png" style="width:100%" />
+<img src="#" style="width:100%" />
    </div>
-    <p><strong>Ms Bharathi Rani Arunachalam</strong><br />
+    <p style="font-family:Lato,sans-serif;"><strong>Mdm Sumathi Krishnasamy </strong><br/>
+      <span style="font-family:Anjal InaiMathi;"> <strong>திருமதி சுமதி</strong><br />
    </p>
+   <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;"> கதை சொல்வதன்மூலம் உங்கள் பிள்ளைகளோடு மகிழ்வூட்டும் தருணங்களை உருவாக்குங்கள்!</h4>
     <h4 id="C1" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தன்விவரம்</h4>
  <p style="margin:10px;font-family:Anjal InaiMathi;">
-  குமாரி பாரதி நீ ஆன் பலதுறைக் கல்லூரியில் மனிதநேயம் மற்றும் சமூக அறிவியல் பிரிவில் விரிவுரையாளராகப்  பணியாற்றிவருகிறார். இவர் ஆங்கிலத்திலும் தமிழிலும் வகுப்புகள் நடத்திவருகிறார். இவர் ஊடகத் துறையில் பல ஆண்டுகள் பணியாற்றிய அனுபவமிக்கவர். இவர் நன்யாங் தொழில்நுட்பப் பல்கலைக்கழகத்தில் தகவல் தொடர்புத் துறையில் முதுகலைப் பட்டம்பெற்றுள்ளார். 
+ முதுகலைப் பட்டதாரியான திருமதி ராணி கண்ணா, தற்போது குழந்தை உளவியல் துறையில் தம் முனைவர் பட்டக்கல்வியை மேற்கொள்கிறார். மேலும், பாலர்க் கல்வி பயிலும் குழந்தைகளுக்குக் கலைகளைப் பயிற்றுவிப்பதற்கான பயிற்சியையும் அவர் பெற்றிருக்கிறார். குழந்தைகளுக்கான பல இசை நிகழ்ச்சிகள், நாடகங்கள் முதலியவற்றையும் அவர் இயக்கியுள்ளார். அதோடு, டிஸ்னி கேலிச் சித்திரங்களுக்குத் தமிழில்  பின்னணி குரலையும் அவர் வழங்கியுள்ளார்.
 </p>
+<p style="margin:10px;font-family:Anjal InaiMathi;">கதைசொல்லும் கலையில் நிபுணத்துவரான ராணி, பல புத்தாக்கமிக்க உத்திகளை உட்புகுத்திக் கதை கூறுவதில் திறமைமிக்கவர்.</p>
+<p style="margin:10px;font-family:Anjal InaiMathi;">இசைக்கேற்பப் பல அசைவுகளோடும் குரல் ஏற்ற இறக்கத்தோடும் அமைந்திருக்கும் அவரது கதை சொல்லும் பாங்கு, கேட்பவர் மனத்தைக் குறிப்பாகக் குழந்தைகளின் மனத்தைக் கொள்ளைகொள்ளும் அளவுக்குத் தனித்துவமிக்கது என்பதில் ஐயமில்லை!</p>
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">சுருக்கவுரை</h4>
-     <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">பிள்ளைகள் வீட்டிலும் பள்ளியிலும் தாய்மொழியில் உரையாடுவதை ஊக்குவிப்போம்! </h4>
        <p style="margin:10px;font-family:Anjal InaiMathi;">
- பிள்ளைகளிடையே தமிழ்மொழி ஆர்வத்தை நிலைபெறச்செய்ய ஊக்குவிக்கும் வகையில் கதை, பாடல், விளையாட்டு, பாகமேற்று நடித்தல் முதலிய வழிமுறைகளைப் பயன்படுத்துவது அவசியம். பிள்ளைகளின் தமிழ்மொழி ஆர்வத்தைத் தூண்டுவதற்குரிய பல உத்திமுறைகளை இப்பகிர்வரங்கில் அறிந்துகொள்ளலாம். பொருத்தமான நடவடிக்கைகளைப் புத்தாக்கம் மிகுந்த வகையில் பயன்படுத்திப் பிள்ளைகளுக்குத் தாய்மொழி கற்றலுக்கான உகந்த சூழலை  அமைக்கும் வழிமுறைகளைப் பெற்றோர்களும் ஆசிரியர்களும் இப்பகிர்வில் அறிந்துகொள்ளலாம். மேலும், தமிழ்மொழி  கற்றலுக்கு உகந்த iOS செயலிகளைப் பற்றியும் இதில் பகிர்ந்துகொள்ளப்படும்.
+ கதைசொல்லுதல் என்பது தொன்றுதொட்டு மேற்கொள்ளப்பட்டுவரும் தனித்துவமிக்க ஒரு கலையாகும். மனத்தில் உதிக்கும் கற்பனையோட்டங்களைத் தாய்மொழியில் உணர்வுபூர்வமாக வெளிக்கொணர்வதற்குக் கதைசொல்லுதல் வழிவகுக்கிறது. அதுவும், வாய்மொழிவழிக் கதைசொல்லுதல் என்பது குழந்தைகளின் கற்பனை வளத்தை மட்டுமின்றி, வாய்மொழித் திறனையும் மேம்படுத்தக்கூடிய பயன்மிக்க ஓர் உத்திமுறை என்பது நிரூபணமான ஒன்றாகும்.
 </p>
+<p style="margin:10px;font-family:Anjal InaiMathi;">திருமதி ராணி கண்ணா அவர்கள் பல்வேறு சுவாரசியமான கதைசொல்லும் உத்திமுறைகளை இவ்வங்கத்தில் நம்மோடு பகிர்ந்துகொள்ளவிருக்கிறார். இல்லங்களில் எளிய முறையில் எவ்வாறு இவ்வுத்திமுறைகளை மேற்கொண்டு, பெற்றோர்கள் தம் குழந்தைகளோடு மகிழ்வாகக் கற்கும் சூழலை உருவாக்கலாம் என்பதைக் கீழ்த்தொடக்கநிலை மாணவரான ஸ்ரீ ஐஸ்வர்யா தேவி செந்திலோடு செய்துகாட்டியும் நடித்துக்காட்டியும் அவர் விளக்குவார். குழந்தைகள் தமிழ்மொழியில் கதை கேட்டும், கதை சொல்லியும் தங்கள் கற்பனைத் திறனையும் மொழிவளத்தையும் வளர்த்துக்கொள்ள இவ்வுத்திகள் பேருதவியாய் அமையும் என்பது திண்ணம்.</p>
       <br />
-        <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Profile</h4>
-       <p style="margin:10px;">Ms Bharathi Rani Arunachalam is a lecturer at Ngee Ann Polytechnic, School of Humanities &amp; Social Sciences in both English and Tamil. With a master’s degree in mass communication from Nanyang Technological University, she is also a speech and drama trainer who boasts a wealth of experience in the broadcast media industry as an actor, host, radio jockey, and voiceover artist.</p>
+        <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Profile</h4>
+       <p style="margin:10px;font-family:Lato,sans-serif;">Rani Kanna has a Master’s degree in Applied Linguistics and is a PhD candidate in Child Psychology. Having undergone special training in teaching arts to pre-schoolers, she has directed plays and musicals for young children, and organised many storytelling events. Rani believes that the mind and soul are most powerfully engaged through stories, and details her narrations with music, actions and authentic voices. She has been selected as a  voice-over talent for Disney cartoons in Tamil. She also enjoys , taking on characters of stories to interact with young children, her favourite quote is, “There isn’t anyone you couldn’t learn to love once you’ve heard their story.”</p>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
-         <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Strategies to Encourage Children to Speak in MTL at Home &amp; in School</h4> 
-       <p style="margin:10px;">
-To keep the Tamil language alive, our children need to be encouraged to love the language through stories, songs, games and role-play. This workshop will explore how parents and educators can tap into activities creatively to provide a rich language environment for children both in and beyond the classroom. In addition,Tamil Language teachers can also find out more about some useful iOS applications.
-      </p></div>
+       <p style="margin:10px;font-family:Lato,sans-serif;">Storytelling is a special way of sharing ideas, languages, and stories with children. Engaging children in oral storytelling has also proven to be an effective strategy for oral language development. 
+Rani Kanna will be sharing a variety of interesting oral storytelling techniques (modulation of voice and intonation, puppetry, etc.) that can be carried out at home by parents to actively engage their children in the power of imagination, visualisation and oral expression in Tamil. She will also be doing a demonstration with a lower primary child to bring these techniques alive!
+</p></div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
