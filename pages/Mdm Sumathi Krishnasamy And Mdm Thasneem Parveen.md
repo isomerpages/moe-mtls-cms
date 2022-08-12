@@ -98,13 +98,13 @@ max-width:30%;
 <img src="#" style="width:100%" />
    </div>
     <p style="font-family:Lato,sans-serif;"><strong>Mdm Sumathi Krishnasamy </strong><br/>
-      <span style="font-family:Anjal InaiMathi;"> <strong>திருமதி சுமதி</strong><br />
+			<span style="font-family:Anjal InaiMathi;"> <strong>திருமதி சுமதி</strong></span><br />
    </p>
     <div class="column">
 <img src="#" style="width:100%" />
    </div>
     <p style="font-family:Lato,sans-serif;"><strong>Mdm Thasneem Parveen D/O Sirazudeen </strong><br/>
-      <span style="font-family:Anjal InaiMathi;"> <strong>திருமதி தஸ்னீம் பர்வீன்</strong><br />
+			<span style="font-family:Anjal InaiMathi;"> <strong>திருமதி தஸ்னீம் பர்வீன்</strong></span><br />
    </p>
     <h4 id="C1" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தன்விவரம்</h4>
  <p style="margin:10px;font-family:Anjal InaiMathi;">
