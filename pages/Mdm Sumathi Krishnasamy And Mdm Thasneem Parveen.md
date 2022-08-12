@@ -92,13 +92,13 @@ max-width:30%;
 <br />
      <div class="tlimg">
   <div class="column">
-<img src="TL-Mdm-Sumathi-Krishnasamy.png" style="width:100%" />
+<img src="/images/TL-Mdm-Sumathi-Krishnasamy.png" style="width:100%" />
    </div>
     <p style="font-family:Lato,sans-serif;"><strong>Mdm Sumathi Krishnasamy </strong><br/>
 			<span style="font-family:Anjal InaiMathi;"> <strong>திருமதி சுமதி</strong></span><br />
    </p>
     <div class="column">
-<img src="TL-Mdm-Thasneem.png" style="width:100%" />
+<img src="/images/TL-Mdm-Thasneem.png" style="width:100%" />
    </div>
     <p style="font-family:Lato,sans-serif;"><strong>Mdm Thasneem Parveen D/O Sirazudeen </strong><br/>
 			<span style="font-family:Anjal InaiMathi;"> <strong>திருமதி தஸ்னீம் பர்வீன்</strong></span><br />
