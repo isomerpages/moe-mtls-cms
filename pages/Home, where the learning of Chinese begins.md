@@ -99,7 +99,7 @@ max-width:30%;
    <strong> <span style="font-size:22px;font-family:KaiTi;">谢欣薇 </span></strong><br />
    </p>
    <div class="column">
-    <img src="#" style="width:100%" />
+    <img src="/images/CL-chan-yan.png" style="width:100%" />
   </div>
      <p style="font-family:Lato,sans-serif;"> <strong>Ms Chan Yan   </strong><br/>
    <strong> <span style="font-size:22px;font-family:KaiTi;">陈昕 </span></strong><br />
