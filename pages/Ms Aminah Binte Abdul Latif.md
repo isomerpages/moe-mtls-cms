@@ -100,11 +100,7 @@ max-width:30%;
     <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_10.jpg" style="display:none;" />
     </div>
     <br />
-<div class="video-container">
-  <iframe class="responsive-iframe" src="https://player.vimeo.com/video/594996053?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=d5daed0d43" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-</div>
-*Video is best viewed in 1080p.<br />
+<br />
     <div class="mlimg">
      <div class="column">
 <img src="/images/ML-Miss-Aminah.png" style="width:100%" />
@@ -123,4 +119,3 @@ max-width:30%;
   <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
      <p style="font-family:Lato,sans-serif;">Outdoor play is essential for a child’s growth and development. It provides opportunities for children to use their creativity, take risks and develop social skills. For instance, outdoor experiences such as digging in the sand, climbing trees and running up and down the hill contribute to the holistic development of children. Children who spend a great amount of time outdoors will also gradually develop a positive connection with nature. In this workshop, participants will understand how active outdoor play contributes to the healthy development of children. Strategies on supporting unstructured outdoor play will be shared with the participants at the end of the session.</p></div>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
- 
