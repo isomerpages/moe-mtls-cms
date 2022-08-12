@@ -32,7 +32,7 @@ text-decoration:none;
 </style>
 </head>
 <body>
-	<h4 style="font-family:Lato,sans-serif;">For Preschool/Primary Educators </h4>
+	<h4 style="font-family:Lato,sans-serif;"><b>For Preschool/Primary Educators </b></h4>
   <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
@@ -47,7 +47,7 @@ Yaa Bunayya SG </td>
  <a href="/Mdm-Nur-afifah" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Watch Here!</a></td>
     </tr>
 </table>
-<h4 style="font-family:Lato,sans-serif;">Sharing Sessions</h4>
+	<h4 style="font-family:Lato,sans-serif;"><b>Sharing Sessions</b></h4>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
@@ -66,7 +66,7 @@ Ms Fiza O <br/>
 </td>
     </tr>
 </table>
-<h4 style="font-family:Lato,sans-serif;">Storytelling Sessions</h4>
+	<h4 style="font-family:Lato,sans-serif;"><b>Storytelling Sessions</b></h4>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
@@ -82,7 +82,7 @@ National Library Board  </td>
 </td>
     </tr>
 </table>
-<h4 style="font-family:Lato,sans-serif;">Interactive Workshops</h4>
+	<h4 style="font-family:Lato,sans-serif;"><b>Interactive Workshops</b></h4>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
@@ -97,7 +97,7 @@ Ms Nurain Syakirah binte Nordin <br/>
  </td>
     </tr>
 </table>
-<h4 style="font-family:Lato,sans-serif;">Engagement Sessions</h4>
+	<h4 style="font-family:Lato,sans-serif;"><b>Engagement Sessions</b></h4>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
@@ -119,7 +119,7 @@ Changkat Changi Secondary School
  </td>
     </tr>
 </table>
-<h4 style="font-family:Lato,sans-serif;">Pre-Recorded Sessions</h4>
+	<h4 style="font-family:Lato,sans-serif;"><b>Pre-Recorded Sessions</b></h4>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
