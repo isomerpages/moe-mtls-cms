@@ -98,7 +98,7 @@ max-width:30%;
      <p style="font-family:Lato,sans-serif;"> <strong>Ms Siau Jiahui <br>
   <strong><span style="font-size:22px; font-family:KaiTi;">萧嘉蕙</span></strong>
 </p>
-   <h4 id="C1" style="font-size:30px;font-family:KaiTi;color:#d84178;">介绍</h4>
+   <h4 id="C1" style="font-size:30px;font-family:KaiTi; color:#d84178;">介绍</h4>
    <p style="font-size:21px;font-family:KaiTi;"> 
 萧嘉蕙是新传媒属下电台YES933的广播员。 她欢快的嗓音和活泼的个性在过去二十年为许多听众带来了充满欢乐的时光。她目前主持周日上午10点至下午2点的午餐节目《午刻乐乐》。此外，嘉蕙自2020年起于社交媒体推出“STORY TIME WITH 嘉蕙”华语讲故事系列，至今已分享了60多个故事，吸引数千名小朋友们观看。</p><br />
    <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4>  
