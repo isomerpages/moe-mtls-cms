@@ -1,6 +1,6 @@
 title: Mother Tongue Languages Symposium
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/MTLS 2022 Logo.ico
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: Mother Tongue Languages Symposium 2022 - A Garden for Joyful Discovery
 permalink: none
 baseurl: ""
 exclude:
