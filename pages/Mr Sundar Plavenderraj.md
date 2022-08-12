@@ -98,7 +98,7 @@ max-width:30%;
 <img src="#" style="width:100%" />
    </div>
     <p style="font-family:Lato,sans-serif;"><strong>Mr Sundar Plavenderraj </strong><br/>
-      <span style="font-family:Anjal InaiMathi;"> <strong>திரு சுந்தர் பிலவேந்தர்ராஜ்</strong><br />
+      <span style="font-family:Anjal InaiMathi;"> <strong>திரு சுந்தர் பிலவேந்தர்ராஜ்</strong></span><br />
    </p>
    <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;" >இருமொழிக் கல்வி: 
 தமிழ்மொழியின் எதிர்காலத்தைப் பேணிக்காத்தல்</h4>
