@@ -3,3 +3,115 @@ title: Mrs Kunawathy Nallathambi
 permalink: /Mrs-Kunawathy-Nallathambi
 description: ""
 ---
+<head>
+<style>
+  .video-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+.btntop {
+    position: fixed;
+    float: right;
+    bottom: 20px;
+    right: 80px;
+    z-index: 99;
+    boder: none;
+    background-color: #3bb9ff;
+    cursor: pointer;
+    padding: 15px;
+    boder-radius: 4px;
+    color: #fff;
+    font-weight: 600;
+}
+    .btn1,.btn2{
+      font-size: 18px;
+    font-family: Lato,sans-serif;
+    background-color:  #9b4490;
+    padding: 13px 13px;
+    border-radius: 6px;
+    text-align: center;
+    display: block;
+    margin-left: 26px;
+  }
+  @media only screen and (max-width: 600px){ 
+  .btn1,.btn2{
+   margin-left: -6px;
+    padding: 1px 8px;
+  }
+  }
+   .btn1:hover {
+background-color: lightgrey;!important;
+}
+ .btn2:hover {
+background-color: lightgrey;!important;
+}
+.content a {
+margin-bottom:0rem;
+text-decoration:none;
+}
+   .tlimg img {
+height:auto;
+max-width:30%;
+}
+  .tlbanner img{
+  width:100%;
+  }
+</style>
+</head>
+<body>
+  <table>
+  <tr>
+    <td style="border: none;
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+    <td style="border: none;
+  text-align: left;padding: 8px;width: 43%;">
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+    </td>
+      <td  style="border: none;
+  text-align: left;padding: 25px;width: 20%;">
+<a href="/tamil-session" style="float:right;">Back</a>
+</td>
+    </tr>
+</table>
+    <div class="sp2">
+    <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_12.jpg" style="display:none;" />
+    </div>
+    <br />
+<div class="video-container">
+  <iframe class="responsive-iframe" src="https://player.vimeo.com/video/593644601?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=53eb00b951" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe></div>
+*Video is best viewed in 1080p.<br />
+     <div class="tlimg">
+  <div class="column">
+<img src="/images/TL-Mrs-Kunawathy-Nallathambi.png" style="width:100%" />
+   </div>
+    <p style="font-family:Lato,sans-serif;"><strong> Mdm Kunawathyammal D/O Kaliannan </strong><br/>
+      <span style="font-family:Anjal InaiMathi;"> <strong>திருவாட்டி  குணவதியம்மாள்</strong></span><br />
+   </p>
+   <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">உடன்பாடான கல்வியோடு பாராட்டத்தக்க வினவல் அணுகுமுறையின் வாயிலாகத் தமிழ்மொழிக் கற்றல்</h4>
+    <h4 id="C1" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தன்விவரம்</h4>
+ <p style="margin:10px;font-family:Anjal InaiMathi;">
+ திருவாட்டி குணவதியம்மாள் நல்லதம்பி முப்பது ஆண்டுகளுக்குமேல் கல்வித் துறையில் பணியாற்றி வருகிறார். தற்போது, தேசியக் கல்விக் கழகத்தில் மூத்த விரிவுரையாளராகப் பணியாற்றுகிறார். கல்விக்கு இவர் ஆற்றிய பங்குக்காக இருமுறை தேசியத் தின விருதுகள் வழங்கப்பட்டன. திருமதி குணவதி நல்லதம்பி பல தலைப்புகளில் பெற்றோர்கள், ஆசிரியர்கள், மாணவர்கள் ஆகியோருக்குப்  பயிலரங்குகளை நடத்தியுள்ளார். மேலும், இவர் உள்ளூர், வெளியூர் மாநாடுகளில் கலந்துகொண்டு பல படைப்புகளைப் படைத்துள்ளார். இவர் ஆங்கிலம், தமிழ் ஆகிய இரு மொழிகளில் சரளமாகப் பேசக்கூடியவர். உடன்பாடான கல்வி, பாராட்டத்தக்க வினவல் ஆகிய அணுகுமுறைகளின் மேல் நாட்டம் கொண்ட இவர் தேசியக் கல்விக் கழகத்தில் தாம் கற்பிக்கும் பாடங்களில் இவற்றைப் புகுத்தியுள்ளார்.
+</p>
+<h4 id="C2" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">சுருக்கவுரை</h4>
+       <p style="margin:10px;font-family:Anjal InaiMathi;">
+ உடன்பாடான கல்வியும் பாராட்டத்தக்க வினவல் அணுகுமுறையும் கல்வியில் மாற்றங்களைக்கொண்டு வரும். மொழி கற்றலுக்கு இவை உந்துதலாக இருக்கும் என நம்புகிறார், திருவாட்டி குணவதி. உடன்பாடான கல்வி முறையில் , உடன்பாடான உணர்வுகள், ஈடுபாடு, உறவுகளை வளர்த்துக்கொள்ளுதல், பொருள்கொள்ளுதல், சாதனை புரிதல் ஆகியவற்றின்மூலம் பிள்ளைகளின் ஆர்வம் தூண்டப்படுகின்றது. பாராட்டத்தக்க வினவல் அணுகுமுறை சார்ந்த கற்றல் கருவிகள், பிள்ளைகளின்  தமிழ்மொழிப்  பற்றை அதிகரிக்கவும், சொல்வளத்தைப் பெருக்கவும் உறுதுணை புரியும். இப்பகிர்வரங்கின் வாயிலாகத் திருவாட்டி குணவதி உடன்பாடான கல்வி, பாராட்டத்தக்க வினவல் அணுகுமுறை மூலமாகத் தமிழ்மொழி கற்றலில் பிள்ளைகளின் ஆர்வத்தை எவ்வாறு தூண்டலாம் எனவும் அதற்கான வழிவகைகளையும் தொடக்கப்பள்ளி செல்லும் பிள்ளைகளுடைய பெற்றோர்களுடன் பகிர்ந்துகொள்வார்.</p>
+      <br />
+      <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Tamil Language Learning Through Positive Education and Appreciative Inquiry</h4>
+        <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Profile</h4>
+       <p style="margin:10px;font-family:Lato,sans-serif;">Mdm Kunawathy Nallathamby has more than 30 years of experience as an educator and has received the National Day Commendation Medal and The Public Administration Medal (Bronze) for her contributions to education. She is currently a Senior Teaching Fellow at NIE. Effectively bilingual in both English and Tamil, Mdm Kunawathy Nallathamby has conducted workshops for parents, students and teachers, and presented papers at local and international conferences. She is an advocate of Positive Education and Appreciative Inquiry as approaches for quality teaching and learning and has integrated these in the modules that she teaches at NIE.</p>
+      <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
+       <p style="margin:10px;font-family:Lato,sans-serif;">Positive Education and Appreciative Inquiry are educational approaches that are especially suited for language learning. By adopting Positive Education, students’ interests can be kindled through positive emotions, engagement, relationship -building, meaning-creation and achievement, while Appreciative Inquiry tools can be used to instil a love for the language in students, and to help them develop their vocabulary. In this session, Mdm Kunawathyammal will focus on exploring strategies with parents of primary school children to help them kindle an interest in learning Tamil in their children through interactive activities. These strategies will make use of Positive Education and Appreciative Inquiry approaches.</p></div>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
