@@ -6,7 +6,7 @@ third_nav_title: Pameran Bahasa Melayu
 ---
 <head>
 <style>
-	.btn1,.btn2{
+	.btn1{
 	font-size: 18px;
     font-family: Lato,sans-serif;
     background-color:#a3c864;
@@ -15,6 +15,16 @@ third_nav_title: Pameran Bahasa Melayu
     border-radius: 6px;
     width: 64%;
 	display:block;
+	}
+		.btn2{
+	font-size: 18px;
+    font-family: Lato,sans-serif;
+    background-color:#a3c864;
+    padding: 5px 13px;
+    margin: 9px 13px;
+    border-radius: 6px;
+    width: 64%;
+	display:none;
 	}
     	.btn-group {
 	margin-top:-15px;
