@@ -95,7 +95,7 @@ max-width:30%;
   <div class="column">
     <img src="/images/CL-Mdm-Corinne-Fan.png" style="width:100%" />
   </div>
-     <p style="font-family:Lato,sans-serif;"> <strong>Mdm Corinne Madelyn Fan Wai Foong <br/>
+			<p style="font-family:Lato,sans-serif;"> <strong>Mdm Corinne Madelyn Fan Wai Foong </strong><br/>
    <strong> <span style="font-size:22px;font-family:KaiTi;">范伟凤</span></strong><br />
 </p>
    <h4 id="C1" style="font-size:30px;font-family:KaiTi;color:#d84178;">介绍</h4>
