@@ -92,7 +92,7 @@ max-width:30%;
 <br />
      <div class="tlimg">
   <div class="column">
-<img src="#" style="width:100%" />
+<img src="/images/TL-Mr-Sundar.png" style="width:100%" />
    </div>
     <p style="font-family:Lato,sans-serif;"><strong>Mr Sundar Plavenderraj </strong><br/>
       <span style="font-family:Anjal InaiMathi;"> <strong>திரு சுந்தர் பிலவேந்தர்ராஜ்</strong></span><br />
