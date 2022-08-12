@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Mother Tongue Languages Symposium
-description: An Isomer site of the Singapore Government
+description: Mother Tongue Languages Symposium 2022 - A Garden for Joyful Discovery
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -46,3 +46,4 @@ sections:
       url: register-now
       image: /images/Mascot_Banners_600x300px_2.jpg
 ---
+
