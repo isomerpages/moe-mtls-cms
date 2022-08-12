@@ -5,7 +5,7 @@ description: ""
 ---
 <head>
 <style>
-	.video-container {
+  .video-container {
   position: relative;
   width: 100%;
   overflow: hidden;
@@ -35,8 +35,14 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
-	.btn1,.btn2{
-	    font-size: 18px;
+  @media only screen and (max-width: 600px){ 
+  .btn1,.btn2{
+   margin-left: -6px;
+    padding: 1px 8px;
+  }
+  }
+  .btn1,.btn2{
+      font-size: 18px;
     font-family: KaiTi;
     background-color: #d84178;
     padding: 13px 13px;
@@ -44,14 +50,8 @@ description: ""
     text-align: center;
     display: block;
     margin-left: 26px;
-	}
-	@media only screen and (max-width: 600px){ 
-	.btn1,.btn2{
-   margin-left: -6px;
-	  padding: 1px 8px;
-	}
-	}
-	 .btn1:hover {
+  }
+   .btn1:hover {
 background-color: lightgrey;!important;
 }
  .btn2:hover {
@@ -71,13 +71,13 @@ max-width:30%;
 </style>
 </head>
 <body>
-	<table>
+<table>
   <tr>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-			<a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a></td>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a></td>
 <td style="border: none;
   text-align: left;padding: 25px;width: 20%;"><a href="/chinese-session" style="float:right;">Back</a>
 </td>
@@ -93,26 +93,26 @@ max-width:30%;
 *Video is best viewed in 1080p.<br />
     <div class="climg">
   <div class="column">
-    <img src="/images/Speakers_CL Connie Lum.png" style="width:100%" />
+    <img src="/images/CL-Ms-Ong-Peiying.png" style="width:100%" />
   </div>
-     <p> <strong>Dr. Connie Lum</strong><br />
-    <span style="font-size:22px;font-family:KaiTi;"><strong>林美莲博士</strong></span><br />
+     <p style="font-family:Lato,sans-serif;"> <strong>Ms Ong Peiying  </strong><br/>
+   <strong> <span style="font-size:22px;font-family:KaiTi;">王珮盈</span></strong><br />
+   </p>
+  </div>
+ <h4 id="C1" style="font-size:30px;font-family:KaiTi;color:#d84178;">介绍</h4>
+<p style="font-size:21px;font-family:KaiTi;"> 
+  王珮盈是万态保育集团教育部门的高级经理。她负责为家庭、教育工作者和学校团体策划华文教育活动，并组织开发相关的教学资源。珮盈在户外教育、实践学习和教师培训方面有超过十年的经验。最近，她为学前华文教育工作者设计了关于新加坡动物园的线上职业发展培训和工作坊，以及一系列的家庭学习工作坊。这些工作坊不仅以动物为灵感，还专注于以有趣和互动的方式使用华文，让学前儿童乐学华文。</p>
+<br />
+   <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4> 
+<p style="font-size:21px;font-family:KaiTi;">   探索奇妙的动物世界，同时学习华文。在这里，您将利用再循环物品制作环保取景框，并通过室内及户外的活动体验有趣的华文学习。制作取景框的创意过程提供了真实的学习机会，让我们一起探讨，如何通过减少资源消耗、保护野生动物以及它们的栖息地。
 </p>
-   <h4 id="C1" style="font-size:30px;font-family:KaiTi;color:#d84178;">介绍</h4>
-   <p style="font-size:21px;font-family:KaiTi;"> 
- 林美莲博士是职总优儿学府的母语课程策划总监，目前管理170所学前中心。林博士在课程设计、教学和培训等方面拥有近二十年的经验。她也是新加坡推广华文学习委员会学前华文教育支援组的委员之一。</p><br />
-   <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4>  
-   <h4 style="font-family:KaiTi;font-size:30px;color:#d84178;">借用“感官”经验发展小朋友学习华文的能力</h4>  
-<p style="font-size:21px;font-family:KaiTi;">一块冰，可以激发孩子“说”的欲望；一张图片，可以帮助孩子加深对故事的理解。这个工作坊将通过五官教学（视觉、听觉、嗅觉、味觉、触觉）及鹰架教学（语言鹰架、材料鹰架、同伴鹰架）促进幼儿学习华文的兴趣，同步提升幼儿的认知发展、专注力及创造力。
-</p><br />
-<h4 style="color:#d84178;">Profile</h4>  
-   <p>
- Dr Connie Lum has worked in the early childhood field for over 20 years. She is currently Director, Mother Tongue Languages at NTUC First Campus. She works closely with principals and teachers in delivering the Chinese curriculum and programmes to children through curriculum writing, training of teachers, evaluating children’s learning environments, and conducting continuous reviews of curriculum tools and techniques. She is a member of the Committee to Promote Chinese Language Learning (CPCLL) Pre-School Group.
-</p><br />
+<br>
+<h4 style="color:#d84178;font-family:Lato,sans-serif;">Profile</h4>  
+   <p style="font-family:Lato,sans-serif;">
+Ong Peiying is a Senior Manager of the Education Department at Mandai Wildlife Group. She is responsible for conceptualising Chinese programmes and resources for families, teachers, and school groups. Peiying possesses more than ten years of experience in outdoor education, experiential learning, and teacher engagement. Her most recent projects include designing virtual professional development workshops for Chinese pre-school educators, as well as a new series of family learning workshops at the Singapore Zoo. These workshops are not only inspired by animals but also focus on using Chinese in fun and interactive ways.
+</p>
   <h4 style="color:#d84178;"> Synopsis</h4>  
-   <h4 style="color:#d84178;"> Leveraging on the Five Senses in Developing Skills to Learn Chinese Language</h4>  
-   <p>
-A piece of ice may motivate children to speak; an image or a photo may help children to develop a deeper understanding of the stories read.<br /><br />
-In this sharing session, the use of multiple sensory play (i.e. visual, auditory, olfactory, gustatory and tactile) and scaffolding strategies (i.e. linguistics scaffolding, curriculum resources scaffolding and peer scaffolding) will be introduced. These will ignite children’s interest in learning Chinese, and enhance cognitive development, concentration and  creativity in children.
-      </p></div>
+   <p style="font-family:Lato,sans-serif;" >
+Explore the wonderful world of animals and enhance Mother Tongue Language learning at the same time. Create eco-friendly viewfinders using recyclable materials for indoor or outdoor activities that   focus on learning as  an enjoyable and casual educational experience. The creative process of upcycling to make viewfinders also presents a fitting opportunity to talk about how we can protect wildlife and their habitats by reducing resource usage.
+      </p>
     <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
