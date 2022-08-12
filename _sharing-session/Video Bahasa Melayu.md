@@ -32,6 +32,21 @@ text-decoration:none;
 </style>
 </head>
 <body>
+	<h4 style="font-family:Lato,sans-serif;">For Preschool/Primary Educators </h4>
+  <table style="border-collapse: collapse;
+  width: 100%;">
+  <tr>
+    <td style="border: none; width: 70%;
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Speaking the Language of the Digital Generation: Integrating STEAM and Literacy in the Learning of Malay Language<br/>
+  Blended (Hybrid) Session from 11.30am to 12.30am<br/>
+Ms Nur'afifah Binte Mohd Hussain  <br/>
+    Educator, Author <br>
+Yaa Bunayya SG </td>
+    <td style="border: none;
+  text-align: left;padding: 8px;width: 30%;">
+ <a href="/Ms-Wang-Zheng" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Watch Here!</a></td>
+    </tr>
+</table>
 <h4 style="font-family:Lato,sans-serif;">Sharing Sessions</h4>
 <table style="border-collapse: collapse;
   width: 100%;">
