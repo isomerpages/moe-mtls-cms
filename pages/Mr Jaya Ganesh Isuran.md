@@ -106,6 +106,7 @@ max-width:30%;
  வசந்தம் தொலைக்காட்சி, வானொலி நாடகங்களில் முத்திரை பதித்துவரும் திரு. ஜெய கணேஷ் இந்தப் பகிர்வை நடத்துவார். இரு குழந்தைகளுக்குத் தந்தையான இவர், எவ்வாறு இல்லங்களில் தமிழ்மொழிச் சூழலை உருவாக்கலாம் என்பது குறித்த தம் அனுபவத்தையும் சில பயனுள்ள உத்திமுறைகளையும் இப்பகிர்வில் பகிர்ந்துகொள்வார். இவர் சந்தித்த சவால்களையும் இவற்றை எதிர்கொள்ள மேற்கொண்ட முயற்சிகளையும் கண்ட வெற்றிகளையும் இவருக்கே உரிய நகைச்சுவை ததும்பும் பாணியில் எடுத்துரைப்பார். பெற்றோர்கள் தமிழ்மொழிப் புழக்கத்திற்கு உதவும் வீட்டுச் சூழலை அமைத்து, வீட்டில் தமிழ்ப்புழக்கம் இருப்பதை உறுதிசெய்ய இந்தப் பகிர்வு துணைபுரியும்.
 </p>
       <br />
+			 <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Let us Speak in Tamil with Our Children</h4>
         <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Profile</h4>
        <p style="margin:10px;font-family:Lato,sans-serif;">Mr Jaya Ganesh Isuran is a very familiar face in the entertainment industry, known for his roles in Mediacorp’s Vasantham dramas. He was also a radio jockey at Oli 96.8FM, and was a dancer and host for live shows such as Vasantham Star. Mr Ganesh has also been featured on CNA and Today Online due to his popularity in the Tamil media. A recipient of multiple awards at PradhanaVizha 2021, he is also an entrepreneur and a proud father of two boys, ages 4 and 5.</p>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
