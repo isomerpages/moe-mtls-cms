@@ -5,7 +5,7 @@ description: ""
 ---
 <head>
 <style>
-	.video-container {
+  .video-container {
   position: relative;
   width: 100%;
   overflow: hidden;
@@ -35,23 +35,23 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
-		.btn1,.btn2{
-	    font-size: 18px;
-    font-family: KaiTi;
+    .btn1,.btn2{
+      font-size: 18px;
+    font-family: Lato,sans-serif;
     background-color:  #9b4490;
     padding: 13px 13px;
     border-radius: 6px;
     text-align: center;
     display: block;
     margin-left: 26px;
-	}
-	@media only screen and (max-width: 600px){ 
-	.btn1,.btn2{
+  }
+  @media only screen and (max-width: 600px){ 
+  .btn1,.btn2{
    margin-left: -6px;
-	  padding: 1px 8px;
-	}
-	}
-	 .btn1:hover {
+    padding: 1px 8px;
+  }
+  }
+   .btn1:hover {
 background-color: lightgrey;!important;
 }
  .btn2:hover {
@@ -71,15 +71,15 @@ max-width:30%;
 </style>
 </head>
 <body>
-	<table>
+  <table>
   <tr>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-			<a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
-		</td>
-			<td  style="border: none;
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+    </td>
+      <td  style="border: none;
   text-align: left;padding: 25px;width: 20%;">
 <a href="/tamil-session" style="float:right;">Back</a>
 </td>
@@ -89,28 +89,31 @@ max-width:30%;
     <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_12.jpg" style="display:none;" />
     </div>
     <br />
-<br />
+<div class="video-container">
+  <iframe class="responsive-iframe" src="https://player.vimeo.com/video/593644601?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=53eb00b951" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe></div>
+*Video is best viewed in 1080p.<br />
      <div class="tlimg">
   <div class="column">
-<img src="/images/Speakers_TL Bharathi Rani Arunachalam.png" style="width:100%" />
+<img src="/images/TL-Ms-Sajini.png" style="width:100%" />
    </div>
-    <p><strong>Ms Bharathi Rani Arunachalam</strong><br />
+    <p style="font-family:Lato,sans-serif;"><strong>Ms Sajini Naidu</strong><br/>
+      <span style="font-family:Anjal InaiMathi;"> <strong>குமாரி சஜினி</strong></span><br />
    </p>
+   <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தித்திக்கும் தமிழ்</h4>
     <h4 id="C1" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தன்விவரம்</h4>
  <p style="margin:10px;font-family:Anjal InaiMathi;">
-  குமாரி பாரதி நீ ஆன் பலதுறைக் கல்லூரியில் மனிதநேயம் மற்றும் சமூக அறிவியல் பிரிவில் விரிவுரையாளராகப்  பணியாற்றிவருகிறார். இவர் ஆங்கிலத்திலும் தமிழிலும் வகுப்புகள் நடத்திவருகிறார். இவர் ஊடகத் துறையில் பல ஆண்டுகள் பணியாற்றிய அனுபவமிக்கவர். இவர் நன்யாங் தொழில்நுட்பப் பல்கலைக்கழகத்தில் தகவல் தொடர்புத் துறையில் முதுகலைப் பட்டம்பெற்றுள்ளார். 
+ குமாரி சஜினி கற்பித்தல்மீது கொண்ட ஆர்வத்தால் 2009-ஆம் ஆண்டு முதல் கல்வியாளராகத் திகழ்கிறார். மொழி, பேச்சுத்திறன், நாடகக் கலை முதலியவற்றைக் கற்பிப்பது இவரது சிறப்பம்சங்கள். இவர் தொடக்கப்பள்ளி, உயர்நிலைப்பள்ளி மாணவர்களுக்காகப் பல்வேறு பயிலரங்குகளையும் ஆர்வமூட்டும் வகுப்புகளையும் நடத்தி வருகிறார். தமிழ்மொழிமீதும் தமிழ்ப் பண்பாட்டின்மீதும் இவர் கொண்டுள்ள ஈடுபாட்டையும் நம்பிக்கையையும் தம் மாணவர்களிடமும் காண விரும்புகிறார். குமாரி சஜினி சிங்கப்பூர் மக்களுக்கு நன்கு அறிமுகமான தொலைக்காட்சிப் பிரபலமாகவும் நாடகக் கலைஞராகவும் விளங்குகிறார். இவர் தம் கருத்துகளைத் தாய்மொழியாம் தமிழில் கூறுவதைத் தமக்கான அடையாளமாகக் கொண்டுள்ளார். ஒரு நடிகராகவும் கல்வியாளராகவும் இருப்பதைப் பெருமையாக எண்ணும் சஜினி கற்றல் என்றும் நிரந்தரமானது என்று உறுதியாக நம்புகிறார்.
 </p>
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">சுருக்கவுரை</h4>
-     <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">பிள்ளைகள் வீட்டிலும் பள்ளியிலும் தாய்மொழியில் உரையாடுவதை ஊக்குவிப்போம்! </h4>
        <p style="margin:10px;font-family:Anjal InaiMathi;">
- பிள்ளைகளிடையே தமிழ்மொழி ஆர்வத்தை நிலைபெறச்செய்ய ஊக்குவிக்கும் வகையில் கதை, பாடல், விளையாட்டு, பாகமேற்று நடித்தல் முதலிய வழிமுறைகளைப் பயன்படுத்துவது அவசியம். பிள்ளைகளின் தமிழ்மொழி ஆர்வத்தைத் தூண்டுவதற்குரிய பல உத்திமுறைகளை இப்பகிர்வரங்கில் அறிந்துகொள்ளலாம். பொருத்தமான நடவடிக்கைகளைப் புத்தாக்கம் மிகுந்த வகையில் பயன்படுத்திப் பிள்ளைகளுக்குத் தாய்மொழி கற்றலுக்கான உகந்த சூழலை  அமைக்கும் வழிமுறைகளைப் பெற்றோர்களும் ஆசிரியர்களும் இப்பகிர்வில் அறிந்துகொள்ளலாம். மேலும், தமிழ்மொழி  கற்றலுக்கு உகந்த iOS செயலிகளைப் பற்றியும் இதில் பகிர்ந்துகொள்ளப்படும்.
-</p>
+ அனுபவம் வாய்ந்த கல்வியாளரான குமாரி சஜினி தமது பயிலரங்கின்வழி மாணவர்கள் தமிழ்மொழியை ஈடுபாட்டுடன் பயன்படுத்தத் தூண்டுவார். தொடக்கநிலை ஒன்றுமுதல் நான்குவரை பயிலும் மாணவர்கள் சுவாரசியமான மின்பயணத்தின்வழித் தங்கள் அன்றாட வாழ்க்கையில் பயன்படுத்தும் சொற்களைக் கற்றுக்கொள்வர். வேடிக்கையான ஆர்வமூட்டும் நடவடிக்கைகளின்வழி மாணவர்கள் தாங்கள் கற்ற சொற்களைப் பயன்படுத்தித் தங்களது கருத்துகளைக் கூறுவர். இப்பயிலரங்கில் கலந்துகொள்ளும் மாணவர்கள் தித்திக்கும் தேன்தமிழ்ச் சுவையைச் சுவைத்து மகிழ்வர். </p>
       <br />
-        <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Profile</h4>
-       <p style="margin:10px;">Ms Bharathi Rani Arunachalam is a lecturer at Ngee Ann Polytechnic, School of Humanities &amp; Social Sciences in both English and Tamil. With a master’s degree in mass communication from Nanyang Technological University, she is also a speech and drama trainer who boasts a wealth of experience in the broadcast media industry as an actor, host, radio jockey, and voiceover artist.</p>
+       <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Tamil Is Fun and Joyful</h4>
+        <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Profile</h4>
+       <p style="margin:10px;font-family:Lato,sans-serif;">Ms Sajini has been a passionate educator since 2009. Her specialty includes teaching Language and Literacy, Speech and Drama, and Art. She has conducted multiple workshops and enrichment classes for primary and secondary school students, hoping to pique their interest and spread her love for Tamil language and culture. Ms Sajini is also a well-established television personality and experienced theatre performer who actively uses her voice to proudly promote speaking in one’s Mother Tongue. She strongly believes that learning is life-long. Being both an actor and an educator are her greatest joys.
+</p>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
-         <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Strategies to Encourage Children to Speak in MTL at Home &amp; in School</h4> 
-       <p style="margin:10px;">
-To keep the Tamil language alive, our children need to be encouraged to love the language through stories, songs, games and role-play. This workshop will explore how parents and educators can tap into activities creatively to provide a rich language environment for children both in and beyond the classroom. In addition,Tamil Language teachers can also find out more about some useful iOS applications.
-      </p></div>
+       <p style="margin:10px;font-family:Lato,sans-serif;">In this engagement segment with Ms Sajini, Primary 1 to 4 students will embark on a fun-filled e-journey that gives them the opportunity to actively explore and learn new vocabulary related to their daily lives. Through these activities, students will be immersed in authentic situations in which to use their newly-acquired vocabulary by presenting their creative ideas in Tamil. This hands-on experience will leave a memorable impression on children that learning Tamil is indeed fun, thus motivating  them to use the language.
+</p></div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
