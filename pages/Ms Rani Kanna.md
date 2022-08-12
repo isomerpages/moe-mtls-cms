@@ -97,16 +97,17 @@ max-width:30%;
   <div class="column">
 <img src="#" style="width:100%" />
    </div>
-    <p style="font-family:Lato,sans-serif;"><strong>Mdm Sumathi Krishnasamy </strong><br/>
-      <span style="font-family:Anjal InaiMathi;"> <strong>திருமதி சுமதி</strong><br />
+    <p style="font-family:Lato,sans-serif;"><strong>Rani Kanna </strong><br/>
+      <span style="font-family:Anjal InaiMathi;"> <strong>திருமதி ராணி கண்ணா</strong></span><br />
    </p>
-   <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;"> கதை சொல்வதன்மூலம் உங்கள் பிள்ளைகளோடு மகிழ்வூட்டும் தருணங்களை உருவாக்குங்கள்!</h4>
+   <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">கதை சொல்வதன்மூலம் உங்கள் பிள்ளைகளோடு மகிழ்வூட்டும் தருணங்களை உருவாக்குங்கள்!</h4>
     <h4 id="C1" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தன்விவரம்</h4>
  <p style="margin:10px;font-family:Anjal InaiMathi;">
  முதுகலைப் பட்டதாரியான திருமதி ராணி கண்ணா, தற்போது குழந்தை உளவியல் துறையில் தம் முனைவர் பட்டக்கல்வியை மேற்கொள்கிறார். மேலும், பாலர்க் கல்வி பயிலும் குழந்தைகளுக்குக் கலைகளைப் பயிற்றுவிப்பதற்கான பயிற்சியையும் அவர் பெற்றிருக்கிறார். குழந்தைகளுக்கான பல இசை நிகழ்ச்சிகள், நாடகங்கள் முதலியவற்றையும் அவர் இயக்கியுள்ளார். அதோடு, டிஸ்னி கேலிச் சித்திரங்களுக்குத் தமிழில்  பின்னணி குரலையும் அவர் வழங்கியுள்ளார்.
 </p>
 <p style="margin:10px;font-family:Anjal InaiMathi;">கதைசொல்லும் கலையில் நிபுணத்துவரான ராணி, பல புத்தாக்கமிக்க உத்திகளை உட்புகுத்திக் கதை கூறுவதில் திறமைமிக்கவர்.</p>
 <p style="margin:10px;font-family:Anjal InaiMathi;">இசைக்கேற்பப் பல அசைவுகளோடும் குரல் ஏற்ற இறக்கத்தோடும் அமைந்திருக்கும் அவரது கதை சொல்லும் பாங்கு, கேட்பவர் மனத்தைக் குறிப்பாகக் குழந்தைகளின் மனத்தைக் கொள்ளைகொள்ளும் அளவுக்குத் தனித்துவமிக்கது என்பதில் ஐயமில்லை!</p>
+<p style="margin:10px;font-family:Anjal InaiMathi;">திருமதி தஸ்னீம் ஹொராய்சன் தொடக்கப்பள்ளியில் இரண்டு வருடக் காலமாகத் தமிழாசிரியராகப் பணிபுரிகிறார். இவர் சுமார் 8 வருடங்களாக உதவி ஆசிரியராகவும் பணியாற்றி வந்தார். இவர் ஆசிரியர் வழிநடத்தும் பயிலரங்கில் பகிர்வு நடத்தியுள்ளார். வாழ்நாள் கற்றலை மனத்தில் கொண்டு, இவர் தற்போது தமிழ்மொழி மற்றும் இலக்கியம் ஆகியவற்றில் தமது பட்டக்கல்வியை மேற்கொண்டு வருகிறார். தமிழுக்கும் தமது மாணவர்களுக்கும் தம்மால் தொடர்ந்து சேவையாற்ற முடியும்என்று இவர் திண்ணமாக நம்புகிறார்.</p>
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">சுருக்கவுரை</h4>
        <p style="margin:10px;font-family:Anjal InaiMathi;">
  கதைசொல்லுதல் என்பது தொன்றுதொட்டு மேற்கொள்ளப்பட்டுவரும் தனித்துவமிக்க ஒரு கலையாகும். மனத்தில் உதிக்கும் கற்பனையோட்டங்களைத் தாய்மொழியில் உணர்வுபூர்வமாக வெளிக்கொணர்வதற்குக் கதைசொல்லுதல் வழிவகுக்கிறது. அதுவும், வாய்மொழிவழிக் கதைசொல்லுதல் என்பது குழந்தைகளின் கற்பனை வளத்தை மட்டுமின்றி, வாய்மொழித் திறனையும் மேம்படுத்தக்கூடிய பயன்மிக்க ஓர் உத்திமுறை என்பது நிரூபணமான ஒன்றாகும்.
@@ -117,6 +118,5 @@ max-width:30%;
        <p style="margin:10px;font-family:Lato,sans-serif;">Rani Kanna has a Master’s degree in Applied Linguistics and is a PhD candidate in Child Psychology. Having undergone special training in teaching arts to pre-schoolers, she has directed plays and musicals for young children, and organised many storytelling events. Rani believes that the mind and soul are most powerfully engaged through stories, and details her narrations with music, actions and authentic voices. She has been selected as a  voice-over talent for Disney cartoons in Tamil. She also enjoys , taking on characters of stories to interact with young children, her favourite quote is, “There isn’t anyone you couldn’t learn to love once you’ve heard their story.”</p>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
        <p style="margin:10px;font-family:Lato,sans-serif;">Storytelling is a special way of sharing ideas, languages, and stories with children. Engaging children in oral storytelling has also proven to be an effective strategy for oral language development. 
-Rani Kanna will be sharing a variety of interesting oral storytelling techniques (modulation of voice and intonation, puppetry, etc.) that can be carried out at home by parents to actively engage their children in the power of imagination, visualisation and oral expression in Tamil. She will also be doing a demonstration with a lower primary child to bring these techniques alive!
-</p></div>
+Rani Kanna will be sharing a variety of interesting oral storytelling techniques (modulation of voice and intonation, puppetry, etc.) that can be carried out at home by parents to actively engage their children in the power of imagination, visualisation and oral expression in Tamil. She will also be doing a demonstration with a lower primary child to bring these techniques alive!</p></div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
