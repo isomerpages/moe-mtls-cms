@@ -95,8 +95,8 @@ max-width:30%;
   <div class="column">
     <img src="/images/CL-Ms-Siau-Jiahui.png" style="width:100%" />
   </div>
-     <p style="font-family:Lato,sans-serif;"> <strong>Ms Siau Jiahui <br/>
-    <span style="font-size:22px; font-family:KaiTi;"><strong>萧嘉蕙</strong></span><br />
+     <p style="font-family:Lato,sans-serif;"> <strong>Ms Siau Jiahui <br>
+  <strong><span style="font-size:22px; font-family:KaiTi;">萧嘉蕙</span></strong>
 </p>
    <h4 id="C1" style="font-size:30px;font-family:KaiTi;color:#d84178;">介绍</h4>
    <p style="font-size:21px;font-family:KaiTi;"> 
