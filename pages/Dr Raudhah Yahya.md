@@ -5,7 +5,7 @@ description: ""
 ---
 <head>
 <style>
-	.video-container {
+  .video-container {
   position: relative;
   width: 100%;
   overflow: hidden;
@@ -35,23 +35,23 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
-		.btn1,.btn2{
-	    font-size: 18px;
-    font-family: KaiTi;
+    .btn1,.btn2{
+      font-size: 18px;
+    font-family: Lato,sans-serif;;
     background-color: #a3c864;
     padding: 13px 13px;
     border-radius: 6px;
     text-align: center;
     display: block;
     margin-left: 26px;
-	}
-	@media only screen and (max-width: 600px){ 
-	.btn1,.btn2{
+  }
+  @media only screen and (max-width: 600px){ 
+  .btn1,.btn2{
    margin-left: -6px;
-	  padding: 1px 8px;
-	}
-	}
-	 .btn1:hover {
+    padding: 1px 8px;
+  }
+  }
+   .btn1:hover {
 background-color: lightgrey;!important;
 }
  .btn2:hover {
@@ -77,11 +77,11 @@ max-width:30%;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-			<a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
-		</td>
-			<td  style="border: none;
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+    </td>
+      <td  style="border: none;
   text-align: left;padding: 25px;width: 20%;">
-<a href="https://staging-moe-mtls.netlify.app/Sharing-Sessions/华文视频/" style="float:right;">Back</a>
+<a href="/malay-session" style="float:right;">Back</a>
 </td>
     </tr>
 </table>
@@ -90,31 +90,25 @@ max-width:30%;
     </div>
     <br />
 <div class="video-container">
-<iframe class="responsive-iframe" src="https://player.vimeo.com/video/594996053?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=d5daed0d43" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  <iframe class="responsive-iframe" src="https://player.vimeo.com/video/594996053?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=d5daed0d43" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
 *Video is best viewed in 1080p.<br />
     <div class="mlimg">
      <div class="column">
-<img src="/images/Speakers_ML Nurashikin Jasni.png" style="width:100%" />
+<img src="/images/ML-Dr-Raudhah-Yahya.png" style="width:100%" />
    </div>
-     <p><strong>Mdm Nurashikin Jasni</strong><br />
+     <p style="font-family:Lato,sans-serif;"><strong>Dr. Raudhah Yahya
+     </strong>
  </p>
-<h4 id="C1" style="color:#a3c864;">Profil</h4> 
-       <p>Puan Nurashikin Jasni atau lebih dikenali dengan panggilan Nura J, pernah bertugas sebagai guru sekolah rendah dan personaliti TV. Kini, beliau bertugas sebagai agen hartanah dengan Propnex dan juga pengasas Pearlista; salun rambut khas wanita. Puan Nura J juga telah menulis dua buah buku bersama anak perempuan beliau, Nyla Esman yang berjudul "The Big Good Wolf" dan "Chickchickaboomz". Pada 2018, beliau menulis "Leia dan Oumar Berhari Raya" bersama rakan baik beliau, Umie Isa. Beliau gemar membaca dan sering mengunjungi perpustakaan dan membaca bersama anak-anak beliau. Puan Nura J percaya bahawa membaca dapat mengekalkan minda yang sihat, membina daya imaginasi yang tinggi dan menajamkan fikiran.</p>
-        <h4 id="C2" style="color:#a3c864;">Sinopsis</h4> 
-      <h4 style="color:#a3c864;">Pembelajaran Bahasa Melayu yang Menarik untuk Kanak-kanak</h4>
-      <p> Ibu bapa merupakan guru pertama anak-anak. Justeru, Puan Nura J yang gemar membaca dan penyokong kegiatan membaca, telah mendedahkan anak-anak beliau kepada pelbagai genre buku cerita bahasa Melayu termasuklah buku yang ditulis dalam bahasa Indonesia. Beliau meluangkan masa sekurang-kurangnya tiga kali seminggu untuk membacakan buku bahasa Melayu kepada anak-anak beliau sebelum mereka tidur. Beliau percaya bahawa membaca dapat memperluas kosa kata mereka. Melalui sesi ini, Puan Nura J akan berkongsi cara mudah beliau menyediakan persekitaran yang menyeronokkan bagi anak-anak beliau belajar dan menggunakan bahasa Melayu.
-</p>
+ <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Perkembangan Emosi-Sosial melalui pengalaman di luar bilik darjah
+ </h4>
+<h4 id="C1" style="color:#a3c864;font-family:Lato,sans-serif;">Profil</h4> 
+       <p style="font-family:Lato,sans-serif;">Membina Taman dengan Kanak-kanak: Taman untuk kanak-kanak meneroka, menemui, bermain dan berkembang menjadi penutur dwibahasa yang yakin dan pelajar yang berdaya tahan tinggi </p>
+        <h4  id="C2" style="color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
+      <p style="font-family:Lato,sans-serif;">Pengalaman awal kanak-kanak dalam kehidupan membentuk asas identiti dan keperibadian mereka dan menetapkan arah dalam pembelajaran dan perkembangan mereka. Bagaimanakah ibu bapa dan pendidik dapat mencipta pengalaman yang bermakna untuk kanak-kanak supaya rasa ingin tahu mereka dapat dipupuk dengan baik dan mereka dapat membesar sebagai penutur dwibahasa yang yakin dan fasih dalam bahasa Inggeris dan bahasa Melayu? Apakah pendekatan bermain secara terarah dan bagaimanakah bermain boleh digunakan untuk memupuk sifat-sifat yang penting seperti berdaya tahan dan berdikari? Perkongsian ini akan tertumpu pada dua soalan tersebut dan penceramah akan mengemukakan cadangan kepada ibu bapa dan pendidik untuk membina bersama kanak-kanak sebuah taman pengalaman pembelajaran bagi kanak-kanak.</p>
      <h4 style="color:#a3c864;">Profile</h4>   
-       <p>Mdm Nurashikin Jasni, also known as Nura J, is a former primary school teacher and TV personality. She is currently a realtor with Propnex and the founder of Pearlista, an all-ladies hair salon.
-</p>
-
-<p>As a local author, Mdm Nurashikin Jasni has co-written “The Big, Good Wolf” and “Chickchickaboomz” with her daughter Nyla Esman, and also co-written “Leia dan Oumar Berhari Raya” with her good friend, Umie Isa.</p>
-<p>A reading advocate who visits the National Library often and loves reading with her children, she firmly believes that reading keeps minds healthy, imaginative and sharp.</p>
-  <h4 style="color:#a3c864;">Synopsis</h4> 
-        <h4 style="color:#a3c864;">Learning Malay in a Fun Way for Our Children</h4>
-  <p>Parents are their children’s first teachers. As a reading advocate, Mdm Nurashikin Jasni believes that reading will widen children’s vocabulary, and exposes her children to different genres of Malay storybooks, including books written in Indonesian vernacular language. She reads Malay books to her children at least thrice a week at bedtime.
-</p>
-<p>Through this session, participants will gain insight into how Mdm Nurashikin Jasni creates a fun environment for her children to learn and use Malay effectively, and with ease. </p></div>
+       <p style="font-family:Lato,sans-serif;">Dr. Raudhah Yahya merupakan seorang pensyarah di Institut Pembangunan Awal Kanak-Kanak Nasional (NIEC). Beliau mempunyai lebih dari 20 tahun pengalaman mengajar pelajar dari pelbagai peringkat usia di Singapura, Kanada dan Oman. Minat penyelidikan beliau tertumpu pada pedagogi berasaskan bermain, wacana sekolah-rumah, pemikiran kanak-kanak, kepercayaan dan amalan guru, dan amalan inklusif di sekolah. Beliau telah dijemput untuk berkongsi kepakarannya dalam pelbagai acara Bahasa Melayu seperti Majlis Ulang Tahun Ke-10 Pusat Bahasa Melayu Singapura (Kementerian Pendidikan), Seminar Guru Bahasa Melayu PCF (PAP Community Foundation), Webinar Mendaki-Berita Harian dan Seminar Keibubapaan anjuran M3 (MUIS, Mendaki, MESRA).</p>
+  <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
+     <p style="font-family:Lato,sans-serif;">Children’s early experiences in life form the foundation of their identity and personality, and set the direction for their learning and development. With this in mind, how do parents and educators co-create meaningful experiences with children that would foster their curiosity in learning and help them grow in confidence as fluent bilinguals in English and Malay Language? What is purposeful play and how can it be used as a medium to nurture children to grow into resilient and independent learners? This talk will focus on addressing these two questions and put forth suggestions for parents and educators to co-build with children a garden of meaningful learning experiences for children to explore, discover, play and grow into confident bilingual communicators in English and Malay.</p></div>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
