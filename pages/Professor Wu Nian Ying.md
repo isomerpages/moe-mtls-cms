@@ -5,6 +5,22 @@ description: ""
 ---
 <head>
 <style>
+  .video-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
 .btntop {
     position: fixed;
     float: right;
@@ -19,8 +35,14 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
-	.btn1,.btn2{
-	    font-size: 18px;
+  @media only screen and (max-width: 600px){ 
+  .btn1,.btn2{
+   margin-left: -6px;
+    padding: 1px 8px;
+  }
+  }
+  .btn1,.btn2{
+      font-size: 18px;
     font-family: KaiTi;
     background-color: #d84178;
     padding: 13px 13px;
@@ -28,8 +50,8 @@ description: ""
     text-align: center;
     display: block;
     margin-left: 26px;
-	}
-	 .btn1:hover {
+  }
+   .btn1:hover {
 background-color: lightgrey;!important;
 }
  .btn2:hover {
@@ -55,7 +77,7 @@ max-width:30%;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-			<a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a></td>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a></td>
 <td style="border: none;
   text-align: left;padding: 25px;width: 20%;"><a href="/chinese-session" style="float:right;">Back</a>
 </td>
@@ -65,33 +87,32 @@ max-width:30%;
     <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_10.jpg" style="display:none;" />
     </div>
 <div class="video-container">
-<iframe width="800" height="500" src="https://player.vimeo.com/video/593644601?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=53eb00b951" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe class="responsive-iframe" src="https://player.vimeo.com/video/593644601?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=53eb00b951" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
 *Video is best viewed in 1080p.<br />
     <div class="climg">
   <div class="column">
-    <img src="/images/Speakers_CL Connie Lum.png" style="width:100%" />
+    <img src="/images/CL-Prof-Wu-Nianyang.png" style="width:100%" />
   </div>
-     <p> <strong>Dr. Connie Lum</strong><br />
-    <span style="font-size:22px;font-family:KaiTi;"><strong>林美莲博士</strong></span><br />
+     <p style="font-family:Lato,sans-serif;"> <strong>Prof Wu Nian Yang </strong><br/>
+   <strong> <span style="font-size:22px;font-family:KaiTi;">吴念阳教授 </span></strong><br />
+   <strong><span style="font-family:Lato,sans-serif;"> [Overseas Speaker]</span></strong>
 </p>
    <h4 id="C1" style="font-size:30px;font-family:KaiTi;color:#d84178;">介绍</h4>
    <p style="font-size:21px;font-family:KaiTi;"> 
- 林美莲博士是职总优儿学府的母语课程策划总监，目前管理170所学前中心。林博士在课程设计、教学和培训等方面拥有近二十年的经验。她也是新加坡推广华文学习委员会学前华文教育支援组的委员之一。</p><br />
-   <h4  id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4>  
-   <h4 style="font-family:KaiTi;font-size:30px;color:#d84178;">借用“感官”经验发展小朋友学习华文的能力</h4>  
-   
-   <p style="font-size:21px;font-family:KaiTi;">一块冰，可以激发孩子“说”的欲望；一张图片，可以帮助孩子加深对故事的理解。这个工作坊将通过五官教学（视觉、听觉、嗅觉、味觉、触觉）及鹰架教学（语言鹰架、材料鹰架、同伴鹰架）促进幼儿学习华文的兴趣，同步提升幼儿的认知发展、专注力及创造力。
-</p><br />
-<h4 style="color:#d84178;">Profile</h4>  
-   <p>
- Dr Connie Lum has worked in the early childhood field for over 20 years. She is currently Director, Mother Tongue Languages at NTUC First Campus. She works closely with principals and teachers in delivering the Chinese curriculum and programmes to children through curriculum writing, training of teachers, evaluating children’s learning environments, and conducting continuous reviews of curriculum tools and techniques. She is a member of the Committee to Promote Chinese Language Learning (CPCLL) Pre-School Group.
+吴念阳教授是上海师范大学学前教育专业博士生导师。她主要研究的领域是儿童阅读理论和阅读推广。吴教授及其团队热衷于推广一种儿童阅读理念：阅读可以通过五官和四肢的协同活动，以倾听、叙说、绘画、搭建、表演等多种形式进行，体验与文字相关的内容，实现对阅读内容的深加工，最终得到认知系统的健康发育，养成良好的阅读兴趣和习惯。</p><br />
+   <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4>  
+   <p style="font-size:21px;font-family:KaiTi;">  本次讲座将通过示范3本绘本阅读过程及其延伸活动，向与会者介绍互动式分享阅读的理念，主张阅读过程要游戏化，阅读内容要去学科化，延伸活动要操作化，操作目标要隐性化。每本绘本，不要纯粹做为一个故事讲给孩子听，还要设计动脑、动嘴、动手、动腿的活动，让孩子用多种关联活动对阅读的内容进行深加工，达到促进认知能力综合发展的目标。
+</p>
+<br>
+<h4 style="color:#d84178;font-family:Lato,sans-serif;">Profile</h4>  
+   <p style="font-family:Lato,sans-serif;">
+Dr. Wu and her team believe that reading involves multisensory activities for children, such as listening, narrating, drawing, building, performing, etc. These activities allow children to feel the words and experience the story, which encourage children’s understanding of the content in a more engaging and interactive way. These act as a positive influence upon children’s cognitive development and help cultivate good reading habits and interests.
 </p><br />
   <h4 style="color:#d84178;"> Synopsis</h4>  
-   <h4 style="color:#d84178;"> Leveraging on the Five Senses in Developing Skills to Learn Chinese Language</h4>  
    <p>
-A piece of ice may motivate children to speak; an image or a photo may help children to develop a deeper understanding of the stories read.<br /><br />
-In this sharing session, the use of multiple sensory play (i.e. visual, auditory, olfactory, gustatory and tactile) and scaffolding strategies (i.e. linguistics scaffolding, curriculum resources scaffolding and peer scaffolding) will be introduced. These will ignite children’s interest in learning Chinese, and enhance cognitive development, concentration and  creativity in children.
+In this sharing session, the concept of interactive reading will be introduced through a demonstration of how two to three picture books could be read along with a series of relevant extended activities. 
+Reading as an activity should not only be centred on its content. It should involve cognitive engagement, speaking tasks, and body movements. Through such extended reading activities that are based on the content of the book, children will develop deeper comprehensive and interactive skills that develop their cognitive ability.
       </p></div>
     <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
