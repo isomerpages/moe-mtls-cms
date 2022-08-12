@@ -96,7 +96,7 @@ max-width:100%;
    </div>
       <p> <strong>Ms Rilla Melati Bte Bahri</strong>
 </p>
-  <h4  id="C1" style="padding-top:12px;margin:10px;color:#fa0;">Raising Bilingual Children: Challenges, Opportunities and Strategies for Success</h4>
+  <h4  id="C1" style="padding-top:12px;margin:10px;color:#fa0;">Edutainment as a Fun Tool in Encouraging the Reluctant MTL Speaker</h4>
       <h4 style="padding-top:12px;margin:10px;color:#fa0;font-family:Lato,sans-serif;">Profile</h4>
        <p style="margin:10px;font-family: Lato,sans-serif;">Rilla Melati is a pioneer of Malay Speech & Drama programmes in schools in Singapore, fusing education and entertainment into one. She has authored over 25 children’s picture books and is a two-time winner of the Aungerah Persuratan (Children’s Literature Category). A co-creator of Fonik Ria Cepat Membaca, a Singapore-made Malay reading system, and translator of the Malay edition of SR Nathan’s The Crane & The Crab, Rilla’s bilingual book Baju Melayu Ati was a recipient of the Lee Kuan Yew Fund for Bilingualism in 2013. She is presently the Director of Mini Monsters Limited, an educational company committed to producing cross-media creative content for children.</p>
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#fa0;">Synopsis</h4>
