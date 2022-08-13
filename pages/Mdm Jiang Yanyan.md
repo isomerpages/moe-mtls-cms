@@ -95,22 +95,25 @@ max-width:30%;
    <strong> <span style="font-size:22px;font-family:KaiTi;">姜嫣嫣</span></strong><br />
    </p>
   </div>
+	<h4 style="font-size:30px;font-family:KaiTi;color:#d84178;text-align:justify;">庆中秋线上互动活动</h4>
  <h4 id="C1" style="font-size:30px;font-family:KaiTi;color:#d84178;">介绍</h4>
-<p style="font-size:21px;font-family:KaiTi;"> 
+<p style="font-size:21px;font-family:KaiTi;text-align:justify;"> 
     姜嫣嫣老师执教14年，现任伊丽沙白公主小学华文部高级教师，也是2021年全国杰出华文教师奖得主之一。她善于运用游戏和数码资源引导学生学习华文，满足他们多样化的学习需求。</p>
 <br />
    <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4> 
-<p style="font-size:21px;font-family:KaiTi;">   学生将通过参与庆中秋线上互动活动了解华人传统节日中秋节的由来，同时感受学习华文的乐趣。 
+<p style="font-size:21px;font-family:KaiTi;text-align:justify;">   学生将通过参与庆中秋线上互动活动了解华人传统节日中秋节的由来，同时感受学习华文的乐趣。 
 </p>
-<p style="font-size:21px;font-family:KaiTi;">在有趣的破冰游戏之后，姜嫣嫣老师会向学生介绍中秋节。学生会以线上游戏的方式参与中秋节问答比赛，并在比赛后动手制作中秋灯笼。  </p>
+<p style="font-size:21px;font-family:KaiTi;text-align:justify;">在有趣的破冰游戏之后，姜嫣嫣老师会向学生介绍中秋节。学生会以线上游戏的方式参与中秋节问答比赛，并在比赛后动手制作中秋灯笼。  </p>
 <br>
+	<h4 style="font-size:30px;font-family:Lato,sans-serif;color:#d84178;">Online Interactive Activities at Mid-Autumn Festival Celebration
+ </h4>
 <h4 style="color:#d84178;font-family:Lato,sans-serif;">Profile</h4>  
-   <p style="font-family:Lato,sans-serif;">
+   <p style="font-family:Lato,sans-serif;text-align:justify;">
 Mdm Jiang Yanyan has over 14 years of experience in Chinese Language teaching.  She is a Senior Teacher (Chinese Language) from Princess Elizabeth Primary School and one of the recipients of the Distinguished Chinese Language Teachers Awards 2021.  Mdm Jiang is adept at using games and digital resources to guide students to learn the Chinese Language, and in ensuring approaches are customised to suit student’s learning needs.
 </p>
   <h4 style="color:#d84178;"> Synopsis</h4>  
-   <p style="font-family:Lato,sans-serif;" >
+   <p style="font-family:Lato,sans-serif;text-align:justify;" >
 Through participating in online interactive activities for the Mid-Autumn Festival Celebration, students can learn about the origin of the festival and experience the joy of learning.
       </p>
-      <p style="font-family:Lato,sans-serif;" >After an interesting ice-breaker, Mdm Jiang Yanyan will introduce the traditional Mid-Autumn Festival to students.  Students will also have the opportunity to participate in the Mid-Autumn Festival quiz through interesting online games. Finally, students will get a chance to participate in a hands-on session to make a Mid-Autumn Lantern.</p>
+      <p style="font-family:Lato,sans-serif;text-align:justify;" >After an interesting ice-breaker, Mdm Jiang Yanyan will introduce the traditional Mid-Autumn Festival to students.  Students will also have the opportunity to participate in the Mid-Autumn Festival quiz through interesting online games. Finally, students will get a chance to participate in a hands-on session to make a Mid-Autumn Lantern.</p>
     <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
