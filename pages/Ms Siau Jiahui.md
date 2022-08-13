@@ -94,22 +94,25 @@ max-width:30%;
 			<p style="font-family:Lato,sans-serif;"> <strong>Ms Siau Jiahui </strong><br>
   <strong><span style="font-size:22px; font-family:KaiTi;">萧嘉蕙</span></strong>
 </p>
+			 <h4 style="font-size:30px;font-family:KaiTi;color:#d84178;text-align:justify;">贴士和策略：通过讲故事激发孩子对华文的兴趣</h4>
    <h4 id="C1" style="font-size:30px;font-family:KaiTi; color:#d84178;">介绍</h4>
-   <p style="font-size:21px;font-family:KaiTi;"> 
+   <p style="font-size:21px;font-family:KaiTi;text-align:justify;"> 
 萧嘉蕙是新传媒属下电台YES933的广播员。 她欢快的嗓音和活泼的个性在过去二十年为许多听众带来了充满欢乐的时光。她目前主持周日上午10点至下午2点的午餐节目《午刻乐乐》。此外，嘉蕙自2020年起于社交媒体推出“STORY TIME WITH 嘉蕙”华语讲故事系列，至今已分享了60多个故事，吸引数千名小朋友们观看。</p><br />
    <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4>  
-   <h4 style="font-family:KaiTi;font-size:30px;color:#d84178;">通过讲故事激发孩子对华语的兴趣 </h4>  
-   <p style="font-size:21px;font-family:KaiTi;">   许多新加坡孩子在学校和家里都习惯说英语。 为激发孩子对母语（MTL）的兴趣，父母可以做些什么呢？
+   <h4 style="font-family:KaiTi;font-size:30px;color:#d84178;text-align:justify;">通过讲故事激发孩子对华语的兴趣 </h4>  
+   <p style="font-size:21px;font-family:KaiTi;text-align:justify;">   许多新加坡孩子在学校和家里都习惯说英语。 为激发孩子对母语（MTL）的兴趣，父母可以做些什么呢？
 </p>
-<p style="font-size:21px;font-family:KaiTi;">  自2020年《STORY TIME WITH 嘉蕙》上线以来，嘉蕙的华文讲故事节目让许多孩子愿意跳出舒适圈，开始讲华语、学习母语。因此，这档节目也得到了很多家长的赞赏和好评。</p>
-<p style="font-size:21px;font-family:KaiTi;"> 在本届母语学习论坛上，嘉蕙将分享她如何培养 6 岁女儿的双语能力，以及如何为孩子打造有利于学习母语的环境。 她也将介绍如何以生动有趣的方式讲述故事，以培养孩子对用华语讲故事的兴趣。</p>
+<p style="font-size:21px;font-family:KaiTi;text-align:justify;">  自2020年《STORY TIME WITH 嘉蕙》上线以来，嘉蕙的华文讲故事节目让许多孩子愿意跳出舒适圈，开始讲华语、学习母语。因此，这档节目也得到了很多家长的赞赏和好评。</p>
+<p style="font-size:21px;font-family:KaiTi;text-align:justify;"> 在本届母语学习论坛上，嘉蕙将分享她如何培养 6 岁女儿的双语能力，以及如何为孩子打造有利于学习母语的环境。 她也将介绍如何以生动有趣的方式讲述故事，以培养孩子对用华语讲故事的兴趣。</p>
 <br>
+			<h4 style="font-size:30px;font-family:Lato,sans-serif;color:#d84178;text-align:justify;">Sparking Children’s interest in the Chinese Language through Storytelling
+ </h4>
 <h4 style="color:#d84178;">Profile</h4>  
-   <p>
+   <p style="text-align:justify;font-family:Lato,sans-serif;">
 Ms Siau Jiahui is a producer-presenter with Mediacorp YES933 who is  currently helming the lunch belt programme 午刻乐乐 from 10am to 2pm on weekdays. Her cheerful voice and vivacious personality have brightened up the days of many listeners over the past two decades.  In 2020, she launched “Storytime with Jiahui” – an online storytelling series on social media which has more than 60 stories and which has been viewed by thousands of young viewers. 
 </p><br />
   <h4 style="color:#d84178;"> Synopsis</h4>  
-   <p>
+   <p style="text-align:justify;font-family:Lato,sans-serif;">
 Sparking children’s interest in Chinese Language through Storytelling
 Many children are used to speaking English at home and in school- so, what can parents do to spark their children’s interest in their Mother Tongue Language (MTL)? 
 Since the launch of “Storytime with Jiahui” in 2020, Jiahui has received much positive feedback and appreciatory messages from parents on how her storytelling has motivated their children to speak and learn MTL.<br /><br />
