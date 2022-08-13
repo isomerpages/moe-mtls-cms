@@ -37,8 +37,8 @@ text-decoration:none;
   width: 100%;">
   <tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Speaking the Language of the Digital Generation: Integrating STEAM and Literacy in the Learning of Malay Language<br/>
-  Blended (Hybrid) Session from 11.30am to 12.30am<br/>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Berbicara Bahasa Generasi Digital: Penggunaan Kaedah STEAM dan Literasi dalam Pembelajaran Bahasa Melayu<br/>
+  [Blended (Hybrid) Session from 11.30am to 12.30am]<br/>
 Ms Nur'afifah Binte Mohd Hussain  <br/>
     Educator, Author <br>
 Yaa Bunayya SG </td>
