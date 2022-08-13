@@ -38,7 +38,7 @@ text-decoration:none;
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Berbicara Bahasa Generasi Digital: Penggunaan Kaedah STEAM dan Literasi dalam Pembelajaran Bahasa Melayu<br/>
-  [Blended (Hybrid) Session from 11.30am to 12.30am]<br/>
+  [Blended (Hybrid) Session from 11.30am to 12.30am]<br/><br/>
 Ms Nur'afifah Binte Mohd Hussain  <br/>
     Educator, Author <br>
 Yaa Bunayya SG </td>
@@ -72,7 +72,7 @@ Ms Fiza O <br/>
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Sesi Bercerita dalam Bahasa Melayu<br/>
-  [Storytelling session (For K1 – P2 students)from 1.00pm to 2.00pm]<br/>
+  [Storytelling session (For K1 – P2 students)from 1.00pm to 2.00pm]<br/><br/>
    Mr Muhammed Shahril Bin Shaik Abdullah<br/>
 		Associate Librarian, Malay Language
 National Library Board  </td>
@@ -88,7 +88,7 @@ National Library Board  </td>
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Memperkenalkan Literasi Bahasa Melayu melalui Bercerita<br/>
-  [Virtual Workshop (For Parent-Child) from 2.30pm to 3.30pm]<br/>
+  [Virtual Workshop (For Parent-Child) from 2.30pm to 3.30pm]<br/><br/>
 Ms Nurain Syakirah binte Nordin <br/>
 		Founder of The Bambini Sg</td>
     <td style="border: none;
@@ -125,7 +125,7 @@ Changkat Changi Secondary School
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Perkembangan Emosi-Sosial melalui Pengalaman di Luar Bilik Darjah<br/>
-  (Available online from 27 Aug 22) <br/>
+  (Available online from 27 Aug 22) <br/><br/>
 Ms Aminah Binte Abdul Latif<br/>
 		Forest School Leader</td>
     <td style="border: none;
@@ -161,7 +161,7 @@ Ms Aimuniliyana Md Rahim<br/>
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Membina Taman dengan Kanak-kanak: Taman untuk Kanak-kanak Meneroka, Menemui, Bermain dan Berkembang Menjadi Penutur Dwibahasa yang Yakin dan Pelajar yang Berdaya tahan Tinggi<br/> 
-			(Available online from 27 Aug 22) <br/>
+			(Available online from 27 Aug 22) <br/><br/>
 Dr Raudhah Yahya  <br/>
 		Lecturer, NIEC-NP </td>
     <td style="border: none;
@@ -176,7 +176,7 @@ Dr Raudhah Yahya  <br/>
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Dari Cetak ke Layar: Memanfaatkan Penggunaan Video untuk Menjana Minat Murid terhadap Bahasa<br/>(Available online from 27 Aug 22)
-  <br/>
+  <br/><br/>
 Mr Muhammad Shahzulhari bin Johari <br/>
 		Malay Language Teacher, Wellington Primary School <br/>
         <br/>
