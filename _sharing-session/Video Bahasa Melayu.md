@@ -6,6 +6,20 @@ description: ""
 <html>
 <head>
 <style>
+	.btntop {
+    position: fixed;
+    float: right;
+    bottom: 20px;
+    right: 80px;
+    z-index: 99;
+    boder: none;
+    background-color: #3bb9ff;
+    cursor: pointer;
+    padding: 15px;
+    boder-radius: 4px;
+    color: #fff;
+    font-weight: 600;
+}
 	.btn1{
 	font-size: 16px;
  font-family:Lato,sans-serif;;
@@ -32,21 +46,6 @@ text-decoration:none;
 </style>
 </head>
 <body>
-	<h4 style="font-family:Lato,sans-serif;"><b>For Pre-School/Primary Educators </b></h4>
-  <table style="border-collapse: collapse;
-  width: 100%;">
-  <tr>
-    <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Berbicara Bahasa Generasi Digital: Penggunaan Kaedah STEAM dan Literasi dalam Pembelajaran Bahasa Melayu<br/>
-  [Blended (Hybrid) Session from 11.30am to 12.30am]<br/><br/>
-Ms Nur'afifah Binte Mohd Hussain  <br/>
-    Educator, Author <br>
-Yaa Bunayya SG </td>
-    <td style="border: none;
-  text-align: left;padding: 8px;width: 30%;">
- <a href="/Mdm-Nur-afifah" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Watch Here!</a></td>
-    </tr>
-</table>
 	<h4 style="font-family:Lato,sans-serif;"><b>Sharing Sessions</b></h4>
 <table style="border-collapse: collapse;
   width: 100%;">
@@ -188,3 +187,19 @@ Mr Muhammad Shahzulhari bin Johari <br/>
 </td>
     </tr>
 </table>
+	<h4 style="font-family:Lato,sans-serif;"><b>For Pre-School/Primary Educators </b></h4>
+  <table style="border-collapse: collapse;
+  width: 100%;">
+  <tr>
+    <td style="border: none; width: 70%;
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Berbicara Bahasa Generasi Digital: Penggunaan Kaedah STEAM dan Literasi dalam Pembelajaran Bahasa Melayu<br/>
+  [Blended (Hybrid) Session from 11.30am to 12.30am]<br/><br/>
+Ms Nur'afifah Binte Mohd Hussain  <br/>
+    Educator, Author <br>
+Yaa Bunayya SG </td>
+    <td style="border: none;
+  text-align: left;padding: 8px;width: 30%;">
+ <a href="/Mdm-Nur-afifah" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Watch Here!</a></td>
+    </tr>
+</table>
+	<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
