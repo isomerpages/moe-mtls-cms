@@ -30,8 +30,8 @@ sections:
   - infopic:
       title: Storytelling Sessions
       subtitle: For children
-      description: "Join our librarians from NLB in an engaging and interactive online
-        Storytelling Session. "
+      description: "Join our librarians from National Library Board in an engaging and
+        interactive online Storytelling Session. "
       button: Register here to secure a place for your child!
       alt: Image alt text
       url: register-now
@@ -46,4 +46,3 @@ sections:
       url: register-now
       image: /images/Mascot_Banners_600x300px_2.jpg
 ---
-
