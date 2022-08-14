@@ -3,7 +3,6 @@ title: Ms Rilla Melati Binte Bahri
 permalink: /Ms-Rilla-Melati
 description: ""
 ---
-
 <head>
 <style>
   .video-container {
@@ -95,7 +94,7 @@ max-width:100%;
 </p>
   <h4  id="C1" style="padding-top:12px;margin:10px;color:#fa0;">Edutainment as a Fun Tool in Encouraging the Reluctant MTL Speaker</h4>
       <h4 style="padding-top:12px;margin:10px;color:#fa0;font-family:Lato,sans-serif;">Profile</h4>
-       <p style="margin:10px;font-family: Lato,sans-serif;">Rilla Melati is a pioneer of Malay Speech & Drama programmes in schools in Singapore, fusing education and entertainment into one. She has authored over 25 children’s picture books and is a two-time winner of the Aungerah Persuratan (Children’s Literature Category). A co-creator of Fonik Ria Cepat Membaca, a Singapore-made Malay reading system, and translator of the Malay edition of SR Nathan’s The Crane & The Crab, Rilla’s bilingual book Baju Melayu Ati was a recipient of the Lee Kuan Yew Fund for Bilingualism in 2013. She is presently the Director of Mini Monsters Limited, an educational company committed to producing cross-media creative content for children.</p>
+       <p style="margin:10px;font-family: Lato,sans-serif;">Rilla Melati is a pioneer of Malay Speech & Drama programmes in schools in Singapore, fusing education and entertainment into one. She has authored over 25 children’s picture books and is a two-time winner of the Aungerah Persuratan (Children’s Literature Category). A co-creator of Fonik Ria Cepat Membaca, a Singapore-made Malay reading system, and translator of the Malay edition of S.R. Nathan’s The Crane & The Crab, Rilla’s bilingual book Baju Melayu Ati was a recipient of the Lee Kuan Yew Fund for Bilingualism in 2013. She is presently the Director of Mini Monsters Limited, an educational company committed to producing cross-media creative content for children.</p>
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#fa0;">Synopsis</h4>
 <p style="margin:10px;font-family:Lato,sans-serif;">Whilst much of the creative content for children today is explicitly produced with education in mind, other content treats education as a secondary purpose, or even as merely incidental. However, with the growing popularity of new media among the present generation of children, the lines between education and entertainment become blurred. So, what then is the role of edutainment as a tool for language learning? Can it be used to effectively engage and encourage children to speak in the Mother Tongue Language (MTL)? Join in the discussion to explore the merits of edutainment as a learning tool to help the reluctant MTL speaker.
 </p>  
