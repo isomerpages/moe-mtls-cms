@@ -59,7 +59,7 @@ img{
 <p style="text-align:justify;">Program ini ditawarkan untuk memberikan peluang kepada kanak-kanak untuk menikmati bahasa, berkomunikasi dengan yakin dan menyedari adat dan budaya tempatan. Perkara ini dapat dicapai dengan menyediakan pengajaran dan pembelajaran bahasa yang menyeronokkan kepada kanak-kanak melalui penerokaan bahan-bahan, seperti Buku Besar, lagu dan permainan berdasarkan konteks tempatan. Program ini juga memberikan peluang kepada ahli keluarga untuk turut terlibat dalam pembelajaran kanak-kanak.</p>
 <p style="text-align:justify;">Melalui program ini, kanak-kanak akan membina kemahiran literasi awal melalui kemahiran mendengar dan bertutur.  Kemahiran ini akan membantu bagi membina asas yang kukuh dalam pembelajaran bahasa pada masa hadapan.</p>
 <img src="/images/Pic-PreSch-ML_1.jpg"> <br/>
-<p style="text-align:justify;">Yang berikut merupakan gambaran keseluruhan bagi <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines" target="_blank"><u>Rangka Kerja untuk Bahasa Ibunda.</u></a></p>
+<p style="text-align:justify;">Yang berikut merupakan gambaran keseluruhan bagi <a href="https://www.nel.moe.edu.sg/resources/aktiviti-aktiviti-saranan" target="_blank"><u>Rangka Kerja untuk Bahasa Ibunda.</u></a></p>
 <img src="/images/Pic-PreSch-ML-2.png">
 <p style="text-align:justify;">Rangka Kerja ini dibina dengan kepercayaan bahawa kanak-kanak mempunyai sifat ingin tahu, aktif dan cekap.</p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_1.jpg"><br/>
