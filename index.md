@@ -25,7 +25,7 @@ sections:
         a fun and engaging way online! "
       button: Register here to secure a place for your child!
       alt: Image alt text
-      url: register-now
+      url: https://event-reg.biz/Registration/RegDelegate_MTLS2022EngagementSession?FLW=16gFqWgviPD39J0h%7C%7CRNUjA==&SHW=/0fB0bPedlD1kKlGfsVq%7C%7Cg==&GRP=SHatfdeRi657A0m4wzE/Ug==&STP=uTx3HwZBhvahan5gxR/%7C%7CCA==
       image: /images/Mascot_Banners_600x300px_4.jpg
   - infopic:
       title: Storytelling Sessions
@@ -34,7 +34,7 @@ sections:
         interactive online Storytelling Session. "
       button: Register here to secure a place for your child!
       alt: Image alt text
-      url: register-now
+      url: https://event-reg.biz/Registration/RegDelegate_MTLS2022StorytellingSession?FLW=nGOARKRwg7/YcYSAr1kqEQ==&SHW=/0fB0bPedlD1kKlGfsVq%7C%7Cg==&GRP=MP3myIc8Lp0DxoNPRgx8jQ==&STP=uTx3HwZBhvahan5gxR/%7C%7CCA==
       image: /images/Mascot_Banners_600x300px_3.jpg
   - infopic:
       title: Interactive Workshops
@@ -43,6 +43,6 @@ sections:
         Interactive Workshops.
       button: Register here to secure your place!
       alt: Image alt text
-      url: register-now
+      url: https://event-reg.biz/Registration/RegDelegate_MTLS2022InteractiveWorkshop?FLW=sVTQE1ZAU9R70GbnwNjWtA==&SHW=/0fB0bPedlD1kKlGfsVq%7C%7Cg==&GRP=tqqG1TObOL%7C%7CTbw5TUmf2ww==&STP=uTx3HwZBhvahan5gxR/%7C%7CCA==
       image: /images/Mascot_Banners_600x300px_2.jpg
 ---
