@@ -93,12 +93,12 @@ max-width:30%;
      <div class="column">
 <img src="/images/ML-Mr-Djohan .png" style="width:100%" />
    </div>
-     <p style="font-family:Lato,sans-serif;"><strong>Djohan Bin Abdul Rahman</strong><br />
+     <p style="font-family:Lato,sans-serif;"><strong>Mr Djohan Bin Abdul</strong><br />
  </p>
      <div class="column">
 <img src="/images/ML-Ms-Nurain-Bte-Tajudeen.png" style="width:100%" />
    </div>
-     <p style="font-family:Lato,sans-serif;"><strong>Nurain Binte Tajudeen</strong><br />
+     <p style="font-family:Lato,sans-serif;"><strong>Ms Nurain Binte Tajudeen</strong><br />
  </p>
  <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Mencari Kata Adjektif!</h4>
 <h4 id="C1" style="color:#a3c864;font-family:Lato,sans-serif;">Profil</h4> 
