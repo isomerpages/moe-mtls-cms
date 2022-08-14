@@ -52,13 +52,15 @@ text-decoration:none;
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Cabaran-cabaran Ibu Bapa dalam Menggalakkan Penggunaan Bahasa Melayu di Rumah<br/>
-  [Live Sharing Session from 4pm to 5pm]<br/>
+[Live Sharing Session (For Parents) from 4.00pm to 5.00pm]<br/>
   <br/>
 Ms Fiza O <br/>
 		Celebrity Parent <br/>
         <br/>
-       Mdm Salha Bte Mohamed Hussain <br/>
-		Lead Specialist, Malay Language, CPDD</td>
+       Mdm Salha Binte Mohamed Hussain <br/>
+		Lead Specialist, Malay Language<br>
+		Curriculum Planning and Development Division<br>
+		Ministry of Education</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
  <a href="/Ms-Fiza-O-And-Mdm-Salha-Bte-Mohamed-Hussain" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini!</a>
@@ -193,10 +195,10 @@ Mr Muhammad Shahzulhari bin Johari <br/>
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Berbicara Bahasa Generasi Digital: Penggunaan Kaedah STEAM dan Literasi dalam Pembelajaran Bahasa Melayu<br/>
-  [Blended (Hybrid) Session from 11.30am to 12.30am]<br/><br/>
-Ms Nur'afifah Binte Mohd Hussain  <br/>
-    Educator, Author <br>
-Yaa Bunayya SG </td>
+[Hybrid Sharing Session (For Educators) from 11.30am to 12.30pm]<br/><br/>
+Ms Nur’afifah Binte Mohd Hussain  <br/>
+  Educator, Author <br>
+Yaa Bunayya SG</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
  <a href="/Mdm-Nur-afifah" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini!</a></td>
