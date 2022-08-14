@@ -94,12 +94,12 @@ max-width:30%;
      <div class="column">
 <img src="/images/ML-Aimuni.png" style="width:100%" />
    </div>
-     <p style="font-family:Lato,sans-serif;"><strong>Aimuniliyana Md Rahim</strong><br />
+     <p style="font-family:Lato,sans-serif;"><strong>Ms Aimuniliyana Md Rahim</strong><br />
  </p>
      <div class="column">
 <img src="/images/ML-Aimi.png" style="width:100%" />
    </div>
-     <p style="font-family:Lato,sans-serif;"><strong>Almi Roafuziah binte Mohamed</strong><br />
+     <p style="font-family:Lato,sans-serif;"><strong>Ms Almi Roafuziah binte Mohamed</strong><br />
  </p>
  <h4 style="color:#a3c864;font-family:Lato,sans-serif;text-align:justify;">Membentuk Penutur Dwibahasa: Strategi Mengasah Kemahiran Lisan di Rumah
  </h4>
