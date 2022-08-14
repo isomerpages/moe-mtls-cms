@@ -94,12 +94,12 @@ max-width:30%;
      <div class="column">
 <img src="/images/ML-Mr-MUHAMAD-SHAHZULHARI-BIN-JOHARI.png" style="width:100%" />
    </div>
-     <p style="font-family:Lato,sans-serif;"><strong>Muhamad Shahzulhari Bin Johari</strong><br />
+     <p style="font-family:Lato,sans-serif;"><strong>Mr Muhamad Shahzulhari Bin Johari</strong><br />
  </p>
      <div class="column">
 <img src="/images/ML-Mr-AIRI-BIN-BUJANG.png" style="width:100%" />
    </div>
-     <p style="font-family:Lato,sans-serif;"><strong>Airi Bin Bujang</strong><br />
+     <p style="font-family:Lato,sans-serif;"><strong>Mr Airi Bin Bujang</strong><br />
  </p>
  <h4 style="color:#a3c864;font-family:Lato,sans-serif;text-align:justify;">Dari Cetak ke Layar: Memanfaatkan Penggunaan Video untuk Menjana Minat Murid terhadap Bahasa</h4>
 <h4 id="C1" style="color:#a3c864;font-family:Lato,sans-serif;">Profil</h4> 
