@@ -66,7 +66,7 @@ MK@Horizon<br />
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-MK-Horizon-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+ <a href="/ml-MK-Horizon-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
   <a href="#" class="btn2" style="color:#fff;">View Exhibition </a>
   </div></td>
     </tr>
@@ -83,7 +83,7 @@ MK@Wellington
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-MK-Wellington-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+ <a href="/ml-MK-Wellington-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
   <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
@@ -98,7 +98,7 @@ MK@Wellington
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-PCF-Sparkletots-Boon-Lay-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+ <a href="/ml-PCF-Sparkletots-Boon-Lay-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
   <a href="#" class="btn2" style="color:#fff;">View Exhibition </a>
   </div></td>
     </tr>
@@ -112,7 +112,7 @@ MK@Wellington
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-MY-World-Punggol-Edge-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+ <a href="/ml-MY-World-Punggol-Edge-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
   <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
