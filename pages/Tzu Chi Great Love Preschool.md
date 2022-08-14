@@ -38,6 +38,6 @@ color: #d84178;text-align:justify;">教之以礼 育之以德</h4>
 <p style="font-size: 21px;font-family: KaiTi;text-align:justify;">   静思语是慈济人文教育的特色之一，以生活化的智慧法语，启发良知良能。教师选取简短易读、适合幼儿的静思语，融入教学中，并通过讲述故事、体验、省思、生活实践，还有角色扮演与讨论，让静思语的意涵深入孩子的心灵，渐渐内化为日常言行中知礼明理的依据。</p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">Tzu Chi Great Love Preschool uses Tzu Chi’s humanism and Jing Si Aphorisms as their teaching medium. Jing Si Aphorisms are the wise sayings of Dharma Master Cheng Yen and are core values of Tzu Chi’s humanistic education. </p>
 <p style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">They apply to daily life and seek to inculcate values of love, respect and gratitude in children. The short and simple teachings are incorporated into lessons through a variety of approaches such as story-telling, experiential activities and other activities.</p>
-<p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">Key features of the Preschool include the Jing Si Aphorisms, Tzu Chi Humanistic Aesthetics (tea and flower ceremony), Tzu Chi Sign Language, life education through picture books and learning through play. 
+<p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">Key features of the PreSchool include the Jing Si Aphorisms, Tzu Chi Humanistic Aesthetics (tea and flower ceremony), Tzu Chi Sign Language, life education through picture books and learning through play. 
 </p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
