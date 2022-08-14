@@ -76,7 +76,7 @@ Waterway Primary School<br />
   width: 100%;">
   <tr>
     <td class="data" style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Memperkaya Kosa Kata melalui Lagu Kanak-kanak (P1/P2)
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Memperkaya Kosa Kata Melalui Lagu Kanak-kanak (P1/P2)
   <br />
 Junyuan Primary School
 </td>
@@ -106,8 +106,7 @@ Junyuan Primary School
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Strategi  mempertingkat
-kemahiran berbahasa  secara kritikal dan kreatif  melalui   JAMPI, CINTA & KASIH (JCK)<br />
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Strategi Mempertingkat Kemahiran Berbahasa Secara Kritikal dan Kreatif Melalui JAMPI, CINTA dan KASIH<br />
 		Meridian Sec School</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
