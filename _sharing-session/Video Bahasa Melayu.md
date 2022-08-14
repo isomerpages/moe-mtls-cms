@@ -91,7 +91,7 @@ Collection Planning and Development,  National Library Board  </td>
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Memperkenalkan Literasi Bahasa Melayu melalui Bercerita<br/>
 [Online Interactive Workshop (For Parent-Child Activity) from 2.30pm to 3.30pm]<br/><br/>
 Ms Nurain Syakirah binte Nordin <br/>
-		Founder of The Bambini Sg</td>
+		Founder, The Bambini SG</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
 <a href="/Ms-Nurain-Syakirah-binte-Nordin" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini!</a>
@@ -104,14 +104,14 @@ Ms Nurain Syakirah binte Nordin <br/>
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Mencari Kata Adjektif!<br/>
-  [Engagement Session from 5.30pm to 6.30pm]<br/>
+[Online Engagement Sessions (For P1 to P4 Students) from 5.30pm to 6.30pm]<br/>
   <br/>
 Mr Djohan Bin Abdul Rahman  <br/>
 		Lead Teacher, Malay Language
 Changkat Changi Secondary School<br/>
 <br/>
 Ms Nurain Binte Tajudeen <br/>
-		Malay Language Teacher
+	Teacher, Malay Language
 Changkat Changi Secondary School
 </td>
     <td style="border: none;
@@ -126,8 +126,8 @@ Changkat Changi Secondary School
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Perkembangan Emosi-Sosial melalui Pengalaman di Luar Bilik Darjah<br/>
-  (Available online from 27 Aug 22) <br/><br/>
-Ms Aminah Binte Abdul Latif<br/>
+ [Pre-Recorded Sessions (Recordings will be made available online from 27 August 2022)] <br/><br/>
+Miss Aminah Binte Abdul Latif<br/>
 		Forest School Leader</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
@@ -141,10 +141,11 @@ Ms Aminah Binte Abdul Latif<br/>
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Membentuk Penutur Dwibahasa: Strategi Mengasah Kemahiran Lisan di Rumah<br/>
-  (Available online from 27 Aug 22) <br/>
+[Pre-Recorded Sessions (Recordings will be made available online from 27 August 2022)] <br/>
    <br/>
 Ms Aimuniliyana Md Rahim<br/>
-		Preschool Educator, Winner of the Outstanding Preschool Mother Tongue Language Award 2018 <br/>
+		Preschool Educator, <br>
+Winner of the Outstanding Pre-School Mother Tongue Language Teacher Award 2018 <br/>
         <br/>
         Ms Almi Roafuziah binte Mohamed   <br/>
 		Student <br/>
@@ -162,7 +163,7 @@ Ms Aimuniliyana Md Rahim<br/>
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Membina Taman dengan Kanak-kanak: Taman untuk Kanak-kanak Meneroka, Menemui, Bermain dan Berkembang Menjadi Penutur Dwibahasa yang Yakin dan Pelajar yang Berdaya tahan Tinggi<br/> 
-			(Available online from 27 Aug 22) <br/><br/>
+		[Pre-Recorded Session (Recordings will be made available online from 27 August 2022)] <br/><br/>
 Dr Raudhah Yahya  <br/>
 		Lecturer, NIEC-NP </td>
     <td style="border: none;
@@ -176,7 +177,8 @@ Dr Raudhah Yahya  <br/>
   width: 100%;">
   <tr>
     <td style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Dari Cetak ke Layar: Memanfaatkan Penggunaan Video untuk Menjana Minat Murid terhadap Bahasa<br/>(Available online from 27 Aug 22)
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Dari Cetak ke Layar: Memanfaatkan Penggunaan Video untuk Menjana Minat Murid terhadap Bahasa<br/>
+	[Pre-Recorded Session (Recordings will be made available online from 27 August 2022)]
   <br/><br/>
 Mr Muhammad Shahzulhari bin Johari <br/>
 		Malay Language Teacher, Wellington Primary School <br/>
