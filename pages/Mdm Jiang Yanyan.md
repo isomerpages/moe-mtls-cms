@@ -98,7 +98,7 @@ max-width:30%;
 	<h4 style="font-size:30px;font-family:KaiTi;color:#d84178;text-align:justify;">庆中秋线上互动活动</h4>
  <h4 id="C1" style="font-size:30px;font-family:KaiTi;color:#d84178;">介绍</h4>
 <p style="font-size:21px;font-family:KaiTi;text-align:justify;"> 
-    姜嫣嫣老师执教14年，现任伊丽沙白公主小学华文部高级教师，也是2021年全国杰出华文教师奖得主之一。她善于运用游戏和数码资源引导学生学习华文，满足他们多样化的学习需求。</p>
+    姜嫣嫣老师执教14年，现任伊丽莎白公主小学华文部高级教师，也是2021年全国杰出华文教师奖得主之一。她善于运用游戏和数码资源引导学生学习华文，满足他们多样化的学习需求。</p>
 <br />
    <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4> 
 <p style="font-size:21px;font-family:KaiTi;text-align:justify;">   学生将通过参与庆中秋线上互动活动了解华人传统节日中秋节的由来，同时感受学习华文的乐趣。 
