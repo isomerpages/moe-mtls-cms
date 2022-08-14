@@ -41,13 +41,15 @@ text-decoration:none;
 }
 	@media screen and (max-width: 600px) {
  .btn1 {
-		width: 90px;
+		width: 114px;
 		font-size: 14px;
   }
 	.btn2{
-		width: 90px;
+		width: 114px;
 		font-size: 14px;
   }
+	.data{
+	 font-size: 17px;
 }
 </style>
 </head>
@@ -55,7 +57,7 @@ text-decoration:none;
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Membangun Kanak-kanak Berdwibahasa<br />
+    <td class="data" style="border: none; width: 70%;font-size:20px;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Membangun Kanak-kanak Berdwibahasa<br />
 MK@Horizon<br />
  </td>
     <td style="border: none;
@@ -70,7 +72,7 @@ MK@Horizon<br />
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;
+    <td class="data" style="border: none; width: 70%;font-size:20px;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">‘Saya Wira/Wirawati Budaya!’ 
   <br />
 MK@Wellington
@@ -87,7 +89,7 @@ MK@Wellington
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;
+    <td class="data" style="border: none; width: 70%;font-size:20px;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Transformasi  Melalui Kitar Semula <br/>
 	PCF Sparkletots @ Boon Lay 631 (KN)</td>
     <td style="border: none;
@@ -102,7 +104,7 @@ MK@Wellington
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Menggunakan Strategi Pemikiran Visual & Pembelajaran Melalui Pengalaman untuk Meningkatkan Pengetahuan Kanak-kanak dalam Bahasa Melayu<br />
+    <td class="data" style="border: none; width: 70%;font-size:20px;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Menggunakan Strategi Pemikiran Visual & Pembelajaran Melalui Pengalaman untuk Meningkatkan Pengetahuan Kanak-kanak dalam Bahasa Melayu<br />
 		M.Y World @ Punggol Edge</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
