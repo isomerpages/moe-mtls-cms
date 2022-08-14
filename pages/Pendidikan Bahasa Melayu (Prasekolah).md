@@ -93,10 +93,10 @@ img{
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_6.jpg"><br>
 <p> <span class="dot"></span>&nbsp;&nbsp;&nbsp;Bagaimanakah Sesuatu Benda atau Perkara Berfungsi?</p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_7.jpg"><br>
-<p>  Untuk mendapatkan contoh Aktiviti Belajar Bahasa Melayu di Rumah yang lain, sila layari lelaman daripada tadika-tadika ini.
+<p>  Untuk mendapatkan contoh Aktiviti Bahasa Melayu yang lain, sila layari lelaman daripada tadika-tadika ini.
 </p>
 <ul>
- <li><a href="#" target="_blank">Tadika MOE @ Fernvale </a></li>
- <li><a href="#" target="_blank">Tadika MOE @ Punggol Green </a></li>
+ <li><a href="#" target="_blank">Tadika MOE @ Horizon Link to MK@Horizon Exhibit </a></li>
+ <li><a href="#" target="_blank">Tadika MOE @ Wellington Link to MK@Wellington Exhibit </a></li>
 </ul>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
