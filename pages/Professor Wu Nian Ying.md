@@ -91,7 +91,7 @@ max-width:30%;
   <div class="column">
     <img src="/images/CL-Prof-Wu-Nianyang.png" style="width:100%" />
   </div>
-     <p style="font-family:Lato,sans-serif;"> <strong>Prof Wu Nian Yang </strong><br/>
+     <p style="font-family:Lato,sans-serif;"> <strong>Professor Wu Nianyang </strong><br/>
    <strong> <span style="font-size:22px;font-family:KaiTi;">吴念阳教授 </span></strong><br />
    <strong><span style="font-family:Lato,sans-serif;"> [Overseas Speaker]</span></strong>
 </p><h4 style="font-size:30px;font-family:KaiTi;color:#d84178;text-align:justify;">阅读促进认知发展</h4>
