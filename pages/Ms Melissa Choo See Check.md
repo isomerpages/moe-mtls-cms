@@ -91,14 +91,14 @@ max-width:30%;
   <div class="column">
     <img src="/images/CL-Choo-See-Check.png" style="width:100%" />
   </div>
-     <p style="font-family:Lato,sans-serif;"> <strong>Ms Mellisa Choo See Check</strong><br/>
+     <p style="font-family:Lato,sans-serif;"> <strong>Ms Melissa Choo See Check</strong><br/>
    <strong> <span style="font-size:22px;font-family:KaiTi;">朱思洁</span></strong><br />
    </p>
   </div>
 <h4 style="font-size:30px;font-family:KaiTi;color:#d84178;text-align:justify;">悦读花园的小故事</h4>
  <h4 id="C1" style="font-size:30px;font-family:KaiTi;color:#d84178;">介绍</h4>
 <p style="font-size:21px;font-family:KaiTi;text-align:justify;"> 
-      思洁是国家图书馆管理局的助理图书馆员。她的工作让她接触高素质的华文书籍，并给她提供了了解当下阅读趋势的机会。她乐于把自己所知道的与家长和孩子们分享。曾担任教学工作的她也观察到良好的阅读习惯有利于语言的学习，因此她积极提倡阅读，尤其是阅读母语书籍，而这正是她每日的工作，也是她所喜爱的。</p>
+      朱思洁是国家图书馆管理局的助理图书馆员。她的工作让她接触高素质的华文书籍，并给她提供了了解当下阅读趋势的机会。她乐于把自己所知道的与家长和孩子们分享。曾担任教学工作的她也观察到良好的阅读习惯有利于语言的学习，因此她积极提倡阅读，尤其是阅读母语书籍，而这正是她每日的工作，也是她所喜爱的。</p>
 <br />
    <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4> 
 <p style="font-size:21px;font-family:KaiTi;text-align:justify;">     朱思洁将分享能激发孩子创意和想象力的绘本故事。每个故事都挥洒着魔力，能吸引孩子积极参与，进而发现其中的乐趣。随着故事情节的推进，故事内容还会出现意想不到的发展，以激发孩子探索的兴趣，满足孩子的好奇心。
