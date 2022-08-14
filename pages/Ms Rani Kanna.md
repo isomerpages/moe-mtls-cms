@@ -94,7 +94,7 @@ max-width:30%;
   <div class="column">
 <img src="/images/TL-Ms-Rani-Kanna.png" style="width:100%" />
    </div>
-    <p style="font-family:Lato,sans-serif;"><strong>Rani Kanna </strong><br/>
+    <p style="font-family:Lato,sans-serif;"><strong>Ms Rani Kanna </strong><br/>
       <span style="font-family:Anjal InaiMathi;"> <strong>திருமதி ராணி கண்ணா</strong></span><br />
    </p>
    <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;text-align:justify;">கதை சொல்வதன்மூலம் உங்கள் பிள்ளைகளோடு மகிழ்வூட்டும் தருணங்களை உருவாக்குங்கள்!</h4>
