@@ -110,7 +110,7 @@ max-width:30%;
  </h4>
 <h4 style="color:#d84178;font-family:Lato,sans-serif;">Profile</h4>  
    <p style="font-family:Lato,sans-serif;text-align:justify;">
-Wang Zheng is a Chinese Language newscaster at MediaCorp. Since joining the company in 2005, she has been a key presenter for Channel 8 evening news programs, including Singapore Today, Hello Singapore and News Tonight. In addition to presenting news, Wang Zheng also produce and reports on daily news and special features. She also frequently participates in Chinese news production training programmes for professionals and students through in-depth sharing of her knowledge and experience.
+Wang Zheng is a Chinese Language newscaster at Mediacorp. Since joining the company in 2005, she has been a key presenter for Channel 8 evening news programs, including Singapore Today, Hello Singapore and News Tonight. In addition to presenting news, Wang Zheng also produces and reports on daily news and special features. She also frequently participates in Chinese news production training programmes for professionals and students through in-depth sharing of her knowledge and experience.
 </p>
   <h4 style="color:#d84178;"> Synopsis</h4>  
    <p style="font-family:Lato,sans-serif;text-align:justify;" >
