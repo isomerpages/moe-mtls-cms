@@ -38,6 +38,7 @@ description: ""
     在推广母语的学习和使用方面，基金资助各种资源、项目和活动，积极发挥其“催化作用”。
 </p>
 <p style="font-size: 20px;font-family: KaiTi;text-align:justify;">基金的社交媒体平台上（包括YouTube频道、Facebook和Instagram）有许多生动有趣的母语视频，供老师、家长及孩童观赏和学习。</p>
+<h4 style="font-size: 35px;font-family: Lato,sans-serif;padding-top:12px;margin:10px;color: #d84178;">Sowing the Love for Our Mother Tongue Languages!</h4>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">The establishment of the Lee Kuan Yew Fund for Bilingualism was announced by Mr Lee Kuan Yew at the launch of “My Lifelong Challenge: Singapore’s Bilingual Journey” in 2011.</p>
 <p style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">The Fund supports creative and engaging approaches that encourage bilingualism and the learning of Mother Tongue Languages (MTLs) as living languages.</p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">The Fund acts as a catalyst in the learning and usage of MTLs through various Fund-supported resources, events and programmes.</p>
