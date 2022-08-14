@@ -33,8 +33,7 @@ description: ""
 }
 </style>
 <a href="/exhibits/melayu-malay-language-exhibitions-d/schools/" style="float:left;" class="backbtn">Back</a><br>
-<h4 style="font-size: 35px;font-family: Lato,sans-serif;padding-top:12px;margin:10px;color: #a3c864;">Strategi  mempertingkat
-kemahiran berbahasa  secara kritikal dan kreatif  melalui   JAMPI, CINTA & KASIH (JCK)</h4>
+<h4 style="font-size: 35px;font-family: Lato,sans-serif;padding-top:12px;margin:10px;color: #a3c864;">Strategi Mempertingkat Kemahiran Berbahasa Secara Kritikal dan Kreatif Melalui JAMPI, CINTA dan KASIH</h4>
 <p style="font-size: 20px;font-family: Lato,sans-serif;text-align:justify;">Sekolah Menengah Meridian berkongsi Strategi Pembelajaran Riang Ria melalui ‘JAMPI, CINTA, KASIH’ (JCK) yang bertujuan untuk mempertingkat kemahiran berbahasa secara kreatif dan kritikal melalui  strategi Rutin Berfikir, penghasilan video, rakaman audio  dan persembahan dalam bilik darjah. </p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">Para pengunjung berpeluang untuk mengetahui aktiviti pengajaran dan pembelajaran yang berkesan dalam mempertingkat kemahiran menulis, membaca dan memahami serta interaksi lisan. Strategi  JCK  ini  memberi keyakinan  kepada  pelajar  ketika berbahasa dan meningkatkan  penguasaan kosa kata serta  menggalakkan pelajar untuk memberi huraian  jawapan  yang tuntas, baik dan berkesan.</p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">Meridian Secondary School's use of acronyms in the teaching and learning of Malay Language” adopts an interactive approach for lessons at all levels.</p>
