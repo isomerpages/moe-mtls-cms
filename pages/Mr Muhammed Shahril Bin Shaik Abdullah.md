@@ -94,10 +94,10 @@ max-width:30%;
      <div class="column">
 <img src="/images/ML-Mr-Shahril.png" style="width:100%" />
    </div>
-     <p style="font-family:Lato,sans-serif;"><strong>Muhammed Shahril Bin Shaik Abdullah
+     <p style="font-family:Lato,sans-serif;"><strong>Mr Muhammed Shahril Bin Shaik Abdullah
      </strong>
  </p>
- <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Sesi Bercerita dalam Bahasa Melay
+ <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Sesi Bercerita dalam Bahasa Melayu
  </h4>
 <h4 id="C1" style="color:#a3c864;font-family:Lato,sans-serif;">Profil</h4> 
        <p style="font-family:Lato,sans-serif;text-align:justify;">Encik Muhammed Shahril Shaik Abdullah bertugas sebagai seorang Pustakawan Bersekutu di Perpustakaan Negara Singapura. Beliau mengendalikan beberapa program bacaan untuk kanak-kanak dari umur satu hingga sembilan tahun. Beliau memegang Sarjana Pendidikan dari Universiti Monash (Australia) dalam bidang kepimpinan, dasar dan perubahan. Minat penyelidikan beliau termasuklah sastera kanak-kanak dan pedagogi kritis.</p>
