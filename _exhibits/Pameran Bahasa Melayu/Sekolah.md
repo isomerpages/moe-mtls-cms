@@ -66,7 +66,7 @@ Waterway Primary School<br />
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-Waterway-Primary-School-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+ <a href="/ml-Waterway-Primary-School-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
   <a href="#" class="btn2" style="color:#fff;">View Exhibition </a>
   </div></td>
     </tr>
@@ -83,7 +83,7 @@ Junyuan Primary School
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-Junyuan-Primary-School-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+ <a href="/ml-Junyuan-Primary-School-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
   <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
@@ -97,7 +97,7 @@ Junyuan Primary School
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-St-Joseph-Institution-Junior-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+ <a href="/ml-St-Joseph-Institution-Junior-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
   <a href="#" class="btn2" style="color:#fff;">View Exhibition </a>
   </div></td>
     </tr>
@@ -112,7 +112,7 @@ kemahiran berbahasa  secara kritikal dan kreatif  melalui   JAMPI, CINTA & KASIH
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-Meridian-Sec-School-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+ <a href="/ml-Meridian-Sec-School-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
   <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
