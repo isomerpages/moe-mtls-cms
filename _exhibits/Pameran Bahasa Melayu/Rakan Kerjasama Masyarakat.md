@@ -6,6 +6,9 @@ third_nav_title: Pameran Bahasa Melayu
 ---
 <head>
 <style>
+	.data{
+		font-size: 20px;
+	}
 	.btn1{
 	font-size: 18px;
     font-family: Lato,sans-serif;
@@ -39,13 +42,25 @@ background-color: lightgrey;!important;
 margin-bottom:0rem;
 text-decoration:none;
 }
+		@media screen and (max-width: 600px) {
+ .btn1 {
+		width: 114px;
+		font-size: 14px;
+  }
+	.btn2{
+		width: 114px;
+		font-size: 14px;
+  }
+	.data{
+	 font-size: 17px;
+}
 </style>
 </head>
 <body>
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;font-family:Lato,sans-serif;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Esplanade – Teater di Persisiran<br />
+    <td class="data" style="border: none; width: 70%;font-family:Lato,sans-serif;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Esplanade – Teater di Persisiran<br />
 Esplanade - Theatres on the Bay<br />
  </td>
     <td style="border: none;
@@ -60,7 +75,7 @@ Esplanade - Theatres on the Bay<br />
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Menyemai cinta akan Bahasa Ibunda!
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Menyemai cinta akan Bahasa Ibunda!
   <br />
 Lee Kuan Yew Fund for Bilingualism
 </td>
@@ -76,7 +91,7 @@ Lee Kuan Yew Fund for Bilingualism
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">X, Y & Zain!<br/>
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">X, Y & Zain!<br/>
 	Mediacorp</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
@@ -90,7 +105,7 @@ Lee Kuan Yew Fund for Bilingualism
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Lembaga Warisan Negara<br />
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Lembaga Warisan Negara<br />
 		National Heritage Board</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
@@ -104,7 +119,7 @@ Lee Kuan Yew Fund for Bilingualism
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Bahasa Kita, Budaya Kita, Singapura Kita！<br />
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Bahasa Kita, Budaya Kita, Singapura Kita！<br />
 		National Institute of Education</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
