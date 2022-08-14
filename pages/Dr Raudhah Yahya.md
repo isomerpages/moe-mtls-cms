@@ -96,7 +96,7 @@ max-width:30%;
      <p style="font-family:Lato,sans-serif;"><strong>Dr. Raudhah Yahya
      </strong>
  </p>
- <h4 style="color:#a3c864;font-family:Lato,sans-serif;text-align:justify;">Perkembangan Emosi-Sosial melalui pengalaman di luar bilik darjah
+ <h4 style="color:#a3c864;font-family:Lato,sans-serif;text-align:justify;">Membina Taman dengan Kanak-kanak: Taman untuk Kanak-kanak Meneroka, Menemui, Bermain dan Berkembang Menjadi Penutur Dwibahasa yang Yakin dan Pelajar yang Berdaya tahan Tinggi
  </h4>
 <h4 id="C1" style="color:#a3c864;font-family:Lato,sans-serif;">Profil</h4> 
        <p style="font-family:Lato,sans-serif;text-align:justify;">Membina Taman dengan Kanak-kanak: Taman untuk kanak-kanak meneroka, menemui, bermain dan berkembang menjadi penutur dwibahasa yang yakin dan pelajar yang berdaya tahan tinggi </p>
