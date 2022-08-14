@@ -90,7 +90,7 @@ Esplanade - Theatres on the Bay<br />
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Menyemai cinta akan Bahasa Ibunda!
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Menyemai Cinta akan Bahasa Ibunda!
   <br />
 Lee Kuan Yew Fund for Bilingualism
 </td>
