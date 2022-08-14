@@ -147,7 +147,7 @@ Lee Kuan Yew Fund for Bilingualism
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;
+    <td class="data" style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">GenG - Akhbar pelajar mingguan Berita Harian<br />
 		Berita Harian (Gen G)</td>
     <td style="border: none;
@@ -162,7 +162,7 @@ Lee Kuan Yew Fund for Bilingualism
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;
+    <td class="data" style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Terokai alam haiwan yang menakjubkan <br />
 		Mandai Wildlife Reserve</td>
     <td style="border: none;
@@ -177,7 +177,7 @@ Lee Kuan Yew Fund for Bilingualism
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;
+    <td class="data" style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Kelas Matematika M3@NeeSoon<br />
 		PA MESRA (M3@NeeSoon)</td>
     <td style="border: none;
@@ -192,7 +192,7 @@ Lee Kuan Yew Fund for Bilingualism
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;
+    <td class="data" style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Alam Bersulam Bahasa <br />
 		Malay Language Centre of Singapore (MLCS)</td>
     <td style="border: none;
@@ -207,7 +207,7 @@ Lee Kuan Yew Fund for Bilingualism
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;
+    <td class="data" style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Kembara Maya, Teroka Bahasa<br />
 		Malay Language Learning Promotion Committee (MLLPC)</td>
     <td style="border: none;
