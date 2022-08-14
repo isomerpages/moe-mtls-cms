@@ -14,7 +14,6 @@ third_nav_title: Pameran Bahasa Melayu
     font-family: arial, sans-serif;
      border-collapse: collapse;
 }
-
 td {
   border: 1px ;
   text-align: center;
@@ -65,7 +64,6 @@ table.center {
   margin-bottom: 5px;
   width:100%;  
 }
-
  image{
   height:auto;
  max-width:50%
@@ -86,7 +84,7 @@ table.center {
     font-weight: 600;
 }
 		.btnClass {
-    display: inline-block;
+    display: none;
     padding: 15px 20px;
     text-align: center;
     text-decoration: none;
