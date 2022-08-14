@@ -94,12 +94,13 @@ max-width:30%;
      <div class="column">
 <img src="/images/ML-Ms-Fiza-O.png" style="width:100%" />
    </div>
-     <p style="font-family:Lato,sans-serif;"><strong>Fiza O</strong><br />
+     <p style="font-family:Lato,sans-serif;"><strong>Ms Fiza O</strong><br />
  </p>
      <div class="column">
 <img src="/images/ML-Mdm-Salha.png" style="width:100%" />
    </div>
-     <p style="font-family:Lato,sans-serif;"><strong>Salha Mohamed Hussain</strong><br />
+     <p style="font-family:Lato,sans-serif;"><strong>Mdm Salha Bte Mohamed Hussain
+</strong><br />
  </p>
  <h4 style="color:#a3c864;font-family:Lato,sans-serif;text-align:justify;">Cabaran-cabaran Ibu Bapa dalam Menggalakkan Penggunaan Bahasa Melayu di Rumah</h4>
 <h4 id="C1" style="color:#a3c864;font-family:Lato,sans-serif;">Profil</h4> 
