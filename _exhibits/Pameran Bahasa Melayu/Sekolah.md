@@ -6,6 +6,9 @@ third_nav_title: Pameran Bahasa Melayu
 ---
 <head>
 <style>
+	.data{
+		font-size: 20px;
+	}
 	.btn1{
 	font-size: 18px;
     font-family: Lato,sans-serif;
@@ -49,7 +52,7 @@ text-decoration:none;
 		font-size: 14px;
   }
 	.data{
-	 font-size: 17px;
+	 font-size: 18px;
 }
 </style>
 </head>
@@ -57,7 +60,7 @@ text-decoration:none;
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;font-family:Lato,sans-serif;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Lihat-Fikir-Tutur<br />
+    <td class="data" style="border: none; width: 70%;font-family:Lato,sans-serif;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Lihat-Fikir-Tutur<br />
 Waterway Primary School<br />
  </td>
     <td style="border: none;
@@ -72,7 +75,7 @@ Waterway Primary School<br />
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;
+    <td class="data" style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Memperkaya Kosa Kata melalui Lagu Kanak-kanak (P1/P2)
   <br />
 Junyuan Primary School
@@ -89,7 +92,7 @@ Junyuan Primary School
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">‘Katakanlah, Dengarkanlah, Percayalah!’<br/>
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">‘Katakanlah, Dengarkanlah, Percayalah!’<br/>
 	St. Joseph’s Institution Junior</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
@@ -103,7 +106,7 @@ Junyuan Primary School
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td style="border: none; width: 70%;font-size:20px;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Strategi  mempertingkat
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Strategi  mempertingkat
 kemahiran berbahasa  secara kritikal dan kreatif  melalui   JAMPI, CINTA & KASIH (JCK)<br />
 		Meridian Sec School</td>
     <td style="border: none;
