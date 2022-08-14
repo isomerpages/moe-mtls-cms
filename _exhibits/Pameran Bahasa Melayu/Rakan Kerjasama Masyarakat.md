@@ -208,7 +208,7 @@ Lee Kuan Yew Fund for Bilingualism
   width: 100%;">
   <tr>
     <td class="data" style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Kelas Matematika M3@NeeSoon<br />
+														text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Kelas Matematika M<sup>3</sup>@NeeSoon<br />
 		PA MESRA (M3@NeeSoon)</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
