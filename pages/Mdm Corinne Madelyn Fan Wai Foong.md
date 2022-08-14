@@ -99,7 +99,7 @@ max-width:30%;
    <p style="font-size:21px;font-family:KaiTi;text-align:justify;"> 
 范伟凤老师目前是国立幼儿培育教育学院与义安理工学院的讲师，拥有十六年的教育工作经验。 除了曾在小学任教之外，范老师也曾在教育部课程规划与发展司任职，参与《欢乐伙伴》小学华文课程（一、二年级）和教育部幼儿园繁星华文课程的规划与编写。</p><br />
    <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4>  
-   <p style="font-size:21px;font-family:KaiTi;text-align:justify;">   疫情的蔓延带动居家学习，推动教师去探索、尝试、应用不同的资讯科技来辅助教学。伟凤老师将在母语学习论坛上与大家分享如何利用应用程序来设计既有趣又有意义的语文活动辅助学前华文教学，鼓励幼儿使用华语。
+   <p style="font-size:21px;font-family:KaiTi;text-align:justify;">   疫情的蔓延带动居家学习，推动教师去探索、尝试、应用不同的资讯科技来辅助教学。范老师将在母语学习论坛上与大家分享如何利用应用程序来设计既有趣又有意义的语文活动辅助学前华文教学，鼓励幼儿使用华语。
 </p>
 <br>
 			 <h4 style="font-size:30px;font-family:Lato,sans-serif;color:#d84178;text-align:justify;text-align:justify;">Use of Mobile Applications in the Teaching and Learning of Chinese Language for Pre-schoolers</h4>
