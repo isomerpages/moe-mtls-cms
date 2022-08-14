@@ -14,9 +14,9 @@ third_nav_title: Pameran Bahasa Melayu
     font-family: Lato,sans-serif;
     background-color:#a3c864;
     padding: 5px 13px;
-    margin: 9px 13px;
+    margin: 9px 10px;
     border-radius: 6px;
-    width: 64%;
+    width: 140px;
 	display:block;
 	}
 		.btn2{
@@ -24,9 +24,9 @@ third_nav_title: Pameran Bahasa Melayu
     font-family: Lato,sans-serif;
     background-color:#a3c864;
     padding: 5px 13px;
-    margin: 9px 13px;
+    margin: 9px 0px;
     border-radius: 6px;
-    width: 64%;
+    width: 140px;
 	display:none;
 	}
     	.btn-group {
