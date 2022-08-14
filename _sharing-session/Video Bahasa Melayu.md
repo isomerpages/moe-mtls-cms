@@ -73,10 +73,10 @@ Ms Fiza O <br/>
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Sesi Bercerita dalam Bahasa Melayu<br/>
-  [Storytelling session (For K1 – P2 students)from 1.00pm to 2.00pm]<br/><br/>
-   Mr Muhammed Shahril Bin Shaik Abdullah<br/>
-		Associate Librarian, Malay Language
-National Library Board  </td>
+ [Online Storytelling Session (For K1 – P2 students) from 1.00pm to 2.00pm]<br/><br/>
+  Mr Muhammad Shahril Bin Shaik Abdullah<br/>
+		Associate Librarian, Malay Language,<br>
+Collection Planning and Development,  National Library Board  </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
 <a href="/Mr-Muhammed-Shahril-Bin-Shaik-Abdullah" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini!</a>
@@ -89,7 +89,7 @@ National Library Board  </td>
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Memperkenalkan Literasi Bahasa Melayu melalui Bercerita<br/>
-  [Virtual Workshop (For Parent-Child) from 2.30pm to 3.30pm]<br/><br/>
+[Online Interactive Workshop (For Parent-Child Activity) from 2.30pm to 3.30pm]<br/><br/>
 Ms Nurain Syakirah binte Nordin <br/>
 		Founder of The Bambini Sg</td>
     <td style="border: none;
