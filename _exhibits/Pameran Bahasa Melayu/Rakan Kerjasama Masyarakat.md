@@ -61,7 +61,7 @@ text-decoration:none;
   width: 100%;">
   <tr>
     <td class="data" style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">GenG - Akhbar pelajar mingguan Berita Harian<br />
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">GenG - Akbar Pelajar Mingguan Berita Harian<br />
 		Berita Harian (Gen G)</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
@@ -107,7 +107,7 @@ Lee Kuan Yew Fund for Bilingualism
   width: 100%;">
   <tr>
     <td class="data" style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Terokai alam haiwan yang menakjubkan <br />
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Terokai Alam Haiwan yang Menakjubkan <br />
 		Mandai Wildlife Reserve</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
