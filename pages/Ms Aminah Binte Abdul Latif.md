@@ -89,13 +89,13 @@ max-width:30%;
      <div class="column">
 <img src="/images/ML-Miss-Aminah.png" style="width:100%" />
    </div>
-     <p style="font-family:Lato,sans-serif;"><strong>Ms Aminah Binte Abdul Latif
+     <p style="font-family:Lato,sans-serif;"><strong>Miss Aminah Binte Abdul Latif
      </strong>
  </p>
  <h4 style="color:#a3c864;font-family:Lato,sans-serif;text-align:justify;">Perkembangan Emosi-Sosial melalui pengalaman di luar bilik darjah
  </h4>
 <h4 id="C1" style="color:#a3c864;font-family:Lato,sans-serif;">Profil</h4> 
-       <p style="font-family:Lato,sans-serif;text-align:justify;">Puan Aminah,  Ketua Sekolah Rimbamempunyai pengalaman selama 14 tahun dalam industri prasekolah. Beliau yakin bahawa permainan yang tidak berstruktur, pergerakan aktif di luar bilik darjah dan hubungan dengan alam semulajadi ialah elemen-elemen penting untuk memastikan kanak-kanak mengalami kehidupan yang seimbang,  sihat dan bermakna.</p>
+       <p style="font-family:Lato,sans-serif;text-align:justify;">Puan Aminah, Ketua Sekolah Rimba, mempunyai pengalaman selama 14 tahun dalam industri prasekolah. Beliau yakin bahawa permainan yang tidak berstruktur, pergerakan aktif di luar bilik darjah dan hubungan dengan alam semulajadi ialah elemen-elemen penting untuk memastikan kanak-kanak mengalami kehidupan yang seimbang,  sihat dan bermakna.</p>
         <h4  id="C2" style="color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
       <p style="font-family:Lato,sans-serif;text-align:justify;">Pengalaman bermain di luar ialah satu keperluan asas bagi seorang kanak-kanak untuk membesar. Pengalaman ini memberikan banyak peluang untuk kanak-kanak menggunakan daya kreatif, mengambil risiko dan juga memupuk kemahiran sosial. Misalnya, aktiviti-aktiviti seperti menggali pasir, memanjat pokok dan berlari-lari turun dan naik bukit membawa manfaat kepada perkembangan holistik kanak-kanak. Kanak-kanak yang menghabiskan masa berinteraksi dengan persekitaran mereka di luar bilik darjah dapat membina hubungan yang positif dengan alam semulajadi. Dalam sesi ini, para peserta akan dapat memahami cara permainan aktif di luar  menyumbang pada perkembangan sihat kanak-kanak. Pada penghujung sesi ini, para peserta akan mengetahui cara-cara untuk membimbing kanak-kanak apabila bermain di luar bilik darjah.</p>
      <h4 style="color:#a3c864;">Profile</h4>   
