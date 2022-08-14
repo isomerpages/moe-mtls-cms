@@ -89,7 +89,7 @@ max-width:30%;
      <div class="column">
 <img src="/images/ML-Miss-Aminah.png" style="width:100%" />
    </div>
-     <p style="font-family:Lato,sans-serif;"><strong>Aminah Binte Abdul Latif
+     <p style="font-family:Lato,sans-serif;"><strong>Ms Aminah Binte Abdul Latif
      </strong>
  </p>
  <h4 style="color:#a3c864;font-family:Lato,sans-serif;text-align:justify;">Perkembangan Emosi-Sosial melalui pengalaman di luar bilik darjah
