@@ -113,4 +113,6 @@ max-width:30%;
        <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">
 Jaya Ganesh is a very popular TV and radio artist who is passionate about Tamil and strongly feels that acquisition of the language should begin at home. He will be sharing  his memorable experience of journeying with his two boys in their language learning. Largely based on his own observations, experiences and tried-and-tested strategies with his own family, the focus of his sharing will be on how parents can create a conducive environment at home for instilling the use of Tamil in children. Participants will also hear about his challenges and the counter-measures he  put in place to overcome them. His live interactive session for parents will be both insightful and entertaining.
       </p></div>
+	<br/><br/>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
