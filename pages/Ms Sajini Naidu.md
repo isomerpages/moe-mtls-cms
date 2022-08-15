@@ -113,4 +113,6 @@ max-width:30%;
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
        <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">In this engagement segment with Ms Sajini, Primary 1 to 4 students will embark on a fun-filled e-journey that gives them the opportunity to actively explore and learn new vocabulary related to their daily lives. Through these activities, students will be immersed in authentic situations in which to use their newly-acquired vocabulary by presenting their creative ideas in Tamil. This hands-on experience will leave a memorable impression on children that learning Tamil is indeed fun, thus motivating  them to use the language.
 </p></div>
+  <br/><br/>
+  <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
