@@ -339,3 +339,17 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-hero-body {
   background: unset;
 }
+	  .btntop {
+    position: fixed;
+    float: right;
+    bottom: 20px;
+    right: 80px;
+    z-index: 99;
+    boder: none;
+    background-color: #6031b6 !important;
+    cursor: pointer;
+    padding: 15px;
+    boder-radius: 4px;
+    color: #fff;
+    font-weight: 600;
+}
