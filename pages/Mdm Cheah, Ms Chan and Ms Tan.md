@@ -131,4 +131,6 @@ Mdm Cheah is a stay-home parent. She used to be in the advertising and branding 
 There are many ways of raising bilingual children, and Mdm Cheah’s intentional use of Mandarin at home with her children is one of them. In this session, she will be sharing useful tips on the day-to-day strategies she has adopted to instil love for Chinese in her children. A highlight of this session is the sharing by Mdm Cheah’s daughter of her perspectives on being on the receiving end, which makes the sharing all the more compelling.
       </p>
       <p style="font-family:Lato,sans-serif;">Gain authentic insights into the joys and challenges experienced by a Singaporean family that adopts Chinese as the dominant language at home with this pair-sharing by Mdm Cheah and her daughter. </p></div>
+  <br/><br/>
+  <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
     <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
