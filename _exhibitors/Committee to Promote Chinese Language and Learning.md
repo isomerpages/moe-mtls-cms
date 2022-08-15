@@ -35,4 +35,4 @@ description: ""
 <h4 style="font-size: 40px;font-family: KaiTi;padding-top:12px;margin:10px;color: #d84178;text-align:justify;">推广华文学习委员会</h4>
 
 <br/>
-<img src="/images/posters/CL-CPCLL-Poster.jpg"/>
+<img src="/images/posters/CL-CPCLL-Poster.jpg">
