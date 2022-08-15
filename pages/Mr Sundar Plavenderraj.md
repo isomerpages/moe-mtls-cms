@@ -117,4 +117,6 @@ max-width:30%;
        <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">
 Many of the young parents today are not actively using and promoting MTL in everyday conversations at home. As a result, these children are deprived of the opportunities in discovering and engaging in meaningful MTL learning experiences   which leads to a sense of insecurity with MTL. The power of bilingualism helps to prepare our children for a future where they can equally succeed and appreciate their MTL. The cognitive effects of growing up bilingual will reward a child throughout the rest of their learning journey.  By starting early, parents can foster and instil the spirit of MTL in their everyday conversations and build a strong foundation in their learning journey.
       </p></div>
+	<br/><br/>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
