@@ -112,6 +112,7 @@ Ong Peiying is a Senior Manager of the Education Department at Mandai Wildlife G
 </p>
   <h4 style="color:#d84178;"> Synopsis</h4>  
    <p style="font-family:Lato,sans-serif;text-align:justify;" >
-Explore the wonderful world of animals and enhance Mother Tongue Language learning at the same time. Create eco-friendly viewfinders using recyclable materials for indoor or outdoor activities that   focus on learning as  an enjoyable and casual educational experience. The creative process of upcycling to make viewfinders also presents a fitting opportunity to talk about how we can protect wildlife and their habitats by reducing resource usage.
-      </p>
+Explore the wonderful world of animals and enhance Mother Tongue Language learning at the same time. Create eco-friendly viewfinders using recyclable materials for indoor or outdoor activities that   focus on learning as  an enjoyable and casual educational experience. The creative process of upcycling to make viewfinders also presents a fitting opportunity to talk about how we can protect wildlife and their habitats by reducing resource usage.</p>
+	<br/><br/>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
     <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
