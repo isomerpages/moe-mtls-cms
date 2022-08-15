@@ -111,4 +111,6 @@ Mdm Corinne has 16 years of experience in the education service. She is currentl
    <p style="font-family:Lato,sans-serif; text-align:justify;">
 The COVID-19 pandemic has driven teaching and learning towards full home-based learning (HBL), leading teachers to try, experiment and adopt appropriate ICT tools to complement their teaching.  This sharing session will highlight the use of mobile applications to create meaningful and fun Chinese Language activities for pre-schoolers, motivating them to use the language.
       </p></div>
+	<br/><br/>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
     <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
