@@ -116,4 +116,6 @@ Melissa Choo is an Associate Librarian with the National Library Board.  Her wor
 Every story is made up of a group of characters and a series of events. As the story unfolds, who knows what will happen next? Young readers are encouraged to follow the stories and embark upon a magical journey as Ms Melissa Choo shares stories which spark creativity and imagination!
       </p>
       <p style="font-family:Lato,sans-serif;text-align:justify;" >Before the storytelling begins, there will be some pre-reading activities, such as finger exercises. Participants will also be able to interact with the book during the storytelling. There will also be post-reading activities, such as games, for participants to take part in. The session will conclude with the sharing of more stories and other reading resources on the National Library Board’s discoveReads webpage.</p>
+	<br/><br/>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
     <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
