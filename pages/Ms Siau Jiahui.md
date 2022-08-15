@@ -116,4 +116,6 @@ Many children are used to speaking English at home and in school- so, what can p
 Since the launch of “Storytime with Jiahui” in 2020, Jiahui has received much positive feedback and appreciatory messages from parents on how her storytelling has motivated their children to speak and learn MTL.<br /><br />
 In this session, Jiahui will share her experience on raising her 6-year-old to be effectively bilingual, and how to create a conducive environment for the learning of  MTL. She will also share tips on how to narrate stories in an animated and engaging manner that will  cultivate children’s interest in storytelling in Mandarin.
       </p></div>
+	<br/><br/>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
     <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
