@@ -1,5 +1,4 @@
 collections:
   exhibitors:
     output: true
-    order:
-      - Singapore Centre for Chinese Language.md
+    order: []
