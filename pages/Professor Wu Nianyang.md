@@ -113,4 +113,6 @@ Dr. Wu and her team believe that reading involves multisensory activities for ch
 In this sharing session, the concept of interactive reading will be introduced through a demonstration of how two to three picture books could be read along with a series of relevant extended activities. 
 Reading as an activity should not only be centred on its content. It should involve cognitive engagement, speaking tasks, and body movements. Through such extended reading activities that are based on the content of the book, children will develop deeper comprehensive and interactive skills that develop their cognitive ability.
       </p></div>
+  <br/><br/>
+  <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
     <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
