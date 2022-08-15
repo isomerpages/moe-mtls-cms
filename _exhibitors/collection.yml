@@ -1,5 +1,4 @@
 collections:
   exhibitors:
     output: true
-    order:
-      - 推广华文学习委员会.md
+    order: []
