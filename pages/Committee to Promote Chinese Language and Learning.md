@@ -3,8 +3,6 @@ title: Committee to Promote Chinese Language and Learning
 permalink: /cl-cpcll
 description: ""
 ---
-
-
 <style>
    .btntop {
     position: fixed;
@@ -35,8 +33,9 @@ description: ""
 </style>
 <a href="/exhibits/chinese-exhibitions-e/community-partners/" style="float:left;" class="backbtn">Back</a><br>
 <h4 style="font-size: 40px;font-family: KaiTi;padding-top:12px;margin:10px;color: #d84178;text-align:justify;">推广华文学习委员会</h4>
-
 <br/>
 <img src="/images/Posters/CL-CPCLL-Poster.jpg">
 <br/>
 <a href="https://www.cpcllmtls22.com" target="_blank">www.cpcllmtls22.com</a>
+<p style="font-size: 16px;font-family: Lato,sans-serif;padding-top:12px;margin:10px;">“For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.”</p>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
