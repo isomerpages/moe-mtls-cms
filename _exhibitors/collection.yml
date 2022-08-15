@@ -1,4 +1,5 @@
 collections:
   exhibitors:
     output: true
-    order: []
+    order:
+      - CPCLL.md
