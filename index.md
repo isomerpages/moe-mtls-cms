@@ -22,6 +22,16 @@ sections:
       button: Watch here
       url: /opening-ceremony
   - infopic:
+      title: Sharing Sessions
+      subtitle: For educators and parents
+      description: Join our speakers as they share strategies and resources to
+        help         make the teaching and learning of our Mother Tongue
+        Languages joyful for our children!
+      button: Watch here
+      url: /english-session
+      image: /images/Mascot_Banners_600x300px_1.jpg
+      alt: Image alt text
+  - infopic:
       title: " Engagement Sessions"
       subtitle: for children
       description: "Let your child explore and discover new skills in learning MTL in
