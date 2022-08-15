@@ -116,4 +116,6 @@ Mdm Jiang Yanyan has over 14 years of experience in Chinese Language teaching.  
 Through participating in online interactive activities for the Mid-Autumn Festival Celebration, students can learn about the origin of the festival and experience the joy of learning.
       </p>
       <p style="font-family:Lato,sans-serif;text-align:justify;" >After an interesting ice-breaker, Mdm Jiang Yanyan will introduce the traditional Mid-Autumn Festival to students.  Students will also have the opportunity to participate in the Mid-Autumn Festival quiz through interesting online games. Finally, students will get a chance to participate in a hands-on session to make a Mid-Autumn Lantern.</p>
+	<br/><br/>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
     <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
