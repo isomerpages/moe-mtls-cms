@@ -2,4 +2,4 @@ collections:
   exhibitors:
     output: true
     order:
-      - CPCLL.md
+      - Committee to Promote Chinese Language and Learning.md
