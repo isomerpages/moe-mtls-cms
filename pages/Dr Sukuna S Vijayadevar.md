@@ -97,7 +97,7 @@ max-width:30%;
     <p style="font-family:Lato,sans-serif;"><strong>Dr Sukuna S Vijayadevar</strong><br/>
       <span style="font-family:Anjal InaiMathi;text-align:justify;"> <strong>முனைவர் சுகுணா விஜயதேவர்</strong></span><br />
    </p>
-   <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;text-align:justify;">பாலர் பள்ளி மாணவர்களை மகிழ்வூட்டும் தமிழ்மொழி கற்றலில் ஈடுபடுத்த ஆசிரியர்களும் பெறோர்களும்
+   <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">பாலர் பள்ளி மாணவர்களை மகிழ்வூட்டும் தமிழ்மொழி கற்றலில் ஈடுபடுத்த ஆசிரியர்களும் பெறோர்களும்
 மேற்கொள்ளக்கூடிய சில உத்திமுறைகள்</h4>
     <h4 id="C1" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தன்விவரம்</h4>
  <p style="margin:10px;font-family:Anjal InaiMathi;text-align:justify;">
