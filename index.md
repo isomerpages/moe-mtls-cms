@@ -57,5 +57,5 @@ sections:
       button: Register here to secure your place!
       alt: Image alt text
       url: https://event-reg.biz/Registration/RegDelegate_MTLS2022InteractiveWorkshop?FLW=sVTQE1ZAU9R70GbnwNjWtA==&SHW=/0fB0bPedlD1kKlGfsVq%7C%7Cg==&GRP=tqqG1TObOL%7C%7CTbw5TUmf2ww==&STP=uTx3HwZBhvahan5gxR/%7C%7CCA==
-      image: /images/Mascot_Banners_600x300px_2.jpg
+      image: /images/1200x600_2-100.jpg
 ---
