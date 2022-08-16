@@ -112,4 +112,5 @@ max-width:30%;
      <p style="font-family:Lato,sans-serif;text-align:justify;">Integrating STEAM (Science, Technology, Engineering, Arts, Math) in the learning of Malay Language can help support students’ learning experiences through the development of essential skills such as problem-solving and critical thinking while garnering their interests in learning the Malay Language. </p>
      <p style="font-family:Lato,sans-serif;text-align:justify;">Find out about strategies to facilitate inquiry experiences through such techniques as asking high-quality open-ended questions and integrating Malay literature with STEAM to enable children to learn about the world whilst developing their love for Malay Language.</p>
    </div>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
