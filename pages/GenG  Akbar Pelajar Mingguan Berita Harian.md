@@ -3,8 +3,6 @@ title: GenG  Akbar Pelajar Mingguan Berita Harian
 permalink: /ml-Berita-Harian-Gen-G-Synopsis
 description: ""
 ---
-
-
 <style>
    .btntop {
     position: fixed;
@@ -43,4 +41,5 @@ Ini termasuk segmen ‘Gerakkan Minda’, sebuah aktiviti imbuhan bagi pelajar 
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">Berita Harian’s (BH) student publication, Gen G, presents many relevant current affairs to students and teachers. Each edition contains 16 pages with the latest news from Singapore and beyond, as well as exciting activities.</p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">These include the ‘Gerakkan Minda’ segment which is a grammar activity for students, and the ‘Perkataan Seerti’ segment where students can learn synonyms for five different words.</p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">Teachers can also tap on the ‘Bincangkan’, ‘Mengapa Berita Ini Penting’, ‘Bina Ayat’ and ‘Kosa Kata’ segments. In addition, there is a student podcast segment with questions similar to a listening comprehension activity in school. </p>
+<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
