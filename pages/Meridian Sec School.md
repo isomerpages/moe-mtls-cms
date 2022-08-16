@@ -33,7 +33,8 @@ description: ""
 </style>
 <a href="/exhibits/melayu-malay-language-exhibitions-d/schools/" style="float:left;" class="backbtn">Back</a><br>
 <h4 style="font-size:35px;font-family:Lato,sans-serif;color:#a3c864;">Strategi Mempertingkat Kemahiran Berbahasa Secara Kritikal dan Kreatif Melalui JAMPI, CINTA dan KASIH</h4>
-<img src="/images/Posters/MTLS_Meridian-Sec_v3.jpg"><br/><br/>
+<img src="/images/Posters/MTLS_Meridian-Sec_v3.jpg">
+<br/><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P3fHq_AUV0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/><br/>
 <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
