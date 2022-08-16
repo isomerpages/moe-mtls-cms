@@ -108,21 +108,21 @@ table.center {
   <img src="/images/Pic-Sec-ML-3.png"><br>
 <div class="row">
   <div class="column">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WSq_Lrb2788" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br />
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/XjIcQkdKENM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br />
     <p style="font-weight:bold;text-align:center;">Budaya</p>
   </div>
   <div class="column">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WSq_Lrb2788" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/env1aGvuYuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
     <p style="font-weight:bold;text-align:center;">Sastera</p>
   </div>
   </div>
   <div class="row">
   <div class="column">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WSq_Lrb2788" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br />
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7A9qG3qQElw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br />
     <p style="font-weight:bold;text-align:center;">Ehwal Semasa</p>
   </div>
   <div class="column">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WSq_Lrb2788" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/eiFVVHuiZfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
     <p style="font-weight:bold;text-align:center;">Teknologi</p>
   </div>
   </div>
