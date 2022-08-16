@@ -39,7 +39,7 @@ sections:
       button: Register here to secure a place for your child!
       alt: Image alt text
       url: https://event-reg.biz/Registration/RegDelegate_MTLS2022EngagementSession?FLW=16gFqWgviPD39J0h%7C%7CRNUjA==&SHW=/0fB0bPedlD1kKlGfsVq%7C%7Cg==&GRP=SHatfdeRi657A0m4wzE/Ug==&STP=uTx3HwZBhvahan5gxR/%7C%7CCA==
-      image: /images/Mascot_Banners_600x300px_4.jpg
+      image: /images/1200x600_4-100.jpg
   - infopic:
       title: Storytelling Sessions
       subtitle: For children
