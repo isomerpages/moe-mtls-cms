@@ -3,7 +3,6 @@ title: Mr Djohan Bin Abdul Rahman &  Ms Nurain Binte Tajudeen
 permalink: /Mr-Djohan-Bin-Abdul-Rahman-And-Ms-Nurain-Binte-Tajudeen
 description: ""
 ---
-
 <head>
 <style>
   .video-container {
@@ -112,4 +111,5 @@ max-width:30%;
 <p style="font-family:Lato,sans-serif;text-align:justify;">Ms Nurain is a Malay Language teacher who believes in the importance of creating learning experiences that bring about joyful and positive interactions. In 2019, together with fellow teachers from Changkat Changi Secondary School, she worked on a project to create a board game that can be used to encourage the  proficient use of Malay. Ms Nurain enjoys collaborating with others to look at ways to encourage better engagement in learning.</p>
   <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
      <p style="font-family:Lato,sans-serif;text-align:justify;">The engagement session is open to all P1 to P4 pupils taking Malay Language. Participants will learn some helpful tips to identify adjectives and to create grammatically correct sentences using adjectives. The session will also use Augmented Reality in an effort to entice the IT- savvy audience.</p></div>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
