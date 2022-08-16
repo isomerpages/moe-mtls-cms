@@ -112,7 +112,7 @@ Ms Siau Jiahui is a producer-presenter with Mediacorp YES933 who is  currently h
 </p><br />
   <h4 style="color:#d84178;"> Synopsis</h4>  
    <p style="text-align:justify;font-family:Lato,sans-serif;">
-Many children are used to speaking English at home and in school- so, what can parents do to spark their children’s interest in their Mother Tongue Language (MTL)? 
+Many children are used to speaking English at home and in school — so, what can parents do to spark their children’s interest in their Mother Tongue Language (MTL)? 
 Since the launch of “Storytime With Jiahui” in 2020, Jiahui has received much positive feedback and appreciatory messages from parents on how her storytelling has motivated their children to speak and learn MTL.<br /><br />
 In this session, Jiahui will share her experience on raising her 6-year-old to be effectively bilingual, and how to create a conducive environment for the learning of  MTL. She will also share tips on how to narrate stories in an animated and engaging manner that will  cultivate children’s interest in storytelling in Mandarin.
       </p></div>
