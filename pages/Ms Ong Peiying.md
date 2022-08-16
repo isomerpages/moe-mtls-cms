@@ -101,7 +101,7 @@ max-width:30%;
   王珮盈是万态保育集团教育部门的高级经理。她负责为家庭、教育工作者和学校团体策划华文教育活动，并组织开发相关的教学资源。珮盈在户外教育、实践学习和教师培训方面有超过十年的经验。最近，她为学前华文教育工作者设计了关于新加坡动物园的线上职业发展培训和工作坊，以及一系列的家庭学习工作坊。这些工作坊不仅以动物为灵感，还专注于以有趣和互动的方式使用华文，让学前儿童乐学华文。</p>
 <br />
    <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4> 
-<p style="font-size:21px;font-family:KaiTi;text-align:justify;">   探索奇妙的动物世界，同时学习华文。在这里，您将利用再循环物品制作环保取景框，并通过室内及户外的活动体验有趣的华文学习。制作取景框的创意过程提供了真实的学习机会，让我们一起探讨，如何通过减少资源消耗、保护野生动物以及它们的栖息地。
+<p style="font-size:21px;font-family:KaiTi;text-align:justify;">   探索奇妙的动物世界，同时学习华文。在这里，您将利用再循环物品制作环保取景框，并通过室内及户外的活动体验有趣的华文学习。制作取景框的创意过程提供了真实的学习机会，让我们一起探讨，如何通过减少资源消耗，保护野生动物以及它们的栖息地。
 </p>
 <br>
 	 <h4 style="font-size:30px;font-family:Lato,sans-serif;color:#d84178;text-align:justify;">Entering the Wonderful World of Animals
