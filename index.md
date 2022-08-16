@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/KV_1920x720.png
+      background: /images/MTLS2022_KV_R1 1920x720_72ppi.png
       key_highlights:
         - title: Exhibits
           description: View all our exhibits here!
