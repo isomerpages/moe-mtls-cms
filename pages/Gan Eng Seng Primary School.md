@@ -34,5 +34,5 @@ description: ""
 <a href="/exhibits/tamil-exhibitions-d/schools/" style="float:left;" class="backbtn">Back</a><br>
 <h4 style="font-size:35px;Anjal InaiMathi;color:#9b4490;">மெய்ந்நிகர்வழி மகிழ்வூட்டும் வாய்மொழிக் கற்றல்</h4>
 <img src="/images/Posters/Gan-Eng-Seng-Pri-V3.jpg">
-<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
