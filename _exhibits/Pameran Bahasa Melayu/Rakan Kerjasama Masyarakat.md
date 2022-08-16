@@ -81,7 +81,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-Berita-Harian-Gen-G-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/Berita-Harian-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
@@ -157,7 +157,7 @@ Lee Kuan Yew Fund for Bilingualism
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/Malay-Language-Learning-Promotion-Committee-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/MLLPC-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
