@@ -109,7 +109,7 @@ max-width:30%;
  </h4>
 <h4 style="color:#d84178;font-family:Lato,sans-serif;">Profile</h4>  
    <p style="font-family:Lato,sans-serif;text-align:justify;">
-Melissa Choo is an Associate Librarian with the National Library Board.  Her work provides her with the opportunity to keep up with the reading trends in Chinese children’s books, and it brings her much joy to be able to share these with the community at the programmes she conducts and oversees for parents and children.  As a former educator, Melissa observed that developing the habit of reading helps children master a language.  She is now an advocate for reading, especially in the Mother Tongue, in her daily work, which she enjoys greatly.
+Ms Melissa Choo is an Associate Librarian with the National Library Board.  Her work provides her with the opportunity to keep up with the reading trends in Chinese children’s books, and it brings her much joy to be able to share these with the community at the programmes she conducts and oversees for parents and children.  As a former educator, Melissa observed that developing the habit of reading helps children master a language.  She is now an advocate for reading, especially in the Mother Tongue, in her daily work, which she enjoys greatly.
 </p>
   <h4 style="color:#d84178;"> Synopsis</h4>  
    <p style="font-family:Lato,sans-serif;text-align:justify;" >
