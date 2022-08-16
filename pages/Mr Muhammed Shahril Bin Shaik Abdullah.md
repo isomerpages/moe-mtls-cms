@@ -108,4 +108,5 @@ max-width:30%;
   <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
      <p style="font-family:Lato,sans-serif;text-align:justify;">Picture books play a very important role in the development of a child. Through picture books, children learn to develop not only literacy skills but also empathy and an awareness of their own world within a safe environment. In this highly interactive read-aloud of Terus Ke Rumah Nenek! written by Emmy Abdul Alim, children will join the character, Amina, in her journey to her grandma’s house. Parents tuning in will be able to pick up some of the storytelling techniques which they can practice at home with their own children.</p>
    </div>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
