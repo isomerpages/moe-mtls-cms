@@ -57,3 +57,4 @@ These are sessions available for pre-registration. Click on each category to fin
   <a href="https://event-reg.biz/Registration/RegDelegate_MTLS2022EngagementSession?FLW=16gFqWgviPD39J0h%7C%7CRNUjA==&SHW=/0fB0bPedlD1kKlGfsVq%7C%7Cg==&GRP=SHatfdeRi657A0m4wzE/Ug==&STP=uTx3HwZBhvahan5gxR/%7C%7CCA==" target="_blank"> <img src="/images/1200x600_4-100.jpg" style="width:100%"></a>
   </div> 
  </div>
+		<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
