@@ -29,7 +29,7 @@ sections:
         Languages joyful for our children!
       button: Watch here
       url: /english-session
-      image: /images/Mascot_Banners_600x300px_1.jpg
+      image: /images/1200x600_1-100.jpg
       alt: Image alt text
   - infopic:
       title: " Engagement Sessions"
