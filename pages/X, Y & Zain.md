@@ -33,7 +33,7 @@ description: ""
 </style>
 <a href="/exhibits/melayu-malay-language-exhibitions-e/community-partners/" style="float:left;" class="backbtn">Back</a><br>
 <h4 style="font-size: 35px;font-family: Lato,sans-serif;padding-top:12px;margin:10px;color: #a3c864;">X, Y & Zain!</h4>
-<p style="font-size: 20px;font-family: Lato,sans-serif;text-align:justify;">Zain seorang budak lelaki berusia 10 tahun. Xoey dan Yuri pula merupakan dua kromoson bersifat ingin tahu yang berada di dalam tubuh Zain yang penuh misteri. Ikuti penggembaraan menarik Xoey dan Yuri dalam sistem badan Zain untuk mempelajari rahsia disebalik tubuh kita.</p>
+<p style="font-size: 20px;font-family: Lato,sans-serif;text-align:justify;">Zain seorang budak lelaki berusia 10 tahun. Xoey dan Yuri pula merupakan dua kromoson bersifat ingin tahu yang berada di dalam tubuh Zain yang penuh misteri. Ikuti penggembaraan menarik Xoey dan Yuri dalam sistem badan Zain untuk mempelajari rahsia di sebalik tubuh kita.</p>
 <h4 style="font-size: 35px;font-family: Lato,sans-serif;padding-top:12px;margin:10px;color: #a3c864;">
 X, Y & Zain!
 </h4>
