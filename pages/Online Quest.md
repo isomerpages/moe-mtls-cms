@@ -23,4 +23,5 @@ description: ""
 <a href="https://mtls21onlinequest.com.sg" target="_blank">https://mtls21onlinequest.com.sg/</a>
 <div style="padding:65% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/591946094?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=31a027be51" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="MTLS Teaser 3"></iframe></div>
 *<i>The Online Quest is best played on computers and tablets.</i>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
