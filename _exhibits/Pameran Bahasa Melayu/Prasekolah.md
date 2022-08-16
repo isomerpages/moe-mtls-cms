@@ -113,7 +113,7 @@ MK@Wellington
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-PCF-Sparkletots-Boon-Lay-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition </a>
+  <a href="/MTLS-PCF-Boon-Lay-Exhibition" class="btn2" style="color:#fff;">View Exhibition </a>
   </div></td>
     </tr>
 </table>
@@ -127,7 +127,7 @@ MK@Wellington
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-MY-World-Punggol-Edge-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/MY-World-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
