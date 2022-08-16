@@ -32,7 +32,7 @@ description: ""
 }
 </style>
 <a href="/exhibits/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/" style="float:left;" class="backbtn">Back</a><br>
-<h4 style="font-size:35px;font-family:Lato,sans-serif;color:#a3c864;">Menggunakan Strategi Pemikiran Visual & Pembelajaran Melalui Pengalaman untuk Meningkatkan Pengetahuan Kanak-kanak dalam Bahasa Melayu</h4>
+<h4 style="font-size:34px;font-family:Lato,sans-serif;color:#a3c864;">Menggunakan Strategi Pemikiran Visual & Pembelajaran Melalui Pengalaman untuk Meningkatkan Pengetahuan Kanak-kanak dalam Bahasa Melayu</h4>
 <img src="/images/Posters/MTLS_MYWorld_v4.jpg">
 <br/>
 <iframe width="1120" height="320" src="https://www.youtube.com/embed/vVjjlMutRdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Video of sample lesson 1
