@@ -76,7 +76,7 @@ text-decoration:none;
   <tr>
     <td class="data" style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">GenG - Akbar Pelajar Mingguan Berita Harian<br />
-		Berita Harian (Gen G)</td>
+		[Berita Harian (Gen G)]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
@@ -90,7 +90,7 @@ text-decoration:none;
   width: 100%;">
   <tr>
     <td class="data" style="border: none; width: 70%;font-family:Lato,sans-serif;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Esplanade – Teater di Persisiran<br />
-Esplanade - Theatres on the Bay<br />
+[Esplanade - Theatres on the Bay]<br />
  </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
@@ -105,8 +105,8 @@ Esplanade - Theatres on the Bay<br />
   width: 100%;">
   <tr>
     <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Menyemai Cinta akan Bahasa Ibunda!
-  <br />
-Lee Kuan Yew Fund for Bilingualism
+  <br />Dana Kedwibahasaan Lee Kuan Yew<br/>
+[Lee Kuan Yew Fund for Bilingualism]
 </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
@@ -121,7 +121,7 @@ Lee Kuan Yew Fund for Bilingualism
   width: 100%;">
   <tr>
     <td class="data" style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Terokai Alam Haiwan yang Menakjubkan <br />
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Terokai Alam Haiwan yang Menakjubkan <br />Kawasan Hidupan Liar Mandai<br/>
 		Mandai Wildlife Reserve</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
@@ -137,7 +137,8 @@ Lee Kuan Yew Fund for Bilingualism
   <tr>
     <td class="data" style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Alam Bersulam Bahasa <br />
-		Malay Language Centre of Singapore (MLCS)</td>
+			Pusat Bahasa Melayu Singapura<br/>
+		[Malay Language Centre of Singapore (MLCS)]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
@@ -151,8 +152,8 @@ Lee Kuan Yew Fund for Bilingualism
   width: 100%;">
   <tr>
     <td class="data" style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Kembara Maya, Teroka Bahasa<br />
-		Malay Language Learning Promotion Committee (MLLPC)</td>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Kembara Maya, Teroka Bahasa<br />Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu<br/>
+		[Malay Language Learning Promotion Committee (MLLPC)]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
@@ -166,7 +167,7 @@ Lee Kuan Yew Fund for Bilingualism
   width: 100%;">
   <tr>
     <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">X, Y & Zain!<br/>
-	Mediacorp</td>
+	[Mediacorp]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
@@ -179,8 +180,8 @@ Lee Kuan Yew Fund for Bilingualism
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Lembaga Warisan Negara<br />
-		National Heritage Board</td>
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Lembaga Warisan Negara<br />Lembaga Warisan Negara<br/>
+		[National Heritage Board]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
@@ -193,8 +194,8 @@ Lee Kuan Yew Fund for Bilingualism
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Bahasa Kita, Budaya Kita, Singapura Kita！<br />
-		National Institute of Education</td>
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Bahasa Kita, Budaya Kita, Singapura Kita！<br />Institut Pendidikan Nasional<br/>
+		[National Institute of Education]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
@@ -207,8 +208,8 @@ Lee Kuan Yew Fund for Bilingualism
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Perkhidmatan Perpustakaan Bahasa Melayu<br />
-		National Library Board</td>
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Perkhidmatan Perpustakaan Bahasa Melayu<br />Lembaga Perpustakaan Nasional<br/>
+		[National Library Board]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
@@ -223,7 +224,7 @@ Lee Kuan Yew Fund for Bilingualism
   <tr>
     <td class="data" style="border: none; width: 70%;
 														text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Kelas Matematika M<sup>3</sup>@NeeSoon<br />
-		PA MESRA (M3@NeeSoon)</td>
+			[M<sup>3</sup>@NeeSoon]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
@@ -233,6 +234,6 @@ Lee Kuan Yew Fund for Bilingualism
     </tr>
 </table>
 <br />
-	<br/><br/><p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+	<br/><br/><p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 	<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 </body>
