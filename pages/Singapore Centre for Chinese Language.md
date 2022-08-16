@@ -3,8 +3,6 @@ title: Singapore Centre for Chinese Language
 permalink: /cl-sccl
 description: ""
 ---
-
-
 <style>
    .btntop {
     position: fixed;
@@ -35,6 +33,7 @@ description: ""
 </style>
 <a href="/exhibits/chinese-exhibitions-e/community-partners/" style="float:left;" class="backbtn">Back</a><br>
 <h4 style="font-size: 40px;font-family: KaiTi;padding-top:12px;margin:10px;color: #d84178;text-align:justify;">新加坡华文教研中心</h4>
-
-<br/>
+<br>
 <img src="/images/Posters/cl-sccl-poster.jpg">
+<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
