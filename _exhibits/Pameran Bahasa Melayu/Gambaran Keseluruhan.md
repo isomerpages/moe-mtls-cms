@@ -30,5 +30,5 @@ third_nav_title: Pameran Bahasa Melayu
 <a href="/exhibits/melayu-malay-language-exhibitions-d/schools/"><img src="/images/Exhibits Overview/ML_Schools -100.jpg"></a>
 <br>
 <a href="/exhibits/melayu-malay-language-exhibitions-e/community-partners/"><img src="/images/Exhibits Overview/ML_Community-100.jpg"></a>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;padding-top:12px;margin:10px;">“For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.”</p>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;padding-top:12px;margin:10px;font-style: italic;">“For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.”</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
