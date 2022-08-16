@@ -35,9 +35,9 @@ description: ""
 <h4 style="font-size:34px;font-family:Lato,sans-serif;color:#a3c864;">Menggunakan Strategi Pemikiran Visual & Pembelajaran Melalui Pengalaman untuk Meningkatkan Pengetahuan Kanak-kanak dalam Bahasa Melayu</h4>
 <img src="/images/Posters/MTLS_MYWorld_v4.jpg">
 <br/>
-<iframe width="1120" height="320" src="https://www.youtube.com/embed/vVjjlMutRdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Video of sample lesson 1
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vVjjlMutRdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Video of sample lesson 1
 <br/><br/>
-<iframe width="1120" height="320" src="https://www.youtube.com/embed/5ne6ZK7EMAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Video of sample lesson 2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ne6ZK7EMAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Video of sample lesson 2
 <br/><br/>
 <a href="/files/MY World_Testimonials.pdf" target="_blank">Testimonials – M.Y World @ Punggol Edge</a>
 <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
