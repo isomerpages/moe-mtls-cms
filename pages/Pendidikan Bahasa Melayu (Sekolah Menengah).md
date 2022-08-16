@@ -270,6 +270,7 @@ table.center {
 <p><span class="dot"></span>&nbsp;&nbsp;&nbsp;  Perpustakaan Negara Singapura <br/>
 Program dan aktiviti sepanjang tahun yang dijalankan di perpusatakaan-perpustakaan awam.</p>
 <p><a href="https://www.nlb.gov.sg/" target="_blank">https://www.nlb.gov.sg/</a></p>
+	</span>&nbsp;&nbsp;&nbsp;  Program Pentas Esplanade <br/>
 <li> Persembahan seni dan Budaya Melayu sepanjang tahun. </li>
 <li> <span style="color: blue;">Gemadah </span>– Festival Muzik Tradisional Melayu</li>
 <li> <span style="color: blue;">Festival Muara </span> – Persembahan tarian Melayu Nusantara</li>
