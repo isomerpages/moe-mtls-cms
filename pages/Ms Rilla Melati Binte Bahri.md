@@ -98,4 +98,5 @@ max-width:100%;
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#fa0;">Synopsis</h4>
 <p style="margin:10px;font-family:Lato,sans-serif;">Whilst much of the creative content for children today is explicitly produced with education in mind, other content treats education as a secondary purpose, or even as merely incidental. However, with the growing popularity of new media among the present generation of children, the lines between education and entertainment become blurred. So, what then is the role of edutainment as a tool for language learning? Can it be used to effectively engage and encourage children to speak in the Mother Tongue Language (MTL)? Join in the discussion to explore the merits of edutainment as a learning tool to help the reluctant MTL speaker.
 </p>  
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
