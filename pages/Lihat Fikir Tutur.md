@@ -3,8 +3,6 @@ title: Lihat Fikir Tutur
 permalink: /ml-Waterway-Primary-School-Synopsis
 description: ""
 ---
-
-
 <style>
    .btntop {
     position: fixed;
@@ -39,4 +37,5 @@ description: ""
 <h4 style="font-size: 35px;font-family: Lato,sans-serif;padding-top:12px;margin:10px;color: #a3c864;">See-Think-Speak</h4>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">Project ‘See-Think-Speak’ is a combined effort by the Malay Language and Tamil Language teams of Waterway Primary School. It focuses on honing the picture conversation skills of the Primary 3 and 4 students. Students develop their language and interaction skills through blended learning, thinking routines and differentiated instruction strategies. They are encouraged to make their thinking visible through collaborative learning, leveraging on ICT platforms such as SLS and Padlet. 
 Through this project, students will be able to speak and describe a picture confidently by providing their opinions and sharing their personal experiences. </p>
+<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
