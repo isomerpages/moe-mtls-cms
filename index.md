@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner 1920x720.jpg
+      background: /images/KV_1920x720.png
       key_highlights:
         - title: Exhibits
           description: View all our exhibits here!
