@@ -3,8 +3,6 @@ title: Kembara Maya, Teroka Bahasa
 permalink: /Malay-Language-Learning-Promotion-Committee-Synopsis
 description: ""
 ---
-
-
 <style>
    .btntop {
     position: fixed;
@@ -43,4 +41,6 @@ description: ""
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">The Malay Language Learning and Promotion Committee (MLLPC) has been working collaboratively with schools and community organisations to provide opportunities and platforms to promote the learning and usage of Malay since 2006.</p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">MLLPC aims to enthuse students in learning the Malay language and to develop in them an abiding interest in Malay language, literature and culture.</p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">Some of their signature programmes include the Arif Budiman Malay Teacher Award (AGAB), Fiesta Bahasa, Kembara Nusantara, Cepat Tepat, Perkasa Warisan and Fiesta Kesantunan.</p>
-<p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">The MLLPC booth showcases programmes and online games that enhance the learning and promotion of Malay language.</p><div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
+<p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">The MLLPC booth showcases programmes and online games that enhance the learning and promotion of Malay language.</p>
+<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
