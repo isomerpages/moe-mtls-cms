@@ -138,7 +138,7 @@ The MTL curriculum aims to develop our young to be proficient language users who
 The information featured in our MTLS MOE MTL curriculum webpage aims to provide parents and educators with an understanding of the different opportunities for MTL learning, beginning from Pre-school through Primary, Secondary and Pre-University. There will also be tips for parents and educators to gain insights and ideas to bring the joy of learning MTL to our young and for them to be able to better support the children in this journey.
 </p>
  <br />
- <br/><br/><p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+ <br/><br/><p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop">
   <a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a>
 </div>
