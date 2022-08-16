@@ -34,8 +34,8 @@ sections:
   - infopic:
       title: " Engagement Sessions"
       subtitle: for children
-      description: "Let your child explore and discover new skills in learning MTL in
-        a fun and engaging way online! "
+      description: Let your child explore and discover new skills in learning Mother
+        Tongue Languages in a fun and engaging way online.
       button: Register here to secure a place for your child!
       alt: Image alt text
       url: https://event-reg.biz/Registration/RegDelegate_MTLS2022EngagementSession?FLW=16gFqWgviPD39J0h%7C%7CRNUjA==&SHW=/0fB0bPedlD1kKlGfsVq%7C%7Cg==&GRP=SHatfdeRi657A0m4wzE/Ug==&STP=uTx3HwZBhvahan5gxR/%7C%7CCA==
