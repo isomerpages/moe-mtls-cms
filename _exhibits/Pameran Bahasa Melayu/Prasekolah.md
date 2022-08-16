@@ -74,8 +74,8 @@ text-decoration:none;
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Membangun Kanak-kanak Berdwibahasa<br />
-MK@Horizon<br />
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Membangun Kanak-kanak Berdwibahasa<br />Tadika MOE di Horizon<br/>
+[MK@Horizon]<br />
  </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
@@ -91,7 +91,7 @@ MK@Horizon<br />
   <tr>
     <td class="data" style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">‘Saya Wira/Wirawati Budaya!’ 
-  <br />
+  <br />Tadika MOE di Wellington<br/>
 MK@Wellington
 </td>
     <td style="border: none;
@@ -107,8 +107,8 @@ MK@Wellington
   width: 100%;">
   <tr>
     <td class="data" style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Transformasi  Melalui Kitar Semula <br/>
-	PCF Sparkletots @ Boon Lay 631 (KN)</td>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Transformasi Melalui Kitar Semula <br/>Pusat Pendidikan Prasekolah Sparkletots Boon Lay @ Blk 631<br/>
+			[PCF Sparkletots @ Boon Lay 631]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
@@ -122,7 +122,7 @@ MK@Wellington
   width: 100%;">
   <tr>
     <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Menggunakan Strategi Pemikiran Visual & Pembelajaran Melalui Pengalaman untuk Meningkatkan Pengetahuan Kanak-kanak dalam Bahasa Melayu<br />
-		M.Y World @ Punggol Edge</td>
+		[M.Y World @ Punggol Edge]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
@@ -131,5 +131,5 @@ MK@Wellington
   </div></td>
     </tr>
 </table>
-	<br/><br/><p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+	<br/><br/><p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
