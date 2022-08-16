@@ -3,6 +3,35 @@ title: Genius Hive Preschool
 permalink: /Genius-Hive-Exhibition
 description: ""
 ---
+<style>
+   .btntop {
+    position: fixed;
+    float: right;
+    bottom: 20px;
+    right: 80px;
+    z-index: 99;
+    boder: none;
+    background-color: #3bb9ff;
+    cursor: pointer;
+    padding: 15px;
+    boder-radius: 4px;
+    color: #fff;
+    font-weight: 600;
+}
+  .backbtn{
+   margin-left: -100px;
+   border: none;
+  text-align: left;
+  width: 20%;
+  font-family:Lato,sans-serif;
+  } 
+@media only screen and (max-width: 600px) {
+.backbtn {
+   margin-left: 6px;
+  }
+}
+</style>
+<a href="/exhibits/chinese-exhibitions-c/preschool" style="float:left;" class="backbtn">Back</a><br>
 <h4 style="font-size:25px;font-family:KaiTi;color:#d14165;">探索生活，趣学华语</h4>
 <img src="/images/MTLS_Genius-Hive_v4.jpg">
 <br><br>
