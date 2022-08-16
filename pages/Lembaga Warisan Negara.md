@@ -41,4 +41,5 @@ description: ""
 Find out more about language programmes, tips and resources from the Speak Mandarin Campaign, Malay Language Council, Singapore and Tamil Language Council. </p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">Learn more about the Heritage Institutions at the Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall.</p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">Parents can find out more about the learning opportunities available for the young, while educators can explore opportunities to expand learning beyond the classroom. </p>
+<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
