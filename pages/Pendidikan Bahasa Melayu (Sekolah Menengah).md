@@ -236,7 +236,7 @@ table.center {
 <img src="/images/ML Sec 3.jpg"><br/>
 <h4>PROGRAM BERTERUSAN: TINTA AKSARA</h4>
 <p>Penulisan pelajar Menengah 3 dan 4</p>
-<img src="/images/Pic-Sec-ML-22.png"><br/>
+<img src="/images/ML Sec 1v2.jpg"><br/>
 <img src="/images/Pic-Sec-ML-23.png"><br/>
 <img src="/images/Pic-Sec-ML-24.png"><br/>
 <h4> PROGRAM DIGITAL ALTERNATIF</h4>
