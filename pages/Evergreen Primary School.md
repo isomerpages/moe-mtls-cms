@@ -34,5 +34,8 @@ description: ""
 <a href="/exhibits/tamil-exhibitions-d/schools/" style="float:left;" class="backbtn">Back</a><br>
 <h4 style="font-size:35px;Anjal InaiMathi;color:#9b4490;">பகுத்தறிவோம் பகிர்ந்துகொள்வோம்</h4>
 <img src="/images/Posters/Evergreen-Pri-TL-V3.jpg">
+<br/><br/>
+<iframe width="800" height="320" src="https://www.youtube.com/embed/WUxmbRKn0uE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><b><span style="font-family:Anjal InaiMathi; font-size:16px;">எவெர்கிரின் தமிழ்மொழிப் போட்டிகள் 2021</span></b>
+<br/><br/>
 <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
