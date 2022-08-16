@@ -109,7 +109,7 @@ Dr. Wu Nianyang and her team believe that reading involves multisensory activiti
 </p><br />
   <h4 style="color:#d84178;"> Synopsis</h4>  
    <p style="text-align:justify;font-family:Lato,sans-serif;">
-In this sharing session, the concept of interactive reading will be introduced through a demonstration of how two to three picture books could be read along with a series of relevant extended activities. 
+In this sharing session, the concept of interactive reading will be introduced through a demonstration of how three picture books could be read along with a series of relevant extended activities. 
 Reading as an activity should not only be centred on its content. It should involve cognitive engagement, speaking tasks, and body movements. Through such extended reading activities that are based on the content of the book, children will develop deeper comprehensive and interactive skills that develop their cognitive ability.
       </p></div>
   <br/><br/>
