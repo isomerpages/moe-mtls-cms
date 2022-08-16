@@ -126,7 +126,7 @@ Junyuan Primary School
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-Meridian-Sec-School-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-meridian-sec-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
