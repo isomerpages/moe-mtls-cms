@@ -86,12 +86,6 @@ max-width:30%;
     <div class="sp2">
     <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_10.jpg" style="display:none;" />
     </div>
-<div class="video-container">
-<iframe class="responsive-iframe" src="https://player.vimeo.com/video/593644601?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=53eb00b951" title="Mother Tongue Languages Symposium 2021 Opening Ceremony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-</div>
-*Video is best viewed in 1080p.<br />
-    <div class="climg">
   <div class="column">
     <img src="/images/CL-Mdm-Cheah-Sin-Wei.png" style="width:100%" />
   </div>
@@ -113,7 +107,7 @@ max-width:30%;
    </p>
  <h4 id="C1" style="font-size:30px;font-family:KaiTi;color:#d84178;">介绍</h4>
    <p style="font-size:21px;font-family:KaiTi;"> 
-成为专职母亲之前，谢欣薇从事广告设计的工作。她在香港工作10年，于2003年返回新加坡。两个孩子出世至今，欣薇直有意识地在家中跟他们使用华语沟通。</p>
+成为专职母亲之前，谢欣薇从事广告设计的工作。她在香港工作10年，于2003年返回新加坡。两个孩子出世至今，欣薇一直有意识地在家中跟他们使用华语沟通。</p>
 <p style="font-size:21px;font-family:KaiTi;">陈伟妮是HashTaqs 私人有限公司的创办人兼董事经理，也是H.E.R. Entrepreneur 的创办人。精通双语的她，不仅擅长以英语主持区域论坛，还曾以华语主持中国新加坡商会线上研讨会。身为两个幼童的母亲，她十分重视双语的学习，并积极在家中营造有利于培养孩童双语能力的环境。</p><br />
    <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4>  
    <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 培育双语孩童，方法各异，殊途同归！</h4>  
@@ -123,7 +117,7 @@ max-width:30%;
 <br>
 <h4 style="color:#d84178;font-family:Lato,sans-serif;">Profile</h4>  
    <p style="font-family:Lato,sans-serif;">
-Mdm Cheah is a stay-home parent. She used to be in the advertising and branding industry and stationed in Hong Kong for about 10 years before returning to Singapore in 2003. She makes a conscious effort to speak to her two children in Mandarin since they were young.
+Mdm Cheah Sin Wei is a stay-home parent. She used to be in the advertising and branding industry and stationed in Hong Kong for about 10 years before returning to Singapore in 2003. She makes a conscious effort to speak to her two children in Mandarin since they were young.
 </p>
 <p style="font-family:Lato,sans-serif;">Renee Tan is the Founder and Managing Director of HashTaqs Pte Ltd as well as the Founder of H.E.R. Entrepreneur. Effectively bilingual, Renee is an experienced EL moderator of regional conferences and has hosted Singcham Webinar in Mandarin with Chinese delegates. She is also a mother of two young children, passionately exploring ways to nurture bilingual children at home.</p><br />
   <h4 style="color:#d84178;"> Synopsis</h4>  
