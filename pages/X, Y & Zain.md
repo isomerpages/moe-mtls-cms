@@ -38,4 +38,5 @@ description: ""
 X, Y & Zain!
 Ming Lee C/o Manickam</h4>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">On the outside, Zain is just another ordinary 10-year-old boy, but deep in the depths of his anatomy live two inquisitive chromosomes, Xoey and Yuri, who take the audience on an exciting learning adventure across the numerous systems of Zain’s body, revealing the secrets of our anatomy! </p>
+<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
