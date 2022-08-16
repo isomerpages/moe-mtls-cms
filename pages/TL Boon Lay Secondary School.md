@@ -41,4 +41,5 @@ description: ""
 <p style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">The programme was designed to make Tamil Language come alive beyond the classroom by introducing students to journalism. 
 </p>
 <p style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">The booth will share the skill-building activities undertaken by students, as well as examples of student work which display how students have used skills in conceptualising, interviewing, information gathering and video news reporting as Tamil journalists.</p>
+<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
