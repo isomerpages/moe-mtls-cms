@@ -127,7 +127,7 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
 <li>Subsidi penuh bagi Program Penyerapan ke Luar Negara</li>
 <br>
 <p>Sila klik pautan-pautan di bawah ini jika ingin informasi selanjutnya.</p>
-<p><a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang program elektif Bahasa Melayu  </a></p>
+<p><a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang Program Elektif Bahasa Melayu  </a></p>
 <p><a href="/files/Program-Elektif-Bahasa-Melayu-Maktab-Rendah.pdf" target="_blank">Program Elektif Bahasa Melayu Maktab Rendah(MLEP-JC) </a></p>
 <img src="/images/Pic-PreUni-4.png"> <br>
 <p style="++text-align: center;">Aktiviti-aktiviti program MLEP-JC</p>
