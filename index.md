@@ -48,7 +48,7 @@ sections:
       button: Register here to secure a place for your child!
       alt: Image alt text
       url: https://event-reg.biz/Registration/RegDelegate_MTLS2022StorytellingSession?FLW=nGOARKRwg7/YcYSAr1kqEQ==&SHW=/0fB0bPedlD1kKlGfsVq%7C%7Cg==&GRP=MP3myIc8Lp0DxoNPRgx8jQ==&STP=uTx3HwZBhvahan5gxR/%7C%7CCA==
-      image: /images/Mascot_Banners_600x300px_3.jpg
+      image: /images/1200x600_3-100.jpg
   - infopic:
       title: Interactive Workshops
       subtitle: parent-child activity
