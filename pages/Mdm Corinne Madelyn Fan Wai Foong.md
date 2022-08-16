@@ -105,7 +105,7 @@ max-width:30%;
 			 <h4 style="font-size:30px;font-family:Lato,sans-serif;color:#d84178;text-align:justify;text-align:justify;">Use of Mobile Applications in the Teaching and Learning of Chinese Language for Pre-schoolers</h4>
 <h4 style="color:#d84178;font-family:Lato,sans-serif;">Profile</h4>  
    <p style="font-family:Lato,sans-serif;text-align:justify;">
-Mdm Corinne has 16 years of experience in the education service. She is currently teaching at the National Institute of Early Childhood Development (NIEC)- Ngee Ann Polytechnic. Besides having taught in primary schools, Mdm Corinne has also worked as a Curriculum Planning and Resource Development Officer in MOE HQ. She was part of the team to plan and develop the Primary 1 and 2 Chinese Language Curriculum and the MOE Kindergarten Chinese Curriculum.
+Mdm Corinne Fan has 16 years of experience in the education service. She is currently teaching at the National Institute of Early Childhood Development (NIEC) - Ngee Ann Polytechnic. Besides having taught in primary schools, Mdm Corinne has also worked as a Curriculum Planning and Resource Development Officer in MOE HQ. She was part of the team to plan and develop the Primary 1 and 2 Chinese Language Curriculum and the MOE Kindergarten Chinese Curriculum.
 </p><br />
   <h4 style="color:#d84178;text-align:justify;font-family:Lato,sans-serif;"> Synopsis</h4>  
    <p style="font-family:Lato,sans-serif; text-align:justify;">
