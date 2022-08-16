@@ -42,4 +42,5 @@ description: ""
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">The Fund supports creative and engaging approaches that encourage bilingualism and the learning of Mother Tongue Languages (MTLs) as living languages.</p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">The Fund acts as a catalyst in the learning and usage of MTLs through various Fund-supported resources, events and programmes.</p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">Fun and interesting resources that support the learning of MTLs for young children can be accessed through social media platforms such as the Fund’s YouTube channel, Facebook and Instagram.</p>
+<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
