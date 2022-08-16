@@ -75,7 +75,7 @@ img{
 <h4 id="C2">PROJEK MuM (Minggu untuk Meneroka)</h4>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_3.jpg">
 <br>
-<p>Yang berikut merupakan contoh-contoh projek MuM yang terdapat di <a href="https://www.nel.moe.edu.sg/resources/aktiviti-aktiviti" target="_blank"><u>Portal NEL.</u></a></p>
+<p>Yang berikut merupakan contoh-contoh projek MuM yang terdapat di <a href="https://www.nel.moe.edu.sg/resources/aktiviti-aktiviti-saranan" target="_blank"><u>Portal NEL.</u></a></p>
 <li><a href="https://www.nel.moe.edu.sg/qql/slot/u575/2019-05-13/2019-04%20-%20NEL_Eh-Samalah_MK@SG_Cikgu_Dian.pdf" target="_blank">"Eh, Samalah!" Tadika MOE (Sengkang Green)</a></li>
 <li><a href=" https://www.nel.moe.edu.sg/qql/slot/u575/2019-04%20Uploads/2019-03-11%20-%20NEL_ML_MK@WW_Haslilah.pdf" target="_blank">"Kucing Dina" Tadika MOE (Westwood)</a></li>
 <li><a href="https://www.nel.moe.edu.sg/qql/slot/u568/NEL-Portal-Malay-Activity-Idea-Aktiviti-Saranan-WoW-Project-MK-Punggol-V....pdf" target="_blank">“Menjaga Alam Sekitar”  Tadika MOE (Punggol View)</a></li>
