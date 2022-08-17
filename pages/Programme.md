@@ -31,7 +31,7 @@ description: ""
   }
 }
 </style>
-<img src="/images/Programme/1-Programme-Opening.jpg"><br><br>
+<a href="/opening-ceremony"><img src="/images/Programme/1-Programme-Opening.jpg"></a><br><br>
 <img src="/images/Programme/2-Hybridsession-Header.jpg"><br>
 <a href="/dr-zheng-yingjiang"><img src="/images/Programme/3-Hybridsession-CL.jpg"> </a><br>
 <a href="/mdm-nur-afifah"><img src="/images/Programme/4-Hybridsession-ML.jpg"></a><br>
