@@ -98,7 +98,7 @@ max-width:30%;
       <span style="font-family:Anjal InaiMathi;"> <strong>திருமதி. யோகேஸ்வரி பிரஷாந்த்</strong></span><br />
    </p>
    <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;text-align:justify;">பாலர் பள்ளிப் பிள்ளைகளைப் பயன்முனைப்புமிக்க வகையில் தமிழ்மொழி நடவடிக்கைகளில்  
-    ஈடுபடச்  செய்தல் ஈடுபடச் செய்தல்.</h4>
+    ஈடுபடச்  செய்தல்.</h4>
     <h4 id="C1" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தன்விவரம்</h4>
  <p style="margin:10px;font-family:Anjal InaiMathi;text-align:justify;">
  24ஆண்டுகளாகப் பயிற்றுவிப்பாளராகப் பணியாற்றும் திருமதி. யோகேஸ்வரி பிரஷாந்த், Thinkதமிழ் Academy என்ற இருமொழிக் கல்வி நிறுவனத்தை இயக்கி வருகிறார்.
