@@ -66,11 +66,11 @@ img{
 <h4 id="C1">PENDEKATAN MEMBACA BERSAMA</h4>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_2.jpg">
 <p>Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Malay/NEL-Big-Book-Malay-Teaching-Steps.pdf" target="_blank"><u> Pendekatan Membaca Bersama (Shared Book Approach) </u></a> adalah untuk:</p>
-		<li>menunjukkan contoh membaca buku yang baik; </li>
-<li>menggalakkan kanak-kanak agar menggunakan bahasa Melayu dalam suasana yang selesa; </li>
-  <li>mengukuhkan pemahaman tentang cerita yang didengar; dan  </li>
-  <li>mengajar dan mengukuhkan kemahiran berbahasa Melayu.</li>
-  <p>
+		<li style="font-size: 19px;">menunjukkan contoh membaca buku yang baik; </li>
+<li style="font-size: 19px;">menggalakkan kanak-kanak agar menggunakan bahasa Melayu dalam suasana yang selesa; </li>
+  <li style="font-size: 19px;">mengukuhkan pemahaman tentang cerita yang didengar; dan  </li>
+  <li style="font-size: 19px;">mengajar dan mengukuhkan kemahiran berbahasa Melayu.</li>
+  <p style="font-size: 19px;">
   Untuk melihat cara Pendekatan Membaca Bersama dijalankan, sila klik di <a href="https://www.youtube.com/watch?v=zZSYplOdbes" target="_blank"><u>sini.</u></a></p>
 <h4 id="C2">PROJEK MuM (Minggu untuk Meneroka)</h4>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_3.jpg">
