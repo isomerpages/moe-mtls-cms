@@ -206,11 +206,11 @@ table.center {
     <img src="/images/Pic-Sec-ML-13.png" style="width:100%">	<br/><br/><br/>
   </div>
 </div>
-<h4>Simposium EMAS untuk pelajar Menengah 3 dan 4</h4>
+<p>Simposium EMAS untuk pelajar Menengah 3 dan 4</p>
 <img src="/images/Pic-Sec-ML-14.png"><br/>
 <p><span class="dot"></span>&nbsp;&nbsp;&nbsp;Program MLEP-Menengah</p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_SecSch_4.jpg"><br/>
-<p>PROGRAM BERTERUSAN: SEMINAR MLEP</p>
+<h4>PROGRAM BERTERUSAN: SEMINAR MLEP</h4>
 <p>Seminar MLEP yang telah berlangsung pada 1 Jun 2022.</p>
 <div class="rowimg1">
   <div class="columnimg1">
