@@ -107,7 +107,7 @@ MK@Wellington
   width: 100%;">
   <tr>
     <td class="data" style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Transformasi Melalui Kitar Semula <br/>Pusat Pendidikan Prasekolah Sparkletots Boon Lay @ Blk 631<br/>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Transformasi Melalui Kitar Semula <br/>Pusat Pendidikan Prasekolah Sparkletots Boon Lay di Blk 631<br/>
 			[PCF Sparkletots @ Boon Lay 631]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
