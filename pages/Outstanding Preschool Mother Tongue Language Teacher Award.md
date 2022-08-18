@@ -32,6 +32,7 @@ description: ""
   }
 }
 	</style>
+<img src="/images/OPMTL-Holding-hanner.jpg">
 <h5><strong>Outstanding Award Winners </strong></h5>
 <br>
 <div class="row">
