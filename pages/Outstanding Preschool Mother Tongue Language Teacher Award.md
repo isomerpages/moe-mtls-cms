@@ -60,23 +60,21 @@ Agape Little Uni. @ Thomson Pte Ltd</center>
 </div>
 <div class="row">
   <div class="column">
-   <a href="/award/Mr-Muhamad-Shahril-Bin-Samri/"><img src="/images/mr-muhamad-shahril-samri.png" style="width:54%;display:block;" /></a>
-<p> <center>Mr Muhamad Shahril Bin Samri <br />
- PCF Sparkletots @ Pioneer Blk 661B<br /> </center>
+   <a href="/Norliza-Binte-Hasan"><img src="/images/mr-muhamad-shahril-samri.png" style="width:54%;display:block;" /></a>
+<p> <center>Norliza Binte Hasan<br />
+Sparkletots Radin Mas Blk 70A<br /> </center>
  </p>
     </div>
   <div class="column">
-<a href="/award/Mdm-Wang-zhihong/"><img src="/images/mdm-wang-zhihong.png" style="width:54%;display:block;" /></a>
-<p> <center> Mdm Wang Zhihong <br />
-  <span style="font-family:KaiTi; font-size:25px;">王志洪老师  </span> 
-  <br />PCF Sparkletots @ Keat Hong Blk 411</center>
+<a href="/Siti-Hasniza-Binte-Hassan "><img src="/images/mdm-wang-zhihong.png" style="width:54%;display:block;" /></a>
+<p> <center> Siti Hasniza Binte Hassan <br />
+PCF Sparkletots Preschool@Tampines West Blk 887411</center>
   </p>
     </div>
  <div class="column">
-<a href="/award/Mdm-Ye-Suqin/"><img src="/images/mdm-ye-suqin.png" style="width:54% ;display:block;" /> </a>
-  <p> <center> Mdm Ye Suqin<br />
-  <span style="font-family:KaiTi; font-size:25px;"> 叶素琴老师</span> 
-  <br />PCF Sparkletots @ Kampong Chai Chee Blk 135</center> 
+<a href="/Hazizah-Binte-Ibrahim"><img src="/images/mdm-ye-suqin.png" style="width:54% ;display:block;" /> </a>
+  <p> <center> Hazizah Binte Ibrahim<br />
+  <br />PCF Sparkletots@Punggol Coast Blk 676B (DS)</center> 
   </p>
     </div>
  </div>
