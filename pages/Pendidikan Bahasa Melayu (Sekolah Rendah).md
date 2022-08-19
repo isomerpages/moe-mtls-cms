@@ -47,22 +47,22 @@ width:100% ;
 <body>
 <a href="/exhibits/melayu-malay-language-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
    <a href="/ml-sec/" class="btn" style="float:right;">Next</a><br />
-<img src="/images/MTLS2022_ML_Curriculum_V1_Primary_Banner.jpg" />
+<img src="/images/MTLS2022_ML_Curriculum_V2_Primary_Banner.jpg" />
 <p>
  <a href="#C1" style="font-size:20px"><span style="color:blue;font-family:Calibri">Bahan Pengajaran dan Pembelajaran</span></a><br />
  <a href="#C2" style="font-size:20px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa</span></a>
 </p>
 <br />
-  <img src="/images/MTLS2022_ML_Curriculum_V1_PriSch_1.jpg" />
-  <img src="/images/MTLS2022_ML_Curriculum_V1_PriSch_2.jpg" class="image" />  <br />
+  <img src="/images/MTLS2022_ML_Curriculum_V3_PriSch_1.jpg" />
+  <img src="/images/MTLS2022_ML_Curriculum_V3_PriSch_2.jpg" class="image" />  <br />
   <h4 id="C1" style="font-size:30px;"><strong>BAHAN PENGAJARAN DAN PEMBELAJARAN
 </strong></h4>
 <p><span class="dot"></span>&nbsp;&nbsp;&nbsp;Dekat dengan kehidupan murid</p>
-<img src="/images/MTLS2022_ML_Curriculum_V1_PriSch_3.jpg"><br>
+<img src="/images/MTLS2022_ML_Curriculum_V3_PriSch_3.jpg"><br>
 <p><span class="dot"></span>&nbsp;&nbsp;&nbsp;Kaya dan Pelbagai</p>
-<img src="/images/MTLS2022_ML_Curriculum_V1_PriSch_4.jpg"><br>
+<img src="/images/MTLS2022_ML_Curriculum_V3_PriSch_4.jpg"><br>
  <img src="/images/MTLS2022_ML_Curriculum_V1_PriSch_5.jpg"><br>
- <img src="/images/MTLS2022_ML_Curriculum_V1_PriSch_6.jpg"><br>
+ <img src="/images/MTLS2022_ML_Curriculum_V3_PriSch_6.jpg"><br>
 <p><span class="dot"></span>&nbsp;&nbsp;&nbsp; Klip video yang digunakan oleh murid-murid</p>
 	<div class="rowvideo">
  <div class="columnvideo">
@@ -78,7 +78,7 @@ width:100% ;
 <p><span class="dot"></span>&nbsp;&nbsp;&nbsp;Permainan Kosa Kata </p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PriSch_8.jpg">
 <p><span class="dot"></span>&nbsp;&nbsp;&nbsp;Permainan Suku Kata</p>
-<img src="/images/MTLS2022_ML_Curriculum_V1_PriSch_9.jpg">
+<img src="/images/MTLS2022_ML_Curriculum_V3_PriSch_9.jpg">
 <p><span class="dot"></span>&nbsp;&nbsp;&nbsp;Permainan Cerita Berangkai</p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PriSch_10.jpg">
 <li>Permainan yang disarankan di atas haruslah dilakukan secara santai dan menyeronokkan. </li>
