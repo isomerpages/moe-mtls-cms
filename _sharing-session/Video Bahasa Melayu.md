@@ -63,7 +63,7 @@ Ms Fiza O <br/>
 		Ministry of Education</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
- <a href="/Ms-Fiza-O-And-Mdm-Salha-Bte-Mohamed-Hussain" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini!</a>
+ <a href="/Ms-Fiza-O-And-Mdm-Salha-Bte-Mohamed-Hussain" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini</a>
 </td>
     </tr>
 </table>
@@ -79,7 +79,7 @@ Ms Fiza O <br/>
 Collection Planning and Development,  National Library Board  </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-<a href="/Mr-Muhammed-Shahril-Bin-Shaik-Abdullah" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini!</a>
+<a href="/Mr-Muhammed-Shahril-Bin-Shaik-Abdullah" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini</a>
 </td>
     </tr>
 </table>
@@ -94,7 +94,7 @@ Ms Nurain Syakirah binte Nordin <br/>
 		Founder, The Bambini SG</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-<a href="/Ms-Nurain-Syakirah-binte-Nordin" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini!</a>
+<a href="/Ms-Nurain-Syakirah-binte-Nordin" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini</a>
  </td>
     </tr>
 </table>
@@ -116,7 +116,7 @@ Changkat Changi Secondary School
 </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
- <a href="/Mr-Djohan-Bin-Abdul-Rahman-And-Ms-Nurain-Binte-Tajudeen" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini!</a>
+ <a href="/Mr-Djohan-Bin-Abdul-Rahman-And-Ms-Nurain-Binte-Tajudeen" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini</a>
  </td>
     </tr>
 </table>
@@ -131,7 +131,7 @@ Miss Aminah Binte Abdul Latif<br/>
 		Forest School Practitioner</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
- <a href="/Ms-Aminah-Binte-Abdul-Latif" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini!</a>
+ <a href="/Ms-Aminah-Binte-Abdul-Latif" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini</a>
 </td>
     </tr>
 </table>
@@ -153,7 +153,7 @@ Winner of the Outstanding Pre-School Mother Tongue Language Teacher Award 2018 <
 </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
-<a href="/Raising-Bilingual-Children" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini!</a>
+<a href="/Raising-Bilingual-Children" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini</a>
 </td>
     </tr>
 </table>
@@ -168,7 +168,7 @@ Dr Raudhah Yahya  <br/>
 		Lecturer, NIEC-NP </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
- <a href="/Dr-Raudhah-Yahya" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini!</a>
+ <a href="/Dr-Raudhah-Yahya" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini</a>
 </td>
     </tr>
 </table>
@@ -187,7 +187,7 @@ Mr Muhammad Shahzulhari bin Johari <br/>
 		Malay Language Teacher, Wellington Primary School   </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
- <a href="/Mr-Muhammad-Shahzulhari-bin-Johari-And-Mr-Airi-Bin-Bujang" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini!</a>
+ <a href="/Mr-Muhammad-Shahzulhari-bin-Johari-And-Mr-Airi-Bin-Bujang" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini</a>
 </td>
     </tr>
 </table>
@@ -203,7 +203,7 @@ Ms Nur’afifah Binte Mohd Hussain  <br/>
 Yaa Bunayya SG</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
- <a href="/Mdm-Nur-afifah" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini!</a></td>
+ <a href="/Mdm-Nur-afifah" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini</a></td>
     </tr>
 </table>
 	<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
