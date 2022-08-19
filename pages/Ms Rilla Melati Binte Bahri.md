@@ -43,7 +43,7 @@ description: ""
     border-radius: 6px;
     text-align: center;
     display: block;
-    margin-left: 26px;
+    margin-left: 8px;
   }
   @media only screen and (max-width: 600px){ 
   .btn1,.btn2{
