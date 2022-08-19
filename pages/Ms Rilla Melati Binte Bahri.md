@@ -72,7 +72,7 @@ max-width:100%;
   <tr>      
 		<td  style="border: none;
   text-align: right;padding: 20px;">
-<a href="/english-session" style="float:right;">Back</a>
+<a href="/english-session">Back</a>
 </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
