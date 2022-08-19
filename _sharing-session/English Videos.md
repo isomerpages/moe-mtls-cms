@@ -39,7 +39,9 @@ text-decoration:none;
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Edutainment as a Fun Tool in Encouraging the Reluctant MTL Speaker<br/>
   [Live Sharing Session from 4.00pm to 5.00pm]<br/>
-Ms Rilla Melati Binte Bahri
+Ms Rilla Melati Binte Bahri<br/>
+			Director<br/>
+			Mini Monsters Limited
 		<br/>
         </td>
     <td style="border: none;
