@@ -56,6 +56,8 @@ Ms Rilla Melati Binte Bahri
   text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Let’s PLAY to Discover the Hidden Treasures in the Garden of Mother Tongue Languages<br/>
   [Pre-Recorded Sessions]<br/>
 Dr. Shuhan C. Wang<br/>
+			President<br/>
+			ELE Consulting International<br/>
      </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
