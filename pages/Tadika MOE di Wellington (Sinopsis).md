@@ -3,9 +3,6 @@ title: Tadika MOE di Wellington (Sinopsis)
 permalink: /ml-MK-Wellington-Synopsis
 description: ""
 ---
-
-
-
 <style>
    .btntop {
     position: fixed;
@@ -36,7 +33,7 @@ description: ""
 </style>
 <a href="/exhibits/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/" style="float:left;" class="backbtn">Back</a><br>
 <h4 style="font-size: 35px;font-family: Lato,sans-serif;;padding-top:12px;margin:10px;color: #a3c864;">‘Saya Wira/Wirawati Budaya!’ </h4>
-<p style="font-size: 20px;font-family: Lato,sans-serif;text-align:justify;"> ‘Saya Wira/Wirawati Budaya!’ merupakan satu program khas Bahasa Ibunda di Tadika MOE @Wellington.  <br/>
+<p style="font-size: 20px;font-family: Lato,sans-serif;text-align:justify;"> ‘Saya Wira/Wirawati Budaya!’ merupakan satu program khas Bahasa Ibunda di Tadika MOE @Wellington. <br/><br/>
 Tujuan program ini adalah untuk memupuk keseronokan mempelajari Bahasa Ibunda di samping membina kesedaran dan menghargai  warisan dan kepelbagaian budaya di Singapura.  Melalui aktiviti-aktiviti yang autentik, menarik dan bermakna  kanak-kanak meneroka tajuk-tajuk yang berkait rapat dengan budaya tempatan yang dapat membentuk identiti budaya dan pemahaman mereka terhadap budaya mereka dan budaya lain. </p>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">Program ini juga mengalu-alukan penglibatan dan sokongan keluarga. Ahli keluarga digalakkan untuk mengambil bahagian dalam aktiviti susulan yang dilakukan di rumah bersama kanak-kanak. </p>
 <h4 style="font-size: 35px;font-family: Lato,sans-serif;padding-top:12px;margin:10px;color: #a3c864;"> ‘I am a Cultural Ambassador!’ Nurturing the Joy of Learning Mother Tongue Languages and Culture</h4>
