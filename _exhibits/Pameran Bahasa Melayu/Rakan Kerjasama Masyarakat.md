@@ -122,7 +122,7 @@ text-decoration:none;
   <tr>
     <td class="data" style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Terokai Alam Haiwan yang Menakjubkan <br />Kawasan Hidupan Liar Mandai<br/>
-		Mandai Wildlife Reserve</td>
+		[Mandai Wildlife Reserve]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
