@@ -91,9 +91,7 @@ max-width:100%;
     <div class="elimg">
     <img src="/images/EL-Dr-Wang.png" style="width:30%" />
    </div>
-      <p> <strong>Dr. Shuhan C. Wang <br/>
-				President<br/>
-			ELE Consulting International<br/></strong>
+      <p> <strong>Dr. Shuhan C. Wang </strong>
 </p>
   <h4  id="C1" style="padding-top:12px;margin:10px;color:#fa0;">Let’s PLAY to Discover the Hidden Treasures in the Garden of Mother Tongue Languages</h4>
       <h4 style="padding-top:12px;margin:10px;color:#fa0;font-family:Lato,sans-serif;">Profile</h4>
