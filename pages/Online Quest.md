@@ -19,8 +19,7 @@ description: ""
     color: #fff;
     font-weight: 600;}
 	</style>
-<p>Join our MTLS explorers Xiao Tao, Sani, Kavin and Peppy as they embark on an adventure to help our friendly neighbours recover missing items and complete tasks! Click on the link below to play the game.</p>
-<a href="https://mtls21onlinequest.com.sg" target="_blank">https://mtls21onlinequest.com.sg/</a>
+<p>Join our MTLS explorers Xiao Tao, Sani, Kavin and Peppy from 27 August 2022 as they embark on an adventure to help our friendly neighbours recover missing items and complete tasks! .</p>
 <br/>
 *<i>The Online Quest is best played on computers and tablets.</i>
 	<br/>
