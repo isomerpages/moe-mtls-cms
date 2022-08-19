@@ -69,17 +69,17 @@ max-width:100%;
 </head>
 <body>
 <table>
-  <tr>
+  <tr>      
+		<td  style="border: none;
+  text-align: left;padding: 25px;width: 20%;">
+<a href="/english-session" style="float:right;">Back</a>
+</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
       <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
     </td>
-      <td  style="border: none;
-  text-align: left;padding: 25px;width: 20%;">
-<a href="/english-session" style="float:right;">Back</a>
-</td>
     </tr>
 </table>
     <div class="sp2">
