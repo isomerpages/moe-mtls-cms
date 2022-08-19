@@ -148,8 +148,8 @@ Ms Aimuniliyana Md Rahim<br/>
 Winner of the Outstanding Pre-School Mother Tongue Language Teacher Award 2018 <br/>
         <br/>
         Ms Almi Roafuziah binte Mohamed   <br/>
-		Student <br/>
-        
+		Preschool Educator,<br/>
+Winner of the Outstanding Pre-School Mother Tongue Language Teacher Award 2020 <br/>        
 </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
@@ -180,7 +180,7 @@ Dr Raudhah Yahya  <br/>
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Dari Cetak ke Layar: Memanfaatkan Penggunaan Video untuk Menjana Minat Murid terhadap Bahasa<br/>
 	[Pre-Recorded Session (Recordings will be made available online from 27 August 2022)]
   <br/><br/>
-Mr Muhammad Shahzulhari bin Johari <br/>
+Mr Muhamad Shahzulhari bin Johari <br/>
 		Malay Language Teacher, Wellington Primary School <br/>
         <br/>
        Mr Airi Bin Bujang <br/>
