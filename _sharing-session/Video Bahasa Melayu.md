@@ -107,11 +107,11 @@ Ms Nurain Syakirah binte Nordin <br/>
 [Online Engagement Sessions (For P1 to P4 Students) from 5.30pm to 6.30pm]<br/>
   <br/>
 Mr Djohan Bin Abdul Rahman  <br/>
-		Lead Teacher, Malay Language
+		Lead Teacher, Malay Language,
 Changkat Changi Secondary School<br/>
 <br/>
 Ms Nurain Binte Tajudeen <br/>
-	Teacher, Malay Language
+	Teacher, Malay Language,
 Changkat Changi Secondary School
 </td>
     <td style="border: none;
@@ -144,11 +144,11 @@ Miss Aminah Binte Abdul Latif<br/>
 [Pre-Recorded Sessions (Recordings will be made available online from 27 August 2022)] <br/>
    <br/>
 Ms Aimuniliyana Md Rahim<br/>
-		Preschool Educator, <br>
+		Pre-School Educator, <br>
 Winner of the Outstanding Pre-School Mother Tongue Language Teacher Award 2018 <br/>
         <br/>
         Ms Almi Roafuziah binte Mohamed   <br/>
-		Preschool Educator,<br/>
+		Pre-School Educator,<br/>
 Winner of the Outstanding Pre-School Mother Tongue Language Teacher Award 2020 <br/>        
 </td>
     <td style="border: none;
