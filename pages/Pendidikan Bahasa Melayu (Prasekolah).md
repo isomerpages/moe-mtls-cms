@@ -37,7 +37,7 @@ img{
   <a href="/exhibits/melayu-malay-language-exhibitions-b/moe-curriculum/" class="btn" style="float:left;">Previous</a>
 <a href="/ml-prisch/" class="btn" style="float:right;">Next</a>
  <br />
-<img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_Banner.jpg" /><br />
+<img src="/images/MTLS2022_ML_Curriculum_V2_PreSch_Banner.jpg" /><br />
  <a href="#C1" style="font-size:20px"><span style="color:blue;">Pendekatan Membaca Bersama
 </span></a><br />
 <a href="#C2" style="font-size:20px"><span style="color:blue;">PROJEK MuM
