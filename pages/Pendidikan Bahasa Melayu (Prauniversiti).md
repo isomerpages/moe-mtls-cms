@@ -58,7 +58,7 @@ width:90% ;
 </style>
 <body>
 <a href="/ML-Sec/" class="btn" style="float:left;">Previous</a><br />
-<img src="/images/MTLS2022_ML_Curriculum_V1_JC_Banner.jpg" />
+<img src="/images/MTLS2022_ML_Curriculum_V2_JC_Banner.jpg" />
 <a href="#C1" style="font-size:20px"><span style="color:blue;">Bahan Pengajaran dan Pembelajaran</span></a><br />
 <h4 style="color:green;font-size:30px;">Matlamat Pendidikan Prauniversiti </h4>  
 <table style=" border-collapse: collapse; width: 100%;">
