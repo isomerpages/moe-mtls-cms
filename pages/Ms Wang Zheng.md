@@ -49,7 +49,7 @@ description: ""
     border-radius: 6px;
     text-align: center;
     display: block;
-    margin-left: 26px;
+    margin-left: 8px;
   }
    .btn1:hover {
 background-color: lightgrey;!important;
@@ -73,14 +73,16 @@ max-width:30%;
 <body>
 <table>
   <tr>
+		<td style="border: none;
+  text-align: left;padding: 20px;">
+			<a href="/chinese-session">Back</a>
+</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a></td>
-<td style="border: none;
-  text-align: left;padding: 25px;width: 20%;"><a href="/chinese-session" style="float:right;">Back</a>
-</td>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+		</td>
     </tr>
 </table>
     <div class="sp2">
