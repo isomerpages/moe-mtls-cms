@@ -1,5 +1,5 @@
 ---
-title: TL Boon Lay Secondary School
+title: வகுப்பறைக்கு அப்பாலும் தமிழ்மொழியின் பயன்பாட்டை ஊக்குவிக்கும் இளம் ஊடகப் படைப்பாளர் திட்டம்(சுருக்கவுரை)
 permalink: /tl-Boon-Lay-Secondary-School-Synopsis
 description: ""
 ---
