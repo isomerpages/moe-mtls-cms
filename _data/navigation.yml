@@ -30,9 +30,9 @@ links:
         url: /exhibits/melayu-malay-language-exhibitions-a/gambaran-keseluruhan
       - title: தமிழ்மொழிக் காட்சிக்கூடம்
         url: /exhibits/tmail-exhibitions-a/tl-overview
- - title: Activities
-   url: /activities
-   sublinks:
+  - title: Activities
+    url: /activities
+    sublinks:
       - title: Online Quest
         url: /online-quest
       - title: Explore@MTLS Activity Package​
