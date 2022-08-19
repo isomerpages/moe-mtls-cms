@@ -58,11 +58,11 @@ img{
 <p style="text-align:justify;">Program Literasi Bintang Kecil merangkumi Program Literasi Bintang Kecil Bahasa Inggeris dan Bahasa Ibunda. Program ini dibina dengan harapan dapat memupuk keupayaan awal kanak-kanak berdwibahasa. </p>
 <p style="text-align:justify;">Program ini ditawarkan untuk memberikan peluang kepada kanak-kanak untuk menikmati bahasa, berkomunikasi dengan yakin dan menyedari adat dan budaya tempatan. Perkara ini dapat dicapai dengan menyediakan pengajaran dan pembelajaran bahasa yang menyeronokkan kepada kanak-kanak melalui penerokaan bahan-bahan, seperti Buku Besar, lagu dan permainan berdasarkan konteks tempatan. Program ini juga memberikan peluang kepada ahli keluarga untuk turut terlibat dalam pembelajaran kanak-kanak.</p>
 <p style="text-align:justify;">Melalui program ini, kanak-kanak akan membina kemahiran literasi awal melalui kemahiran mendengar dan bertutur.  Kemahiran ini akan membantu bagi membina asas yang kukuh dalam pembelajaran bahasa pada masa hadapan.</p>
-<img src="/images/Pic-PreSch-ML_1.jpg"> <br/>
+<img src="/images/MTLS2022_ML_Curriculum_V2_PreSch_0.jpg"> <br/>
 <p style="text-align:justify;">Yang berikut merupakan gambaran keseluruhan bagi <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines" target="_blank"><u>Rangka Kerja untuk Bahasa Ibunda.</u></a></p>
 <img src="/images/Pic-PreSch-ML-2.png">
 <p style="text-align:justify;">Rangka Kerja ini dibina dengan kepercayaan bahawa kanak-kanak mempunyai sifat ingin tahu, aktif dan cekap.</p>
-<img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_1.jpg"><br/>
+<img src="/images/MTLS2022_ML_Curriculum_V2_PreSch_1.jpg"><br/>
 <h4 id="C1">PENDEKATAN MEMBACA BERSAMA</h4>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_2.jpg">
 <p>Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Malay/NEL-Big-Book-Malay-Teaching-Steps.pdf" target="_blank"><u> Pendekatan Membaca Bersama (Shared Book Approach) </u></a> adalah untuk:</p>
@@ -73,7 +73,7 @@ img{
   <p style="font-size: 19px;">
   Untuk melihat cara Pendekatan Membaca Bersama dijalankan, sila klik di <a href="https://www.youtube.com/watch?v=zZSYplOdbes" target="_blank"><u>sini.</u></a></p>
 <h4 id="C2">PROJEK MuM (Minggu untuk Meneroka)</h4>
-<img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_3.jpg">
+<img src="/images/MTLS2022_ML_Curriculum_V2_PreSch_3.jpg">
 <br>
 <p>Yang berikut merupakan contoh-contoh projek MuM yang terdapat di <a href="https://www.nel.moe.edu.sg/resources/aktiviti-aktiviti-saranan" target="_blank"><u>Portal NEL.</u></a></p>
 <li><a href="https://www.nel.moe.edu.sg/qql/slot/u575/2019-05-13/2019-04%20-%20NEL_Eh-Samalah_MK@SG_Cikgu_Dian.pdf" target="_blank">"Eh, Samalah!" Tadika MOE (Sengkang Green)</a></li>
@@ -88,7 +88,7 @@ img{
 <p> <span class="dot"></span>&nbsp;&nbsp;&nbsp;Siapakah Saya?</p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_4.jpg"><br>
 <p> <span class="dot"></span>&nbsp;&nbsp;&nbsp;Siapakah Orang-orang dan Apakah Tempat-tempat di Sekeliling Saya?</p>
-<img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_5.jpg"><br>
+<img src="/images/MTLS2022_ML_Curriculum_V2_PreSch_5.jpg"><br>
 <p> <span class="dot"></span>&nbsp;&nbsp;&nbsp;Dengan Siapakah Saya Berkongsi Dunia ini?</p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_6.jpg"><br>
 <p> <span class="dot"></span>&nbsp;&nbsp;&nbsp;Bagaimanakah Sesuatu Benda atau Perkara Berfungsi?</p>
