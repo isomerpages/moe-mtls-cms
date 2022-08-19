@@ -90,7 +90,9 @@ max-width:100%;
     <div class="elimg">
     <img src="/images/EL-Rilla.png" style="width:30%" />
    </div>
-      <p> <strong>Ms Rilla Melati Binte Bahri</strong>
+      <p> <strong>Ms Rilla Melati Binte Bahri<br/>
+					Director<br/>
+			Mini Monsters Limited</strong>
 </p>
   <h4  id="C1" style="padding-top:12px;margin:10px;color:#fa0;">Edutainment as a Fun Tool in Encouraging the Reluctant MTL Speaker</h4>
       <h4 style="padding-top:12px;margin:10px;color:#fa0;font-family:Lato,sans-serif;">Profile</h4>
