@@ -93,7 +93,7 @@ max-width:30%;
      <div class="column">
 <img src="/images/ML-Mr-Djohan .png" style="width:100%" />
    </div>
-     <p style="font-family:Lato,sans-serif;"><strong>Mr Djohan Bin Abdul</strong><br />
+     <p style="font-family:Lato,sans-serif;"><strong>Mr Djohan Abdul Rahman</strong><br />
  </p>
      <div class="column">
 <img src="/images/ML-Ms-Nurain-Bte-Tajudeen.png" style="width:100%" />
