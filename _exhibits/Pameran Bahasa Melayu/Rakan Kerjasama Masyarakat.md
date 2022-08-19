@@ -112,7 +112,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-Lee-Kuan-Yew-Fund-for-Bilingualism-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-LKYFB-Exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
@@ -214,7 +214,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-National-Library-Board-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/MTLS-NLB-ML-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
