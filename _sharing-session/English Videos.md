@@ -44,7 +44,7 @@ Ms Rilla Melati
         </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;font-family:Lato,sans-serif;">
- <a href="/Ms-Rilla-Melati" class="btn1" style="color:#fff;">Watch Here!</a>
+ <a href="/Ms-Rilla-Melati" class="btn1" style="color:#fff;">Watch Here</a>
 </td>
     </tr>
 </table>
@@ -59,7 +59,7 @@ Dr. Shuhan C. Wang<br/>
      </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
- <a href="/Dr-Shuhan-C-Wang" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Watch Here!</a>
+ <a href="/Dr-Shuhan-C-Wang" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Watch Here</a>
 </td>
     </tr>
 </table>
