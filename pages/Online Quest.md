@@ -21,6 +21,7 @@ description: ""
 	</style>
 <p>Join our MTLS explorers Xiao Tao, Sani, Kavin and Peppy from 27 August 2022 as they embark on an adventure to help our friendly neighbours recover missing items and complete tasks! .</p>
 <br/>
+	<iframe src="https://player.vimeo.com/video/740652229?h=be1430619a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 *<i>The Online Quest is best played on computers and tablets.</i>
 	<br/>
 	<br/><br/>
