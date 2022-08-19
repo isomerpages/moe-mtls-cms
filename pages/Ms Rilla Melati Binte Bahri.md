@@ -71,7 +71,7 @@ max-width:100%;
 <table>
   <tr>      
 		<td  style="border: none;
-  text-align: left;padding: 25px;width: 20%;">
+  text-align: right;padding: 20px;">
 <a href="/english-session" style="float:right;">Back</a>
 </td>
     <td style="border: none;
