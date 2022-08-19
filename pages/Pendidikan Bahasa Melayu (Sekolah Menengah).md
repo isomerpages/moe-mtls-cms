@@ -76,7 +76,7 @@ table.center {
 <body>
 <a href="/ML-PriSch/" class="btn" style="float:left;">Previous</a>
   <a href="/ml-preu/" class="btn" style="float:right;">Next</a><br />
-<img src="/images/MTLS2022_ML_Curriculum_V1_SecSch_Banner.jpg" />
+<img src="/images/MTLS2022_ML_Curriculum_V2_SecSch_Banner.jpg" />
 
 <h4 style="font-size:30px;"><strong> MATLAMAT KURIKULUM SEKOLAH MENENGAH</strong></h4>
   <h4 style="font-size:25px;color:green;">MEMUPUK PELAJAR AKTIF DAN PENGGUNA CEKAP <br>
@@ -105,7 +105,7 @@ table.center {
 </center>
   <h4 style="font-size:25px;color:green;">EMPAT CIRI UTAMA</h4>
   <p>Kurikulum Bahasa Melayu (Sekolah Menengah) 2021 menyerlahkan empat ciri utama yang berikut:</p>
-  <img src="/images/Pic-Sec-ML-3.png"><br>
+  <img src="/images/ML Sec 3 v2.png"><br>
 <div class="row">
   <div class="column">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/XjIcQkdKENM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br />
@@ -126,7 +126,7 @@ table.center {
     <p style="font-weight:bold;text-align:center;">Teknologi</p>
   </div>
   </div>
- <img src="/images/MTLS2022_ML_Curriculum_V1_SecSch_2.jpg">
+ <img src="/images/MTLS2022_ML_Curriculum_V2_SecSch_2.jpg">
 <h4 style="font-size:25px;color:green;">BAHAN-BAHAN VIDEO KURIKULUM</h4>
 <p>Tontonilah video-video yang berikut untuk mendapatkan maklumat lanjut tentang:</p>
 <li>Kurikulum Bahasa Melayu Sekolah Menengah</li>
@@ -185,7 +185,7 @@ table.center {
 <img src="/images/Pic-Sec-ML-8.png">
 <h4>Program Elektif Bahasa Melayu di Peringkat Sekolah Menengah </h4>
 <p ><span class="dot"></span>&nbsp;&nbsp;&nbsp;Program EMAS</p>
-<img src="/images/MTLS2022_ML_Curriculum_V1_SecSch_3.jpg">
+<img src="/images/MTLS2022_ML_Curriculum_V2_SecSch_3.jpg">
 <p>Perkhemahan EMAS untuk pelajar Menengah 1</p>
 <div class="rowimg1">
   <div class="columnimg1">
@@ -209,7 +209,7 @@ table.center {
 <p>Simposium EMAS untuk pelajar Menengah 3 dan 4</p>
 <img src="/images/Pic-Sec-ML-14.png"><br/>
 <p><span class="dot"></span>&nbsp;&nbsp;&nbsp;Program MLEP-Menengah</p>
-<img src="/images/MTLS2022_ML_Curriculum_V1_SecSch_4.jpg"><br/>
+<img src="/images/MTLS2022_ML_Curriculum_V2_SecSch_4.jpg"><br/>
 <h4>PROGRAM BERTERUSAN: SEMINAR MLEP</h4>
 <p>Seminar MLEP yang telah berlangsung pada 1 Jun 2022.</p>
 <div class="rowimg1">
