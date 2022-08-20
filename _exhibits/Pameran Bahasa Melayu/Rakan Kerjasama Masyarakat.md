@@ -171,8 +171,8 @@ text-decoration:none;
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-Mediacorp-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">Lihat Sinopsis </a>
+ <a href="/ml-Mediacorp-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
+  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
@@ -199,7 +199,7 @@ text-decoration:none;
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-National-Institute-of-Education-Synopsis" class="btn1" style="color:#fff;">View Synopsis</a>
+ <a href="/ml-National-Institute-of-Education-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
   <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
