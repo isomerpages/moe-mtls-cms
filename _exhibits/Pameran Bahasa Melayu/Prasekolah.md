@@ -30,7 +30,7 @@ third_nav_title: Pameran Bahasa Melayu
     padding: 5px 13px;
     margin: 9px 0px;
     border-radius: 6px;
-    width: 140px;
+    width: 143px;
 	display:block;
 	}
 	.btn2{
@@ -40,7 +40,7 @@ third_nav_title: Pameran Bahasa Melayu
     padding: 5px 13px;
     margin: 9px 0px;
     border-radius: 6px;
-    width: 140px;
+    width: 143px;
 	display:block;
 	}
     	.btn-group {
