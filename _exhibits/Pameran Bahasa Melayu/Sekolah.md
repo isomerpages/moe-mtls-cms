@@ -81,7 +81,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-Waterway-Primary-School-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition </a>
+  <a href="/ml-Waterway-Primary-School-exhibition" class="btn2" style="color:#fff;">View Exhibition </a>
   </div></td>
     </tr>
 </table>
@@ -112,7 +112,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-St-Joseph-Institution-Junior-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition </a>
+  <a href="/ml-St-Joseph-Institution-Junior-exhibition" class="btn2" style="color:#fff;">View Exhibition </a>
   </div></td>
     </tr>
 </table>
