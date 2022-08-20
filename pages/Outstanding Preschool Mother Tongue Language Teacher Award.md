@@ -74,7 +74,7 @@ PCF Sparkletots Preschool@Tampines West Blk 887411</center>
  <div class="column">
 <a href="/Hazizah-Binte-Ibrahim"><img src="/images/mdm-ye-suqin.png" style="width:54% ;display:block;" /> </a>
   <p> <center> Hazizah Binte Ibrahim<br />
-  <br />PCF Sparkletots@Punggol Coast Blk 676B (DS)</center> 
+PCF Sparkletots@Punggol Coast Blk 676B (DS)</center> 
   </p>
     </div>
  </div>
