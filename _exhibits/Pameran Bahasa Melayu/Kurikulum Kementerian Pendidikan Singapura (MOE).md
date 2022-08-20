@@ -84,7 +84,7 @@ table.center {
     font-weight: 600;
 }
 		.btnClass {
-    display: none;
+    display: inline-block;
     padding: 15px 20px;
     text-align: center;
     text-decoration: none;
