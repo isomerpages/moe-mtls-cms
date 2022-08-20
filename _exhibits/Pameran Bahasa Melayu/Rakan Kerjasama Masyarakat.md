@@ -96,7 +96,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-Esplanade-Theatres-on-the-Bay-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition </a>
+  <a href="/ml-Esplanade-Theatres-on-the-Bay-exhibition" class="btn2" style="color:#fff;">View Exhibition </a>
   </div></td>
     </tr>
 </table>
@@ -127,7 +127,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-Mandai-Wildlife-Reserve-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-Mandai-Wildlife-Reserve-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
@@ -143,7 +143,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ML-Language-Centre-of-Singapore-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-MLCS-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
@@ -172,7 +172,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-Mediacorp-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-Mediacorp-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
@@ -186,7 +186,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-National-Heritage-Board-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-nhb-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
@@ -200,7 +200,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-National-Institute-of-Education-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-NIE-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
@@ -222,14 +222,13 @@ text-decoration:none;
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td class="data" style="border: none; width: 70%;
-														text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Kelas Matematika M<sup>3</sup>@NeeSoon<br />
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Kelas Matematika M<sup>3</sup>@NeeSoon<br />
 			[M<sup>3</sup>@NeeSoon]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-PA-MESRA-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="#" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-M3-NeeSoon-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
   </div></td>
     </tr>
 </table>
