@@ -68,7 +68,6 @@ table.center {
   height:auto;
  max-width:50%
  }
- 
   .btntop {
     position: fixed;
     float: right;
@@ -84,7 +83,7 @@ table.center {
     font-weight: 600;
 }
 		.btnClass {
-    display: inline-block;
+    display: none;
     padding: 15px 20px;
     text-align: center;
     text-decoration: none;
