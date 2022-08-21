@@ -48,6 +48,5 @@ max-width:100%;
     <p style="text-align:justify;font-family:Lato,sans-serif;">Mdm Hazizah also develops the children’s literacy skills through a non-didactic manner when she introduces new words to them. Besides the use of music and movement, she encourages the children to play a traditional game of ‘ting-ting’ to introduce the new words. This approach enables the children to recall the words that they have learnt easily since it was learnt in a fun manner.      
 </p> 
 <p style="text-align:justify;font-family:Lato,sans-serif;">The creative and child-centred teaching approaches undertaken by Mdm Hazizah are able to sustain the children’s interest for their Mother Tongue Language. </p>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+    <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
-</body></html>
