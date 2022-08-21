@@ -24,7 +24,7 @@ max-width:100%;
 }
 </style>
  <body> 
-  <a href="/OPMTL-Award" style="float:right;">Back</a>
+  <a href="/OPMTL-Award" style="float:left;">Back</a>
  <img src="#" style="width:100%" />
     <br />
      <h4 style="font-family:Lato,sans-serif;">Quote</h4>
