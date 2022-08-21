@@ -23,7 +23,6 @@ max-width:100%;
     font-weight: 600;
 }
 </style>
- <body> 
   <a href="/OPMTL-Award" style="float:left;">Back</a>
  <img src="#" style="width:100%" />
     <br />
