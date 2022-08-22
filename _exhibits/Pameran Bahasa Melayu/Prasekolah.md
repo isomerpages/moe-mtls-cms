@@ -75,7 +75,7 @@ text-decoration:none;
   width: 100%;">
   <tr>
     <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Membangun Kanak-kanak Berdwibahasa<br />Tadika MOE di Horizon<br/>
-[MK@Horizon]<br />
+[MOE Kindergarten@Horizon]<br />
  </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
@@ -92,7 +92,7 @@ text-decoration:none;
     <td class="data" style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">‘Saya Wira/Wirawati Budaya!’ 
   <br />Tadika MOE di Wellington<br/>
-MK@Wellington
+[MOE Kindergarten@Wellington]
 </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
