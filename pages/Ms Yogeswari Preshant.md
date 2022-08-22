@@ -97,10 +97,10 @@ max-width:30%;
     <p style="font-family:Lato,sans-serif;"><strong> Ms. Yogeswari Preshant </strong><br/>
       <span style="font-family:Anjal InaiMathi;"> <strong>திருமதி. யோகேஸ்வரி பிரஷாந்த்</strong></span><br />
    </p>
-   <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;text-align:justify;">பாலர் பள்ளிப் பிள்ளைகளைப் பயன்முனைப்புமிக்க வகையில் தமிழ்மொழியில் ஈடுபடச் செய்தல்.</h4><br/>
+   <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;text-align:justify;">பாலர் பள்ளிப் பிள்ளைகளைப் பயன்முனைப்புமிக்க வகையில் தமிழ்மொழியில் ஈடுபடச் செய்தல்</h4><br/>
     <h4 id="C1" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">தன்விவரம்</h4>
  <p style="margin:10px;font-family:Anjal InaiMathi;text-align:justify;">
- 24ஆண்டுகளாகப் பயிற்றுவிப்பாளராகப் பணியாற்றும் திருமதி. யோகேஸ்வரி பிரஷாந்த், Thinkதமிழ் Academy என்ற இருமொழிக் கல்வி நிறுவனத்தை இயக்கி வருகிறார்.
+ 24 ஆண்டுகளாகப் பயிற்றுவிப்பாளராகப் பணியாற்றும் திருமதி. யோகேஸ்வரி பிரஷாந்த், Thinkதமிழ் Academy என்ற இருமொழிக் கல்வி நிறுவனத்தை இயக்கி வருகிறார்.
 பேச்சு, நாடகம் ஆகியவற்றைக் கற்பிப்பதில் சான்றிதழ் பெற்ற இவர் நாடகப் பயிற்றுவிப்பாளராகவும் ஊடகக் கலைஞராகவும் வலம் வருகிறார். இவர் பல பள்ளி பட்டறைகளுக்கும் நிகழ்ச்சிகளுக்கும் பாடத்திட்டங்களை வடிவமைத்திருக்கிறார். திருமதி. யோகேஸ்வரி பிரஷாந்த்  'அப்பளக்குட்டி' என்ற தொடர் சிறுவர் கதைநூலை ஆங்கிலத்திலும் தமிழிலும்  எழுதியுள்ளார். இவர் சிங்கப்பூரில் முதல் இருமொழி அசைவுபடத் திரைப்படத்தை இயக்கியுள்ளார். அந்தப் படம் உள்ளூர் திரையரங்கங்களில் திரையிடப்பட்டது
 </p><br/>
 <h4 id="C2" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">சுருக்கவுரை</h4>
