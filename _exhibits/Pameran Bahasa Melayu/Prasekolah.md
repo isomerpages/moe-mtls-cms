@@ -81,7 +81,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-MK-Horizon-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-MK-Horizon-exhibition" class="btn2" style="color:#fff;">View Exhibition </a>
+  <a href="/ml-MK-Horizon-exhibition" class="btn2" style="color:#fff;">Lihat Pameran </a>
   </div></td>
     </tr>
 </table>
@@ -98,7 +98,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-MK-Wellington-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-MK-Wellington-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-MK-Wellington-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
@@ -113,7 +113,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-PCF-Sparkletots-Boon-Lay-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/MTLS-PCF-Boon-Lay-Exhibition" class="btn2" style="color:#fff;">View Exhibition </a>
+  <a href="/MTLS-PCF-Boon-Lay-Exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
@@ -127,7 +127,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-MY-World-Punggol-Edge-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/MY-World-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/MY-World-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
