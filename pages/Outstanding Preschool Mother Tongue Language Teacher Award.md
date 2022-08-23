@@ -3,7 +3,6 @@ title: Outstanding Preschool Mother Tongue Language Teacher Award
 permalink: /OPMTL-Award
 description: ""
 ---
-
 <html>
   <style>
     .btntop {
@@ -83,13 +82,14 @@ PCF Sparkletots @ Punggol Coast Blk 676B</center>
   <div class="column">
     <a href="/Mdm-Nazreen-Banu"> <img src="/images/OPMTLPic/Nazreen-outstanding-award.png" style="width:54%" /></a>
  <p> <center> Mdm Nazreen Banu <br>
-  <span style="font-family:Anjal InaiMathi; font-size:18px;">திருவாட்டி  நஸ் ரீன் பானு சூராலி ஹபீப் முகமது </span>
+  <span style="font-family:Anjal InaiMathi; font-size:18px;">திருவாட்டி  திருவாட்டி நஸ் ரீன் பானு 
+சூராலி ஹபீப் முகமது</span>
   <br />PCF Sparkletots @ Sengkang East Blk 187B</center>
 </p>
     </div>
   <div class="column">
     <a href="/Mrs-Kesavan-Bindhu"><img src="/images/OPMTLPic/Kesavan-Bindhu-outstanding-award.png" style="width:54%" ></a> 
- <p> <center> Mrs Kesavan Bindhu  <br/>
+ <p> <center> Mdm Kesavan Bindhu  <br/>
    <span style="font-family:Anjal InaiMathi; font-size:18px;">ததிருவாட்டி கேசவன் பிந்து</span><br>
   PCF Sparkletots @ Kaki Bukit Blk 519 & 545 </center>
    </p>
