@@ -243,7 +243,7 @@ table.center {
 <p>Bengkel Pengayaan Maya untuk pelajar Menengah 2 dan 3</p>
 <div class="rowimg1">
   <div class="columnimg1">
-    <img src="/images/Pic Sec ML 25.png" style="width:100%">
+    <img src="/images/Pic Sec ML 25.png" style="width:90%">
   </div>
   <div class="columnimg1">
     <img src="/images/Pic-Sec-ML-26.png" style="width:100%">
