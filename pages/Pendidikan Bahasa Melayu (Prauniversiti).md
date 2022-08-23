@@ -87,7 +87,8 @@ width:90% ;
     <td><img src="/images/Pic-PreUni-3.png" /></td>
    </tr>
   </table>
-<h4 style="font-size:25px;color:green;">   Maktab Rendah yang menawarkan MLEP</h4>
+<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
+	font-weight: 700;"> Maktab Rendah yang menawarkan MLEP</td></table>
 	   <p style="font-weight:bold;text-align:left;">Maktab Rendah yang menawarkan MLEP:</p>
  
   <ul>
@@ -97,7 +98,8 @@ width:90% ;
   				<li>Maktab Rendah Tampines Meridian</li>
   					<li >Maktab Rendah Yishun Innova</li>
   </ul>
-<h4 style="font-size:25px;color:green;">      Kemasukan ke Maktab Rendah</h4>
+<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
+	font-weight: 700;"> Kemasukan ke Maktab Rendah</td></table>
 	<p style="font-weight:bold;text-align:left;">   Kemasukan ke Maktab Rendah:</p>
 	<p style="font-weight:bold;text-align:left;">     
 Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
@@ -119,7 +121,9 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
   	<li> Pelajar yang berjaya memasuki Program MLEP-JC akan mendapat dua mata bonus untuk kemasukan ke maktab rendah yang menawarkan program ini.</li>
   </ul>
 
-<p style="text-align:left;"><strong>Biasiswa MLEP-JC (MLES)</strong> <br/></p>
+<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
+	font-weight: 700;"> Biasiswa MLEP-JC (MLES)</td></table>
+
 <li>Warganegara Singapura</li>
 <li>Cemerlang dalam keputusan akademik</li>
 <li>Biasiswa bernilai $1,000 setiap tahun selama dua tahun</li>
@@ -130,7 +134,8 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
 <p><a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang Program Elektif Bahasa Melayu  </a></p>
 <p><a href="/files/Program-Elektif-Bahasa-Melayu-Maktab-Rendah.pdf" target="_blank">Program Elektif Bahasa Melayu Maktab Rendah(MLEP-JC) </a></p>
 <img src="/images/Pic-PreUni-4.png"> <br>
-<p style="++text-align: center;">Aktiviti-aktiviti program MLEP-JC</p>
+<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
+	font-weight: 700;"> Aktiviti-aktiviti program MLEP-JC</td></table>
 <p><strong>Program Perdana anjuran MOE:</strong>  <br/>
 <li>Forum dan Ceramah</li>
 <li>Bengkel Penterjemahan</li>
@@ -138,6 +143,7 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
 <li>Perkhemahan Kesusasteraan</li>
 <li>Program Penyerapan ke Luar Negara </li>
 <li>Penghasilan karya kreatif dan esei oleh pelajar MLEP untuk dibukukan dalam penerbitan MOE, Saujana Pujangga </li>
+	<h4 style="text-align:center;">Perkhemahan Kesusasteraan</h4>
 <div class="row">
  <div class="column">
   <img src="/images/Pic-PreUni-5-min.jpg" /><span style="font-size:20px">
@@ -149,7 +155,6 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
      <br />
 </div>
       </div><br />
-<h4 style="text-align:center;">Perkhemahan Kesusasteraan</h4>
 <div class="row">
  <div class="column">
   <img src="/images/Pic-PreUni-7.png" /><span style="font-size:20px">Siri Ceramah MLEP
@@ -159,16 +164,14 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
   <img src="/images/Pic-PreUni-8.png" /><span style="font-size:20px">Bengkel Penterjemahan (kerjasama dengan MCI)
 </span>
      <br />
-</div>
- </div><br/>
-<div class="row">
- <div class="column">
-  <img src="/images/Pic-PreUni-9.png" /><span style="font-size:20px">
-</span><br />
-</div>
-  <div class="column">
-  <img src="/images/Pic-PreUni-10.png" /><span style="font-size:20px">
-</span>
+<div class="rowimg1">
+  <div class="columnimg1">
+    <img src="/images/Pic-PreUni-9.png" style="width:100%">
+  </div>
+  <div class="columnimg1">
+    <img src="/images/Pic-PreUni-10.png" style="width:100%">
+  </div>
+  </div>
      <br />
 </div>
  </div>
