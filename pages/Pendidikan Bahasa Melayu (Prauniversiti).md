@@ -164,14 +164,16 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
   <img src="/images/Pic-PreUni-8.png" /><span style="font-size:20px">Bengkel Penterjemahan (kerjasama dengan MCI)
 </span>
      <br />
-<div class="rowimg1">
-  <div class="columnimg1">
-    <img src="/images/Pic-PreUni-9.png" style="width:100%">
-  </div>
-  <div class="columnimg1">
-    <img src="/images/Pic-PreUni-10.png" style="width:100%">
-  </div>
-  </div>
+</div>
+ </div><br/>
+<div class="row">
+ <div class="column">
+  <img src="/images/Pic-PreUni-9.png" /><span style="font-size:20px">
+</span><br />
+</div>
+  <div class="column">
+  <img src="/images/Pic-PreUni-10.png" /><span style="font-size:20px">
+</span>
      <br />
 </div>
  </div>
