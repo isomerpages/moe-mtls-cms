@@ -26,11 +26,11 @@ max-width:100%;
   <a href="/OPMTL-Award" style="float:left;">Back</a>
  <img src="#" style="width:100%" />
     <br />
-     <h4 style="font-family:Lato,sans-serif;">Quote</h4>
+     <h4 style="font-family:Lato,sans-serif;">Petikan Guru</h4>
     <p style="text-align:justify;font-family:Lato,sans-serif;">
      ‘Bahasa Jiwa Bangsa’ telah menjadi cogan kata pegangan saya sepanjang masa. Bagi saya, slogan ini melambangkan bahasa sebagai jati diri sesuatu bangsa. Sebagai pendidik, saya percaya hal ini dapat dipupuk dalam diri kanak-kanak dengan sokongan ibu bapa dan usaha guru. Saya juga percaya bahawa sebagai pendidik, saya harus menyediakan pelbagai wadah pembelajaran yang menyeronokkan seperti kaedah bermain sambil belajar dan aktiviti-aktiviti amali yang dapat mengayakan pengalaman dan pembelajaran kanak-kanak.’
 </p>
-    <h4 style="font-family:Lato,sans-serif;">Write-up</h4>
+    <h4 style="font-family:Lato,sans-serif;">Mengenai Pemenang</h4>
     <p style="text-align:justify;font-family:Lato,sans-serif;">Pengalaman Cikgu Hazizah yang luas sebagai pendidik prasekolah jelas kelihatan dalam perancangan dan pelaksanaan pelajaran yang dijalankan beliau. Hal ini dapat dilihat melalui cara beliau menjalankan aktiviti-aktiviti yang menyeronokkan serta berpusatkan kanak-kanak. Beliau juga dapat menggunakan teknologi secara berkesan apabila beliau menunjukkan video tentang suasana di Geylang Serai sewaktu zaman dahulu. Justeru, kemahiran Cikgu Hazizah membenarkan pengajaran tersebut berjalan dengan lancar walaupun perlu membuat transisi dari satu aktiviti pembelajaran ke aktiviti pembelajaran yang lain. 
     </p>
     <p style="text-align:justify;font-family:Lato,sans-serif;">Cikgu Hazizah menggalakkan kanak-kanaknya menggunakan deria penglihatan dan pendengaran mereka untuk membuat pemerhatian. Pelepah kelapa yang disediakan untuk setiap murid digunakan dalam aktiviti pembelajarannya sebagai suatu benda maujud yang berunsur budaya Melayu. Beliau berinteraksi bersama kanak-kanak untuk menggalakkan mereka bercakap dalam bahasa Melayu dan pada masa yang sama meningkatkan kemahiran bertutur mereka.
