@@ -85,5 +85,5 @@ width:100% ;
 <li>Jika perlu membetulkan jawapan anak anda, lakukan dengan teguran yang lembut. </li>
 <li>Galakkan anak anda untuk terus mencuba jika menghadapi kepayahan.  </li>
 <li>Permainan yang disarankan dapat mengeratkan hubungan antara anak dengan ibu bapa.</li>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
