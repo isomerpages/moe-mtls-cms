@@ -96,7 +96,7 @@ img{
 <p>  Untuk mendapatkan contoh Aktiviti Bahasa Melayu yang lain, sila layari lelaman daripada tadika-tadika ini.
 </p>
 <ul>
- <li><a href="/ml-mk-horizon-synopsis" target="_blank">Tadika MOE @ Horizon Link to MK@Horizon Exhibit </a></li>
- <li><a href="/ml-mk-wellington-synopsis" target="_blank">Tadika MOE @ Wellington Link to MK@Wellington Exhibit </a></li>
+ <li><a href="/ml-mk-horizon-synopsis" target="_blank">Tadika MOE@Horizon </a></li>
+ <li><a href="/ml-mk-wellington-synopsis" target="_blank">Tadika MOE@Wellington </a></li>
 </ul>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
