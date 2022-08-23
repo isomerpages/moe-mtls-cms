@@ -299,5 +299,5 @@ Program dan aktiviti sepanjang tahun yang dijalankan di perpusatakaan-perpustaka
 <li><span style="color: blue;">Cipta Cita</span> - Aneka jenis kesenian dan alami kepelbagaian dan kekayaan dunia Melayu</li>
 <li><span style="color: blue;">Pesta Raya </span>- Kesenian teater, tarian dan muzik dari Melayu nusantara sempena sambutan hari raya</li>
 <p><a href="https://www.esplanade.com/whats-on" target="_blank">https://www.esplanade.com/whats-on</a></p>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:8px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:8px;text-align:justify;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
