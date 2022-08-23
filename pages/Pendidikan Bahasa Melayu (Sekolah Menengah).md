@@ -290,8 +290,9 @@ table.center {
 
 Program dan aktiviti sepanjang tahun yang dijalankan di perpusatakaan-perpustakaan awam.</p>
 <p><a href="https://www.nlb.gov.sg/" target="_blank">https://www.nlb.gov.sg/</a></p>
-	<p><span class="dot">
-	</span>&nbsp;&nbsp;&nbsp;  Program Pentas Esplanade <br/>
+<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
+	font-weight: 700;"> Program Pentas Esplanade</td></table>
+
 <li> Persembahan seni dan Budaya Melayu sepanjang tahun. </li>
 <li> <span style="color: blue;">Gemadah </span>– Festival Muzik Tradisional Melayu</li>
 <li> <span style="color: blue;">Festival Muara </span> – Persembahan tarian Melayu Nusantara</li>
