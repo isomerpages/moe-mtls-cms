@@ -25,9 +25,10 @@ max-width:100%;
 </style>
   <a href="/OPMTL-Award" style="float:left;">Back</a>
  <img src="#" style="width:100%" />
-    <br />
-     <h4 style="font-family:Lato,sans-serif;"> Petikan Guru </h4>
-    <p style="text-align:justify;font-family:Lato,sans-serif;">
+    <br>
+     <h4 style="font-family:Lato;sans-serif;"> Petikan Guru </h4>
+    <p style="text-align:justify;font-family:Lato,
+	sans-serif;">
      ‘Bahasa Jiwa Bangsa’ telah menjadi cogan kata pegangan saya sepanjang masa. Bagi saya, slogan ini melambangkan bahasa sebagai jati diri sesuatu bangsa. Sebagai pendidik, saya percaya hal ini dapat dipupuk dalam diri kanak-kanak dengan sokongan ibu bapa dan usaha guru. Saya juga percaya bahawa sebagai pendidik, saya harus menyediakan pelbagai wadah pembelajaran yang menyeronokkan seperti kaedah bermain sambil belajar dan aktiviti-aktiviti amali yang dapat mengayakan pengalaman dan pembelajaran kanak-kanak.’
 </p>
     <h4 style="font-family:Lato,sans-serif;"> Mengenai Pemenang </h4>
@@ -49,5 +50,3 @@ max-width:100%;
 <p style="text-align:justify;font-family:Lato,sans-serif;">The creative and child-centred teaching approaches undertaken by Mdm Hazizah are able to sustain the children’s interest for their Mother Tongue Language. </p>
     <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
-
-
