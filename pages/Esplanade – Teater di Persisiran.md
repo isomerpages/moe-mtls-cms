@@ -32,7 +32,6 @@ description: ""
 }
  </style>
  <p><a href="/exhibits/melayu-malay-language-exhibitions-e/community-partners/" style="float:left;" class="backbtn">Back</a><br /></p>
-<h4 style="font-size:35px;font-family:Lato,sans-serif;color:#a3c864;">Esplanade – Teater di Persisiran</h4>
 <p><img src="/images/Posters/MTLS_Esplanade_v5_Malay.jpg" />
 <br /></p>
 <a href="https://www.esplanade.com/offstage/arts/singapore-island-stories?sc_lang=ms-MY" target="_blank">KISAH-KISAH KEPULAUAN SINGAPURA </a><br/>
