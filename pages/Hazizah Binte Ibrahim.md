@@ -26,7 +26,7 @@ max-width:100%;
   <a href="/OPMTL-Award" style="float:left;">Back</a>
  <img src="#" style="width:100%" />
     <br>
-     <h4 style="font-family:Lato;sans-serif;"> Petikan Guru </h4>
+     <h4 style="font-family:Lato,sans-serif;"> Petikan Guru </h4>
     <p style="text-align:justify;font-family:Lato,
 	sans-serif;">
      ‘Bahasa Jiwa Bangsa’ telah menjadi cogan kata pegangan saya sepanjang masa. Bagi saya, slogan ini melambangkan bahasa sebagai jati diri sesuatu bangsa. Sebagai pendidik, saya percaya hal ini dapat dipupuk dalam diri kanak-kanak dengan sokongan ibu bapa dan usaha guru. Saya juga percaya bahawa sebagai pendidik, saya harus menyediakan pelbagai wadah pembelajaran yang menyeronokkan seperti kaedah bermain sambil belajar dan aktiviti-aktiviti amali yang dapat mengayakan pengalaman dan pembelajaran kanak-kanak.’
