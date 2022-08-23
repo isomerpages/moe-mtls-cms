@@ -241,12 +241,14 @@ table.center {
 <img src="/images/Pic-Sec-ML-24.png"><br/>
 <h4> PROGRAM DIGITAL ALTERNATIF</h4>
 <p>Bengkel Pengayaan Maya untuk pelajar Menengah 2 dan 3</p>
-<table>
-	<tr>
-		<td><img src="/images/Pic Sec ML 25.png"></td>
-		<td><img src="/images/Pic Sec ML 26.png"></td>
-	</tr>
-	</table>
+<div class="rowimg1">
+  <div class="columnimg1">
+    <img src="/images/Pic Sec ML 25.png" style="width:100%">
+  </div>
+  <div class="columnimg1">
+    <img src="/images/Pic-Sec-ML-26.png" style="width:100%">
+  </div>
+  </div>
 
 <h4 style="font-size:25px;color:green;"> PROGRAM-PROGRAM BAHASA MELAYU</h4>
 <p>Sertailah program-program yang menggalakkan penggunaan dan pembelajaran Bahasa Melayu.</p>
