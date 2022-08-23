@@ -174,7 +174,6 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
   <div class="column">
   <img src="/images/Pic-PreUni-10.png" /><span style="font-size:20px">
 </span>
-     <br />
 </div>
  </div>
  <p style="text-align:center">Penerbitan karya pelajar - Saujana Pujangga</p>
