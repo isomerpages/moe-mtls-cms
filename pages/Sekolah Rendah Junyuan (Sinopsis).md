@@ -3,9 +3,6 @@ title: Sekolah Rendah Junyuan (Sinopsis)
 permalink: /ml-Junyuan-Primary-School-Synopsis
 description: ""
 ---
-
-
-
 <style>
    .btntop {
     position: fixed;
@@ -35,7 +32,7 @@ description: ""
 }
 </style>
 <a href="/exhibits/melayu-malay-language-exhibitions-d/schools/" style="float:left;" class="backbtn">Back</a><br>
-<h4 style="font-size: 35px;font-family: Lato,sans-serif;padding-top:12px;margin:10px;color: #a3c864;text-align:justify;">Memperkaya Kosa Kata melalui Lagu Kanak-kanak (P1/P2) </h4>
+<h4 style="font-size: 35px;font-family: Lato,sans-serif;padding-top:12px;margin:10px;color: #a3c864;text-align:justify;">Memperkaya Kosa Kata melalui Lagu Kanak-kanak (Darjah 1/Darjah 2) </h4>
 <p style="font-size: 20px;font-family: Lato,sans-serif;text-align:justify;"> Projek ‘Memperkaya Kosa Kata melalui Lagu Kanak-kanak’ merupakan satu usaha oleh Sekolah Rendah Junyuan untuk menambah kosa kata bahasa Melayu murid Darjah 1 dan 2 dengan cara yang santai dan menarik. Pendekatan ini menyediakan wadah untuk murid belajar makna perkataan agar dapat digunakan dalam pertuturan dan penulisan harian mereka. Suasana pembelajaran yang menyeronokkan ini juga diharapkan dapat menarik minat murid terhadap bahasa Melayu. Pembelajaran sebegini dapat meningkatkan keyakinan pelajar untuk menggunakan bahasa Melayu. Antara fitur menarik projek ini ialah pendedahan kepada lagu kanak-kanak dan lagu rakyat yang jarang diperdengarkan serta aktiviti pengayaan yang pelbagai sebagai pengukuhan dalam pembelajaran mereka. </p>
 <h4 style="font-size: 35px;font-family: Lato,sans-serif;padding-top:12px;margin:10px;color: #a3c864;">Enhancing Vocabulary through Children’s Songs </h4>
 <p  style="font-size: 20px;font-family:Lato,sans-serif;text-align:justify;">'Enriching Vocabulary through Children's Songs' by Junyuan Primary School is an approach that aims to enrich the Malay vocabulary of P1 and P2 students in an interesting and enjoyable way. Students are exposed to Malay folk songs and children's songs, through which students learn new words and their meanings. Following this, a variety of activities are designed to reinforce their learning.  In adopting this pedagogy, the school hopes to enable students to be more confident in their daily conversation and writing. Through this approach, Junyuan Primary also hopes to develop students’ interest in the Malay language.  </p>
