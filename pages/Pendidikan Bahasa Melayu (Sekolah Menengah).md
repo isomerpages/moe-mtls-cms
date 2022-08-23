@@ -245,10 +245,10 @@ table.center {
   <div class="columnimg1">
     <img src="/images/Pic Sec ML 25.png" style="width:100%">
   </div>
-<div class="rowimg1">
   <div class="columnimg1">
     <img src="/images/Pic-Sec-ML-26.png" style="width:100%">
   </div>
+</div>
 		<br>
 <h4 style="font-size:25px;color:green;"> PROGRAM-PROGRAM BAHASA MELAYU</h4>
 <p>Sertailah program-program yang menggalakkan penggunaan dan pembelajaran Bahasa Melayu.</p>
