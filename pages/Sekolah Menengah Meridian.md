@@ -32,7 +32,6 @@ description: ""
 }
 </style>
 <a href="/exhibits/melayu-malay-language-exhibitions-d/schools/" style="float:left;" class="backbtn">Back</a><br>
-<h4 style="font-size:35px;font-family:Lato,sans-serif;color:#a3c864;">Strategi Mempertingkat Kemahiran Berbahasa Secara Kritikal dan Kreatif Melalui JAMPI, CINTA dan KASIH (JCK)</h4>
 <img src="/images/Posters/MTLS_Meridian Sec_v5.jpg">
 <br/><br/>
 <iframe width="800" height="320" src="https://www.youtube.com/embed/P3fHq_AUV0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
