@@ -32,7 +32,6 @@ description: ""
 }
 </style>
 <a href="/exhibits/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/" style="float:left;" class="backbtn">Back</a><br>
-<h4 style="font-size:35px;font-family:Lato,sans-serif;color:#a3c864;">Transformasi Melalui Kitar Semula</h4>
 <img src="/images/Posters/MTLS_PCF-Boon-Lay_v4.jpg">
 <br/>
 <br/>
