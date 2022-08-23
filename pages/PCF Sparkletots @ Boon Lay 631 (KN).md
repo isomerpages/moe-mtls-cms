@@ -32,7 +32,7 @@ description: ""
 }
 </style>
 <a href="/exhibits/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/" style="float:left;" class="backbtn">Back</a><br>
-<img src="/images/Posters/MTLS_PCF-Boon-Lay_v4.jpg">
+<img src="/images/Posters/MTLS_PCF-Boon-Lay_v6.jpg">
 <br/>
 <br/>
 <a href="https://www.canva.com/design/DAFET5x3E9M/_rxPUvTHqROHhsdxkCfZFQ/watch?utm_content=DAFET5x3E9M&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" target="_blank">Video Rekaan Kitar Semula dalam Sesi Main Peranan. Cerita Rakyat Singapura Dilanggar Todak</a>
