@@ -32,7 +32,6 @@ description: ""
 }
  </style>
  <p><a href="/exhibits/melayu-malay-language-exhibitions-d/schools/" style="float:left;" class="backbtn">Back</a><br /></p>
-<h4 style="font-size:35px;font-family:Lato,sans-serif;color:#a3c864;">Memperkaya Kosa Kata Melalui Lagu Kanak-kanak (Darjah 1/Darjah 2)</h4>
 <p>
 <img src="/images/Posters/
 MTLS_JYPS_v3.jpg" />
