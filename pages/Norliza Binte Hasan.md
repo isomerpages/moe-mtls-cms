@@ -25,7 +25,7 @@ max-width:100%;
 </style>
  <body> 
   <a href="/OPMTL-Award" style="float:left;">Back</a>
- <img src="#" style="width:100%" />
+ <img src="/images/OPMTLPic/MTLS_OPMTL_Awards_V3_Mdm-Norliza-Binte-Hasan.png" style="width:100%" />
     <br />
      <h4 style="font-family:Lato,sans-serif;">Petikan Guru</h4>
     <p style="text-align:justify;font-family:Lato,sans-serif;">
