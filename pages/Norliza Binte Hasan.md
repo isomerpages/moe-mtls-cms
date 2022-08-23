@@ -27,11 +27,11 @@ max-width:100%;
   <a href="/OPMTL-Award" style="float:left;">Back</a>
  <img src="#" style="width:100%" />
     <br />
-     <h4 style="font-family:Lato,sans-serif;">Quote</h4>
+     <h4 style="font-family:Lato,sans-serif;">Petikan Guru</h4>
     <p style="text-align:justify;font-family:Lato,sans-serif;">
      Bahan-bahan pengajaran yang autentik dan inovatif serta persekitaran yang seronok dan selamat ialah keutamaan saya ketika merancang pembelajaran kanak-kanak. Selain itu, saya menyokong pembelajaran kanak-kanak dengan memberikan mereka pelbagai peluang dan galakan supaya mereka berinteraksi serta menyertai aktiviti-aktiviti secara aktif dalam pelajaran Bahasa Melayu. Faktor-faktor ini telah berjaya meningkatkan minat, keupayaan dan keyakinan diri kanak-kanak untuk mempelajari Bahasa Ibunda mereka.
 </p>
-    <h4 style="font-family:Lato,sans-serif;">Write-up</h4>
+    <h4 style="font-family:Lato,sans-serif;">Mengenai Pemenang</h4>
     <p style="text-align:justify;font-family:Lato,sans-serif;">Cikgu Norliza merupakan seorang pengamal reflektif yang merancang aktiviti pembelajaran di pusatnya berdasarkan konteks, profil dan keperluan kanak-kanak. Aktiviti yang dirancangnya sentiasa mengambil kira kebolehan kanak-kanak dan keperluan pembelajaran mereka. Selepas setiap aktiviti pembelajaran, Cikgu Norliza akan mengimbas kembali dan membuat renungan tentang pencapaian serta keperluan pembelajaran kanak-kanak. Justeru, pengalaman pembelajaran seterusnya yang dihasilkan oleh Cikgu Norliza akan  mengoptimumkan kekuatan kanak-kanak serta memenuhi keperluan pembelajaran mereka.    
     </p>
     <p style="text-align:justify;font-family:Lato,sans-serif;">Cikgu Norliza juga merupakan guru yang komited kepada kesejahteraan dan persekitaran pembelajaran yang kondusif untuk kanak-kanak. Idea kreatif beliau dicerminkan dalam penghasilan kraf tangan kanak-kanak yang juga digunakan sebagai bahan pembelajaran. Kraf tangan ini telah dihasilkan daripada barang-barang yang dikitar semula dan hasilnya disesuaikan untuk pelajaran-pelajaran yang selanjutnya.      
