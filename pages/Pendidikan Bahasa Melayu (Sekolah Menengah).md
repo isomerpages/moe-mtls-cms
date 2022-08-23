@@ -254,17 +254,24 @@ table.center {
 			<br>
 	<h4 style="font-size:25px;color:green;"> PROGRAM-PROGRAM BAHASA MELAYU</h4>
 <p>Sertailah program-program yang menggalakkan penggunaan dan pembelajaran Bahasa Melayu.</p>
-<p style="text-align: center;"><span class="dot"></span>&nbsp;&nbsp;&nbsp;  Program Pentas Esplanade </p>
+<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
+	font-weight: 700;"> Program Pentas Esplanade</td></table>
 <p ><span class="dot"></span>&nbsp;&nbsp;&nbsp;    Majlis Bahasa Melayu Singapura - Bulan Bahasa</p>
 <p><strong>CITA</strong><br> Aspirasi kita: Kita mahukan bahasa Melayu kekal relevan dalam kehidupan kita. </p>
 <p><strong>CITRA</strong><br> Bahasa, sastera dan Budaya Melayu dalam pelbagai corak kehidupan negara ialah citra kita.</p>
 <p><strong>CINTA </strong><br>Kita saying akan bahasa, sastera dan budaya Melayu.</p>
 <p><a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa</a></p>
-<p style="text-align:center"><span class="dot"></span>&nbsp;&nbsp;&nbsp;   Taman Warisan Melayu  </p>
+<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
+	font-weight: 700;"> Taman Warisan Melayu </td></table>
+
 <p><a href="https://www.malayheritage.gov.sg/my" target="_blank">https://www.malayheritage.gov.sg/my</a></p>
-<p style="text-align:center;" ><span class="dot"></span>&nbsp;&nbsp;&nbsp;    Muzium Negara Singapura </p>
+<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
+	font-weight: 700;"> Muzium Negara Singapura</td></table>
+
 <p><a href="https://www.nhb.gov.sg/nationalmuseum/" target="_blank">https://www.nhb.gov.sg/nationalmuseum/</a></p>
-<p><span class="dot"></span>&nbsp;&nbsp;&nbsp;   Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC) </p>
+<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
+	font-weight: 700;"> Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (MLLPC)</td></table>
+
 <ul>
 	<li>Kuiz Cepat Tepat</li>
 	<li>Kembara Nusantara</li>
@@ -272,11 +279,15 @@ table.center {
 	<li>Siri Bacaan Nabil Nabilah (bentuk digital di laman web MLLPC) </li>
 </ul>
 <p><a href="https://www.mllpc.sg/" target="_blank">https://www.mllpc.sg/</a></p>
-<p style="text-align: center;"><span class="dot"></span>&nbsp;&nbsp;&nbsp;  Wisma Geylang Serai</p>
+<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
+	font-weight: 700;"> Wisma Geylang Serai</td></table>
+
 <p>  Sebuah hab warisan budaya yang mengetengahkan persembahan budaya, sesi bicara, sesi memasak dan lain-lain lagi. Ikuti siaran langsung acara-acara ini melalui FB & IG #wgeylangserai.</p>
 <p><a href="https://www.facebook.com/WismaGeylangSerai/" target="_blank">https://www.facebook.com/WismaGeylangSerai/</a></p>
 <p><a href="https://www.instagram.com/wgeylangserai/?igshid=nit9a62cgs2w" target="_blank">https://www.instagram.com/wgeylangserai/?igshid=nit9a62cgs2w</a></p>
-<p><span class="dot"></span>&nbsp;&nbsp;&nbsp;  Perpustakaan Negara Singapura <br/>
+<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
+	font-weight: 700;"> Perpustakaan Negara Singapura</td></table>
+
 Program dan aktiviti sepanjang tahun yang dijalankan di perpusatakaan-perpustakaan awam.</p>
 <p><a href="https://www.nlb.gov.sg/" target="_blank">https://www.nlb.gov.sg/</a></p>
 	<p><span class="dot">
