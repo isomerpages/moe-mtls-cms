@@ -81,7 +81,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-Waterway-Primary-School-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-Waterway-Primary-School-exhibition" class="btn2" style="color:#fff;">View Exhibition </a>
+  <a href="/ml-Waterway-Primary-School-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
@@ -98,7 +98,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-Junyuan-Primary-School-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-Junyuan-Primary-Exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-Junyuan-Primary-Exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
@@ -112,7 +112,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-St-Joseph-Institution-Junior-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-St-Joseph-Institution-Junior-exhibition" class="btn2" style="color:#fff;">View Exhibition </a>
+  <a href="/ml-St-Joseph-Institution-Junior-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
@@ -126,7 +126,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-Meridian-Sec-School-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-meridian-sec-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-meridian-sec-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
