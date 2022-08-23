@@ -81,7 +81,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-Berita-Harian-Gen-G-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/Berita-Harian-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/Berita-Harian-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
@@ -96,7 +96,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-Esplanade-Theatres-on-the-Bay-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-Esplanade-Theatres-on-the-Bay-exhibition" class="btn2" style="color:#fff;">View Exhibition </a>
+  <a href="/ml-Esplanade-Theatres-on-the-Bay-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
@@ -112,7 +112,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-Lee-Kuan-Yew-Fund-for-Bilingualism-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-LKYFB-Exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-LKYFB-Exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
@@ -127,7 +127,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-Mandai-Wildlife-Reserve-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-Mandai-Wildlife-Reserve-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-Mandai-Wildlife-Reserve-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
@@ -143,7 +143,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ML-Language-Centre-of-Singapore-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-MLCS-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-MLCS-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
@@ -158,7 +158,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/Malay-Language-Learning-Promotion-Committee-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/MLLPC-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/MLLPC-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
@@ -172,7 +172,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-Mediacorp-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-Mediacorp-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-Mediacorp-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
@@ -186,7 +186,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-National-Heritage-Board-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-nhb-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-nhb-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
@@ -200,7 +200,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-National-Institute-of-Education-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-NIE-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-NIE-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
@@ -214,7 +214,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-National-Library-Board-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/MTLS-NLB-ML-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/MTLS-NLB-ML-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
@@ -228,7 +228,7 @@ text-decoration:none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
  <a href="/ml-PA-MESRA-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-M3-NeeSoon-exhibition" class="btn2" style="color:#fff;">View Exhibition</a>
+  <a href="/ml-M3-NeeSoon-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
 </table>
