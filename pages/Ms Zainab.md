@@ -78,10 +78,10 @@ max-width:30%;
 <a href="/tamil-session">Back</a>
 </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a>
     </td>
     </tr>
 </table>
@@ -114,5 +114,5 @@ max-width:30%;
        <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Stories are the most powerful form of human communication. They play an integral part in children’s learning journeys by enhancing language and thinking skills. Storytelling also imparts values and enhances problem-solving skills. This session aims to encourage good reading habits in young kids. Through this session, children will also be able to stimulate their creativity and expand their imagination. This workshop will be interactive as participants get to engage in storytelling and share their insights. When children are exposed to reading in their Mother Tongue Languages, they develop a strong language foundation that makes subsequent learning easier and enables them to appreciate the language better.
 </p></div>
 	<br/><br/>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
