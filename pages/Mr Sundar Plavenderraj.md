@@ -78,10 +78,10 @@ max-width:30%;
 <a href="/tamil-session">Back</a>
 </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a>
     </td>
     </tr>
 </table>
@@ -112,7 +112,7 @@ max-width:30%;
       <br />
 			 <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Early Childhood Bilingualism: Securing the future of MTL</h4>
         <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Profile</h4>
-       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Mr. Sundar Plavenderraj is a Tamil language enthusiast who has inspired many Tamil speaking students from local universities to contribute actively to the community. He is a Health & Safety Manager in a leading pharmaceutical firm, and volunteers as a member of  the Tamil Language Council and as an advisor to the Nanyang Technological University Tamil Literary Society (TLS). He is the recipient of Mediacorp's Seithi “Tamil Chudar Innovation Award 2019” for MTL promotional efforts. As a young parent of three children, Sundar is a firm believer of bilingualism and practices mindfulness in creating a conducive environment at home for his children to discover as a meaningful MTL learning journey.</p>
+       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Mr Sundar Plavenderraj is a Tamil language enthusiast who has inspired many Tamil speaking students from local universities to contribute actively to the community. He is a Health & Safety Manager in a leading pharmaceutical firm, and volunteers as a member of the Tamil Language Council and as an advisor to the Nanyang Technological University Tamil Literary Society (TLS). He is the recipient of Mediacorp's Seithi “Tamil Chudar Innovation Award 2019” for MTL promotional efforts. As a young parent of three children, Mr Sundar is a firm believer of bilingualism and practices mindfulness in creating a conducive environment at home for his children to discover as a meaningful MTL learning journey.</p>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
        <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">
 Many of the young parents today are not actively using and promoting MTL in everyday conversations at home. As a result, these children are deprived of the opportunities in discovering and engaging in meaningful MTL learning experiences   which leads to a sense of insecurity with MTL. The power of bilingualism helps to prepare our children for a future where they can equally succeed and appreciate their MTL. The cognitive effects of growing up bilingual will reward a child throughout the rest of their learning journey.  By starting early, parents can foster and instil the spirit of MTL in their everyday conversations and build a strong foundation in their learning journey.
