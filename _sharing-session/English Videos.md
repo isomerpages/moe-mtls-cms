@@ -72,5 +72,3 @@ Dr Shuhan C. Wang<br/>
 <img src="/images/Explore-MTLS_Mascot_Scavenger-V1-03.png" style="float: left; width:30%;">
 </body>
 	</html>
-	</body>
-</html>
