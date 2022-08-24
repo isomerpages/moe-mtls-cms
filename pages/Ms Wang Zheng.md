@@ -78,10 +78,10 @@ max-width:30%;
 			<a href="/chinese-session">Back</a>
 </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a>
 		</td>
     </tr>
 </table>
