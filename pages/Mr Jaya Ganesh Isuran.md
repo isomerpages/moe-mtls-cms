@@ -78,10 +78,10 @@ max-width:30%;
 <a href="/tamil-session">Back</a>
 </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a>
     </td>
     </tr>
 </table>
@@ -108,7 +108,7 @@ max-width:30%;
       <br />
 			 <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Let us Speak in Tamil with Our Children</h4>
         <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Profile</h4>
-       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Mr Jaya Ganesh Isuran is a very familiar face in the entertainment industry, known for his roles in Mediacorp’s Vasantham dramas. He was also a radio jockey at Oli 96.8FM, and was a dancer and host for live shows such as Vasantham Star. Mr Ganesh has also been featured on CNA and Today Online due to his popularity in the Tamil media. A recipient of multiple awards at PradhanaVizha 2021, he is also an entrepreneur and a proud father of two boys, ages 4 and 5.</p>
+       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Mr Jaya Ganesh Isuran is a very familiar face in the entertainment industry, known for his roles in Mediacorp’s Vasantham dramas. He was also a radio jockey at Oli 96.8FM, and was a dancer and host for live shows such as Vasantham Star. Mr Ganesh has also been featured on CNA and Today Online due to his popularity in the Tamil media. A recipient of multiple awards at PradhanaVizha 2021, he is also an entrepreneur and a proud father of two boys, ages 4 and 5.</p><br/>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
        <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">
 Jaya Ganesh is a very popular TV and radio artist who is passionate about Tamil and strongly feels that acquisition of the language should begin at home. He will be sharing  his memorable experience of journeying with his two boys in their language learning. Largely based on his own observations, experiences and tried-and-tested strategies with his own family, the focus of his sharing will be on how parents can create a conducive environment at home for instilling the use of Tamil in children. Participants will also hear about his challenges and the counter-measures he  put in place to overcome them. His live interactive session for parents will be both insightful and entertaining.
