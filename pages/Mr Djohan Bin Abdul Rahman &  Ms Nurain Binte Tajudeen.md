@@ -73,7 +73,7 @@ max-width:30%;
 <body>
 <table>
   <tr>
-		<td  style="border: none;
+        <td  style="border: none;
   text-align: left;padding: 20px;">
 <a href="/malay-session">Back</a>
 </td>
@@ -104,12 +104,12 @@ max-width:30%;
 <h4 id="C1" style="color:#a3c864;font-family:Lato,sans-serif;">Profil</h4> 
        <p style="font-family:Lato,sans-serif;text-align:justify;">Cikgu Djohan ialah seorang guru Bahasa Melayu yang lebih cenderung menggunakan kaedah pengajaran alternatif. Beliau berpendapat bahawa penyediaan ruang pembelajaran yang pelbagai dapat menghasilkan suasana yang riang dan menyeronokkan. Buat masa ini, beliau dan para guru Bahasa Melayu dari Sekolah Menengah Changkat Changi sedang merancang untuk menghasilkan permainan bahasa yang boleh digunakan di sekolah-sekolah di serata Singapura. </p>
        <p style="font-family:Lato,sans-serif;text-align:justify;">Cikgu Nurain ialah seorang guru Bahasa Melayu yang akur akan kepentingan mewujudkan pengalaman pembelajaran yang menyeronokkan dan membolehkan para pelajar untuk berinteraksi secara positif. Pada tahun 2019, beliau telah berganding bahu dengan guru-guru Sekolah Menengah Changkat Changi untuk menghasilkan permainan papan yang bertujuan untuk mempertingkat kemahiran lisan para pelajar. Cikgu Nurain gemar bekerjasama dengan rakan-rakan seperjuangan untuk mencari jalan untuk merangsang minat pelajar.</p>
-        <h4  id="C2" style="color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
-      <p style="font-family:Lato,sans-serif;text-align:justify;">Sesi interaktif ini dibuka untuk semua murid Darjah 1 hingga Darjah 4 yang mengambil subjek Bahasa Melayu. Dalam sesi ini, para penyampai akan berkongsi tentang cara mengenal pasti Kata Adjektif di samping menghasilkan ayat-ayat yang gramatis. Sesi ini juga akan menggunakan aplikasi Realiti Terimbuh untuk menarik minat murid-murid yang mahir dalam bidang IT. </p>
-     <h4 style="color:#a3c864;">Profile</h4>   
+       <h4 style="color:#a3c864;">Profile</h4>   
        <p style="font-family:Lato,sans-serif;text-align:justify;">Mr Djohan is a Malay Language teacher that prefers to delve into alternative pedagogy. He believes that providing a breath of fresh air will break any form of monotony and infuse the joy of learning in students. Currently, Mr Djohan and the teachers from Changkat Changi Secondary School are planning to produce a board game that can be used in Malay language acquisition.</p>
 <p style="font-family:Lato,sans-serif;text-align:justify;">Ms Nurain is a Malay Language teacher who believes in the importance of creating learning experiences that bring about joyful and positive interactions. In 2019, together with fellow teachers from Changkat Changi Secondary School, she worked on a project to create a board game that can be used to encourage the  proficient use of Malay. Ms Nurain enjoys collaborating with others to look at ways to encourage better engagement in learning.</p>
-  <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
+<h4  id="C2" style="color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
+      <p style="font-family:Lato,sans-serif;text-align:justify;">Sesi interaktif ini dibuka untuk semua murid Darjah 1 hingga Darjah 4 yang mengambil subjek Bahasa Melayu. Dalam sesi ini, para penyampai akan berkongsi tentang cara mengenal pasti Kata Adjektif di samping menghasilkan ayat-ayat yang gramatis. Sesi ini juga akan menggunakan aplikasi Realiti Terimbuh untuk menarik minat murid-murid yang mahir dalam bidang IT. </p>
+<h4 style="color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
      <p style="font-family:Lato,sans-serif;text-align:justify;">The engagement session is open to all P1 to P4 pupils taking Malay Language. Participants will learn some helpful tips to identify adjectives and to create grammatically correct sentences using adjectives. The session will also use Augmented Reality in an effort to entice the IT- savvy audience.</p></div>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;text-align:justify;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+    <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;text-align:justify;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
