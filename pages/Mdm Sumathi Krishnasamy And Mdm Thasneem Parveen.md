@@ -78,10 +78,10 @@ max-width:30%;
 <a href="/tamil-session">Back</a>
 </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a>
     </td>
     </tr>
 </table>
@@ -116,7 +116,7 @@ max-width:30%;
       <br />
 			 <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Play. Learn. Grow</h4>
         <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Profile</h4>
-       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Mrs Sumathi is a Senior Teacher- Tamil Language at Horizon Primary School and has been serving the teaching fraternity for 25 years. She received the Most Inspiring Tamil Teachers’ Award in 2018. She is also heading the N4 CoP Tamil Language and serves as the Tamil Language Cluster Representative for North Zone schools. She has conducted sharing sessions at the MOE ExcelFest, MTL Symposium, the World Tamil Teachers’ Conference, Teacher-Led Workshops (TLWs) and TL Webinar at the Academy of Singapore Teachers (AST). </p>
+       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Mdm Sumathi is a Senior Teacher - Tamil Language at Horizon Primary School and has been serving the teaching fraternity for 25 years. She received the Most Inspiring Tamil Teachers’ Award in 2018. She is also heading the N4 CoP Tamil Language and serves as the Tamil Language Cluster Representative for North Zone schools. She has conducted sharing sessions at the MOE ExcelFest, MTL Symposium, the World Tamil Teachers’ Conference, Teacher-Led Workshops (TLWs) and TL Webinar at the Academy of Singapore Teachers (AST). </p>
        <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Mdm Thasneem has 2 years of experience in Tamil Language teaching. She was serving as an Allied Educator for more than 8 years and conducted a TLW session in 2021. As a part of her efforts to promote lifelong learning, she is currently pursuing her Degree in Tamil Language and Literature.</p>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
        <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Educators across the nation have long professed the importance of learning through play. By enhancing the teaching of language through play, learning becomes pleasant, which then motivates students to learn. Learning through play not only creates a joyful learning environment, stimulating games also enable students to become self-directed learners and enhance their creativity. It is therefore important to infuse strategies for learning through play in a non-threatening environment so as to etch Tamil Language lessons deeply in the hearts of our students. </p>
