@@ -78,10 +78,10 @@ max-width:30%;
 <a href="/tamil-session">Back</a>
 </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a>
     </td>
     </tr>
 </table>
@@ -94,7 +94,7 @@ max-width:30%;
   <div class="column">
 <img src="/images/TL-Ms-Yogeswari-Prashant.png" style="width:100%" />
    </div>
-    <p style="font-family:Lato,sans-serif;"><strong> Ms. Yogeswari Preshant </strong><br/>
+    <p style="font-family:Lato,sans-serif;"><strong> Ms Yogeswari Preshant </strong><br/>
       <span style="font-family:Anjal InaiMathi;"> <strong>திருமதி. யோகேஸ்வரி பிரஷாந்த்</strong></span><br />
    </p>
    <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;text-align:justify;">பாலர் பள்ளிப் பிள்ளைகளைப் பயன்முனைப்புமிக்க வகையில் தமிழ்மொழியில் ஈடுபடச் செய்தல்</h4><br/>
