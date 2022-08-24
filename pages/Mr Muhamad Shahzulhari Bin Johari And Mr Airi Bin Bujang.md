@@ -3,7 +3,6 @@ title: Mr Muhamad Shahzulhari Bin Johari And Mr Airi Bin Bujang
 permalink: /Mr-Muhammad-Shahzulhari-bin-Johari-And-Mr-Airi-Bin-Bujang
 description: ""
 ---
-
 <head>
 <style>
   .video-container {
@@ -79,10 +78,10 @@ max-width:30%;
 <a href="/malay-session">Back</a>
 </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a>
     </td>
     </tr>
 </table>
@@ -116,5 +115,5 @@ Dengan memanfaatkan kecenderungan pelajar menonton video, kita boleh menggalakka
      <p style="font-family:Lato,sans-serif;text-align:justify;">Numerous research studies conducted worldwide have shown that reading is indispensable to language acquisition and proficiency. However, many students do not see its importance, and this  results in them facing difficulties in acquiring  proficiency in Malay. 
 </p>
 <p style="font-family:Lato,sans-serif;text-align:justify;">Students’ interest in watching videos can be leveraged to reignite and encourage  students’  interest in reading, . This approach will also raise students’ awareness of cultural norms and societal issues so as  to positively impact their feelings about  the Malay Language. This sharing will provide educators with insight into how videos can be used as a teaching tool to promote reading and facilitate life-long learning of the language. There will also be a sharing on how the project has aided students in other areas of learning and the cognitive aspects behind using videos as a teaching tool. </p></div>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;text-align:justify;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
