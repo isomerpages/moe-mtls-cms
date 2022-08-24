@@ -73,7 +73,7 @@ max-width:30%;
 <body>
 <table>
   <tr>
-		<td style="border: none;
+        <td style="border: none;
   text-align: left;padding: 20px;"><a href="/chinese-session">Back</a>
 </td>
     <td style="border: none;
@@ -91,26 +91,26 @@ max-width:30%;
   <div class="column">
     <img src="/images/CL-Mdm-Corinne-Fan.png" style="width:100%" />
   </div>
-			<p style="font-family:Lato,sans-serif;"> <strong>Mdm Corinne Madelyn Fan Wai Foong </strong><br/>
+            <p style="font-family:Lato,sans-serif;"> <strong>Mdm Corinne Madelyn Fan Wai Foong </strong><br/>
    <strong> <span style="font-size:22px;font-family:KaiTi;">范伟凤</span></strong><br />
 </p>
-			 <h4 style="font-size:30px;font-family:KaiTi;color:#d84178;text-align:justify;">利用移动网络工具辅助学前华文教学</h4>
+             <h4 style="font-size:30px;font-family:KaiTi;color:#d84178;text-align:justify;">利用移动网络工具辅助学前华文教学</h4>
    <h4 id="C1" style="font-size:30px;font-family:KaiTi;color:#d84178;">介绍</h4>
    <p style="font-size:21px;font-family:KaiTi;text-align:justify;"> 
-范伟凤老师目前是国立幼儿培育教育学院与义安理工学院的讲师，拥有十六年的教育工作经验。 除了曾在小学任教之外，范老师也曾在教育部课程规划与发展司任职，参与《欢乐伙伴》小学华文课程（一、二年级）和教育部幼儿园繁星华文课程的规划与编写。</p><br />
-   <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4>  
-   <p style="font-size:21px;font-family:KaiTi;text-align:justify;">   疫情的蔓延带动居家学习，推动教师去探索、尝试、应用不同的资讯科技来辅助教学。范老师将在母语学习论坛上与大家分享如何利用应用程序来设计既有趣又有意义的语文活动辅助学前华文教学，鼓励幼儿使用华语。
-</p>
-<br>
-			 <h4 style="font-size:30px;font-family:Lato,sans-serif;color:#d84178;text-align:justify;text-align:justify;">Use of Mobile Applications in the Teaching and Learning of Chinese Language for Pre-schoolers</h4>
+范伟凤老师目前是国立幼儿培育教育学院与义安理工学院的讲师，拥有十六年的教育工作经验。 除了曾在小学任教之外，范老师也曾在教育部课程规划与发展司任职，参与《欢乐伙伴》小学华文课程（一、二年级）和教育部幼儿园繁星华文课程的规划与编写。</p>
 <h4 style="color:#d84178;font-family:Lato,sans-serif;">Profile</h4>  
    <p style="font-family:Lato,sans-serif;text-align:justify;">
 Mdm Corinne Fan has 16 years of experience in the education service. She is currently teaching at the National Institute of Early Childhood Development (NIEC) - Ngee Ann Polytechnic. Besides having taught in primary schools, Mdm Corinne has also worked as a Curriculum Planning and Resource Development Officer in MOE HQ. She was part of the team to plan and develop the Primary 1 and 2 Chinese Language Curriculum and the Starlight Literacy Programme (Chinese Language).
-</p><br />
+</p>
+<h4 style="font-size:30px;font-family:Lato,sans-serif;color:#d84178;text-align:justify;text-align:justify;">Use of Mobile Applications in the Teaching and Learning of Chinese Language for Pre-schoolers</h4>
+<h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4>  
+   <p style="font-size:21px;font-family:KaiTi;text-align:justify;">   疫情的蔓延带动居家学习，推动教师去探索、尝试、应用不同的资讯科技来辅助教学。范老师将在母语学习论坛上与大家分享如何利用应用程序来设计既有趣又有意义的语文活动辅助学前华文教学，鼓励幼儿使用华语。
+</p>
+<br>
   <h4 style="color:#d84178;text-align:justify;font-family:Lato,sans-serif;">Synopsis</h4>  
    <p style="font-family:Lato,sans-serif; text-align:justify;">
 The COVID-19 pandemic has driven teaching and learning towards full Home-Based Learning (HBL), leading teachers to try, experiment and adopt appropriate ICT tools to complement their teaching.  This sharing session will highlight the use of mobile applications to create meaningful and fun Chinese Language activities for pre-schoolers, motivating them to use the language.
       </p></div>
-	<br/><br/>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+    <br/><br/>
+    <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
     <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
