@@ -78,10 +78,10 @@ max-width:30%;
 <a href="/tamil-session">Back</a>
 </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a>
     </td>
     </tr>
 </table>
@@ -112,10 +112,10 @@ max-width:30%;
       <br /> 
 			 <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;text-align:justify;">Creating Enjoyable Moments with Your Kids through Storytelling!</h4>
         <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Profile</h4>
-       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Rani Kanna has a Master’s degree in Applied Linguistics and is a PhD candidate in Child Psychology. Having undergone special training in teaching arts to pre-schoolers, she has directed plays and musicals for young children, and organised many storytelling events. Rani believes that the mind and soul are most powerfully engaged through stories and details her narrations with music, actions and authentic voices. She has been selected as a  voice-over talent for Disney cartoons in Tamil. She also enjoys  taking on characters of stories to interact with young children and her favourite quote is, “There isn’t anyone you couldn’t learn to love once you’ve heard their story.”</p>
+       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Ms Rani Kanna has a Master’s degree in Applied Linguistics and is a PhD candidate in Child Psychology. Having undergone special training in teaching arts to pre-schoolers, she has directed plays and musicals for young children, and organised many storytelling events. Ms Rani believes that the mind and soul are most powerfully engaged through stories and details her narrations with music, actions and authentic voices. She has been selected as a voice-over talent for Disney cartoons in Tamil. She also enjoys  taking on characters of stories to interact with young children and her favourite quote is, “There isn’t anyone you couldn’t learn to love once you’ve heard their story.”</p>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
        <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Storytelling is a special way of sharing ideas, languages, and stories with children. Engaging children in oral storytelling has also proven to be an effective strategy for oral language development. 
-Rani Kanna will be sharing a variety of interesting oral storytelling techniques (modulation of voice and intonation, puppetry, etc.) that can be carried out at home by parents to actively engage their children in the power of imagination, visualisation and oral expression in Tamil. She will also be doing a demonstration with a lower primary child to bring these techniques alive!</p></div>
+Ms Rani Kanna will be sharing a variety of interesting oral storytelling techniques (modulation of voice and intonation, puppetry, etc.) that can be carried out at home by parents to actively engage their children in the power of imagination, visualisation and oral expression in Tamil. She will also be doing a demonstration with a lower primary child to bring these techniques alive!</p></div>
 <br/><br/>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
