@@ -86,19 +86,19 @@ max-width:30%;
     <div class="sp2">
     <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_10.jpg" style="display:none;" />
     </div>
-  <div class="column">
+  <div class="climg">
     <img src="/images/CL-Mdm-Cheah-Sin-Wei.png" style="width:100%" />
   </div>
      <p style="font-family:Lato,sans-serif;"> <strong>Mdm Cheah Sin Wei  </strong><br/>
    <strong> <span style="font-size:22px;font-family:KaiTi;">谢欣薇 </span></strong><br />
    </p>
-   <div class="column">
+   <div class="climg">
     <img src="/images/CL-chan-yan.png" style="width:100%" />
   </div>
      <p style="font-family:Lato,sans-serif;"> <strong>Ms Chan Yan   </strong><br/>
    <strong> <span style="font-size:22px;font-family:KaiTi;">陈昕 </span></strong><br />
    </p>
-   <div class="column">
+   <div class="climg">
     <img src="/images/CL-Ms-Renee-Tan.png" style="width:100%" />
   </div>
      <p style="font-family:Lato,sans-serif;"> <strong>Renee Tan </strong><br/>
