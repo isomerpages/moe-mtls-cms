@@ -3,9 +3,6 @@ title: Mdm Kunawathy Kaliannan
 permalink: /Mdm-Kunawathy-Kaliannan
 description: ""
 ---
-
-
-
 <head>
 <style>
   .video-container {
@@ -112,9 +109,9 @@ max-width:30%;
       <br />
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;text-align:justify;">Tamil Language Learning Through Positive Education and Appreciative Inquiry</h4>
         <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Profile</h4>
-       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Mdm Kunawathy  has more than 30 years of experience as an educator and has received the National Day Commendation Medal and The Public Administration Medal (Bronze) for her contributions to education. She is currently a Senior Teaching Fellow at NIE. Effectively bilingual in both English and Tamil, Mdm Kunawathy  has conducted workshops for parents, students and teachers, and presented papers at local and international conferences. She is an advocate of Positive Education and Appreciative Inquiry as approaches for quality teaching and learning and has integrated these in the modules that she teaches at NIE.</p>
+       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Mdm Kunawathy has more than 30 years of experience as an educator and has received the National Day Commendation Medal and The Public Administration Medal (Bronze) for her contributions to education. She is currently a Senior Teaching Fellow at    National Institute of Education (NIE). Effectively bilingual in both English and Tamil, Mdm Kunawathy  has conducted workshops for parents, students and teachers, and presented papers at local and international conferences. She is an advocate of Positive Education and Appreciative Inquiry as approaches for quality teaching and learning and has integrated these in the modules that she teaches at NIE.</p>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
-       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Positive Education and Appreciative Inquiry are educational approaches that are especially suited for language learning. By adopting Positive Education, students’ interests can be kindled through positive emotions, engagement, relationship -building, meaning-creation and achievement, while Appreciative Inquiry tools can be used to instil a love for the language in students, and to help them develop their vocabulary. In this session, Mdm Kunawathyammal will focus on exploring strategies with pre-school and primary educators  to help them kindle an interest in learning Tamil in their students through interactive activities. These strategies will make use of Positive Education and Appreciative Inquiry approaches.</p></div>
+       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Positive Education and Appreciative Inquiry are educational approaches that are especially suited for language learning. By adopting Positive Education, students’ interests can be kindled through positive emotions, engagement, relationship-building, meaning-creation and achievement, while Appreciative Inquiry tools can be used to instil a love for the language in students, and to help them develop their vocabulary. In this session, Mdm Kunawathyammal will focus on exploring strategies with pre-school and primary educators  to help them kindle an interest in learning Tamil in their students through interactive activities. These strategies will make use of Positive Education and Appreciative Inquiry approaches.</p></div>
   <br/><br/>
   <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
   
