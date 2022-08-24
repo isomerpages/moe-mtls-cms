@@ -64,5 +64,5 @@ background-color: lightgrey;!important;
  <br/>
  <p style="font-size: 16px;font-family: Lato,sans-serif;font-style:italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <img src="/images/Explore-MTLS_Mascot_Scavenger-V1-04.png
-" style="width:40%; float:left;">
+" style="width:40%; float:right;">
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
