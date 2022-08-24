@@ -75,8 +75,7 @@ Ms Fiza O <br/>
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Sesi Bercerita dalam Bahasa Melayu<br/>
  [Online Storytelling Session (For K1 – P2 students) from 1.00pm to 2.00pm]<br/><br/>
   Mr Muhammad Shahril Bin Shaik Abdullah<br/>
-		Associate Librarian, Malay Language,<br>
-Collection Planning and Development,  National Library Board  </td>
+		Associate Librarian, Malay Language, Collection Planning and Development<br>National Library Board  </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
 <a href="/Mr-Muhammed-Shahril-Bin-Shaik-Abdullah" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini</a>
@@ -91,7 +90,7 @@ Collection Planning and Development,  National Library Board  </td>
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Memperkenalkan Literasi Bahasa Melayu melalui Bercerita<br/>
 [Online Interactive Workshop (For Parent-Child Activity) from 2.30pm to 3.30pm]<br/><br/>
 Ms Nurain Syakirah binte Nordin <br/>
-		Founder, The Bambini SG</td>
+		Founder<br/>The Bambini SG</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
 <a href="/Ms-Nurain-Syakirah-binte-Nordin" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini</a>
@@ -107,11 +106,11 @@ Ms Nurain Syakirah binte Nordin <br/>
 [Online Engagement Sessions (For P1 to P4 Students) from 5.30pm to 6.30pm]<br/>
   <br/>
 Mr Djohan Bin Abdul Rahman  <br/>
-		Lead Teacher, Malay Language,
+		Lead Teacher, Malay Language<br/>
 Changkat Changi Secondary School<br/>
 <br/>
 Ms Nurain Binte Tajudeen <br/>
-	Teacher, Malay Language,
+	Teacher, Malay Language<br/>
 Changkat Changi Secondary School
 </td>
     <td style="border: none;
@@ -144,11 +143,11 @@ Miss Aminah Binte Abdul Latif<br/>
 [Recordings will be made available online from 27 August 2022] <br/>
    <br/>
 Ms Aimuniliyana Md Rahim<br/>
-		Pre-School Educator, <br>
+		Pre-School Educator<br>
 Winner of the Outstanding Pre-School Mother Tongue Language Teacher Award 2018 <br/>
         <br/>
-        Ms Almi Roafuziah binte Mohamed   <br/>
-		Pre-School Educator,<br/>
+        Ms Almi Roafuziah binte Mohamed  <br/>
+		Pre-School Educator<br/>
 Winner of the Outstanding Pre-School Mother Tongue Language Teacher Award 2020 <br/>        
 </td>
     <td style="border: none;
@@ -165,7 +164,7 @@ Winner of the Outstanding Pre-School Mother Tongue Language Teacher Award 2020 <
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Membina Taman dengan Kanak-kanak: Taman untuk Kanak-kanak Meneroka, Menemui, Bermain dan Berkembang Menjadi Penutur Dwibahasa yang Yakin dan Pelajar yang Berdaya tahan Tinggi<br/> 
 		[Recordings will be made available online from 27 August 2022] <br/><br/>
 Dr Raudhah Yahya  <br/>
-		Lecturer, NIEC-NP </td>
+		Lecturer<br/>NIEC-NP </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
  <a href="/Dr-Raudhah-Yahya" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini</a>
@@ -181,10 +180,10 @@ Dr Raudhah Yahya  <br/>
 	[Recording will be made available online from 27 August 2022]
   <br/><br/>
 Mr Muhamad Shahzulhari bin Johari <br/>
-		Malay Language Teacher, Wellington Primary School <br/>
+		Malay Language Teacher<br/>Wellington Primary School <br/>
         <br/>
        Mr Airi Bin Bujang <br/>
-		Malay Language Teacher, Wellington Primary School   </td>
+		Malay Language Teacher<br/>Wellington Primary School   </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
  <a href="/Mr-Muhammad-Shahzulhari-bin-Johari-And-Mr-Airi-Bin-Bujang" class="btn1" style="color:#fff;font-family:Lato,sans-serif;">Tonton di Sini</a>
