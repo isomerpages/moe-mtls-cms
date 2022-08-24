@@ -77,10 +77,10 @@ max-width:30%;
   text-align: left;padding: 20px;"><a href="/chinese-session">Back</a>
 </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a></td>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a></td>
     </tr>
 </table>
     <div class="sp2">
@@ -111,11 +111,11 @@ max-width:30%;
    <p style="font-family:Lato,sans-serif;text-align:justify;">
 Mdm Jiang Yanyan has over 14 years of experience in Chinese Language teaching.  She is a Senior Teacher (Chinese Language) from Princess Elizabeth Primary School and one of the recipients of the Distinguished Chinese Language Teachers Awards 2021.  Mdm Jiang is adept at using games and digital resources to guide students to learn the Chinese Language, and in ensuring approaches are customised to suit student’s learning needs.
 </p>
-  <h4 style="color:#d84178;"> Synopsis</h4>  
+  <h4 style="color:#d84178;">Synopsis</h4>  
    <p style="font-family:Lato,sans-serif;text-align:justify;" >
 Through participating in online interactive activities for the Mid-Autumn Festival Celebration, students can learn about the origin of the festival and experience the joy of learning.
       </p>
-      <p style="font-family:Lato,sans-serif;text-align:justify;" >After an interesting ice-breaker, Mdm Jiang Yanyan will introduce the traditional Mid-Autumn Festival to students.  Students will also have the opportunity to participate in the Mid-Autumn Festival quiz through interesting online games. Finally, students will get a chance to participate in a hands-on session to make a Mid-Autumn Lantern.</p>
+      <p style="font-family:Lato,sans-serif;text-align:justify;">After an interesting ice-breaker, Mdm Jiang Yanyan will introduce the traditional Mid-Autumn Festival to students.  Students will also have the opportunity to participate in the Mid-Autumn Festival quiz through interesting online games. Finally, students will get a chance to participate in a hands-on session to make a Mid-Autumn Lantern.</p>
 	<br/><br/>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
     <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
