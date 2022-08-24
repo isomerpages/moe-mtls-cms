@@ -62,7 +62,7 @@ img{
 <p style="text-align:justify;">Yang berikut merupakan gambaran keseluruhan bagi <a href="https://www.nel.moe.edu.sg/resources/frameworks-and-guidelines" target="_blank"><u>Rangka Kerja untuk Bahasa Ibunda.</u></a></p>
 <img src="/images/Pic-PreSch-ML-2.png">
 <p style="text-align:justify;">Rangka Kerja ini dibina dengan kepercayaan bahawa kanak-kanak mempunyai sifat ingin tahu, aktif dan cekap.</p>
-<img src="/images/MTLS2022_ML_Curriculum_V2_PreSch_1.jpg"><br/>
+<img src="/images/MTLS2022_ML_Curriculum_V3_PreSch_1.jpg"><br/>
 <h4 id="C1">PENDEKATAN MEMBACA BERSAMA</h4>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_2.jpg">
 <p>Secara umumnya matlamat <a href="https://www.nel.moe.edu.sg/qql/slot/u143/Resources/BigBooks/Malay/NEL-Big-Book-Malay-Teaching-Steps.pdf" target="_blank"><u> Pendekatan Membaca Bersama (Shared Book Approach) </u></a> adalah untuk:</p>
@@ -92,7 +92,7 @@ img{
 <p> <span class="dot"></span>&nbsp;&nbsp;&nbsp;Dengan Siapakah Saya Berkongsi Dunia ini?</p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_6.jpg"><br>
 <p> <span class="dot"></span>&nbsp;&nbsp;&nbsp;Bagaimanakah Sesuatu Benda atau Perkara Berfungsi?</p>
-<img src="/images/MTLS2022_ML_Curriculum_V1_PreSch_7.jpg"><br>
+<img src="/images/MTLS2022_ML_Curriculum_V3_PreSch_7.jpg"><br>
 <p>  Untuk mendapatkan contoh Aktiviti Bahasa Melayu yang lain, sila layari lelaman daripada tadika-tadika ini.
 </p>
 <ul>
