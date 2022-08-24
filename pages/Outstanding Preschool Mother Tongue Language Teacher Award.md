@@ -82,8 +82,7 @@ PCF Sparkletots @ Punggol Coast Blk 676B</center>
   <div class="column">
     <a href="/Mdm-Nazreen-Banu"> <img src="/images/OPMTLPic/Nazreen-outstanding-award.png" style="width:54%" /></a>
  <p> <center> Mdm Nazreen Banu <br>
-  <span style="font-family:Anjal InaiMathi; font-size:18px;">திருவாட்டி  திருவாட்டி நஸ் ரீன் பானு 
-சூராலி ஹபீப் முகமது</span>
+  <span style="font-family:Anjal InaiMathi; font-size:18px;">திருவாட்டி நஸ் ரீன் பானு சூராலி ஹபீப் முகமது</span>
   <br />PCF Sparkletots @ Sengkang East Blk 187B</center>
 </p>
     </div>
