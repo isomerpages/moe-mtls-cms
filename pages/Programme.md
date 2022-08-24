@@ -37,7 +37,7 @@ description: ""
 <a href="/mdm-nur-afifah"><img src="/images/Programme/4-Hybridsession-ML.jpg"></a><br>
 <a href="/mrs-kunawathy-nallathambi"><img src="/images/Programme/5-Hybridsession-TL.jpg"></a><br><br>
 <img src="/images/Programme/6-Storytelling-Header.jpg"><br>
-<a href="/ms-melissa-choo-see-check"><img src="/images/Programme/7-Storytelling-CL.jpg"></a><br>
+<a href="/ms-melissa-choo-see-check"><img src="/images/Programme/7-Storytelling-CL-v2.jpg"></a><br>
 <a href="/mr-muhammed-shahril-bin-shaik-abdullah"><img src="/images/Programme/8-Storytelling-ML.jpg"></a><br>
 <a href="/ms-zainab"><img src="/images/Programme/9-Storytelling-TL.jpg"></a><br><br>
 <img src="/images/Programme/10-Interactive-Header.jpg"><br>
