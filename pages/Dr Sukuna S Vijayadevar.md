@@ -78,10 +78,10 @@ max-width:30%;
 <a href="/tamil-session">Back</a>
 </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a>
     </td>
     </tr>
 </table>
@@ -109,10 +109,10 @@ max-width:30%;
       <br />
        <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;text-align:justify;">Fun  Ways To Facilitate Young Children’s Learning of Mother Tongue Language- Tamil</h4>
         <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Profile</h4>
-       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Dr. Sukuna Vijayadevar received her Ph.D. from Victoria University, Wellington, New Zealand. Her research interests include leadership in Early childhood Education, language acquisition in young children and teachers’ reflective practices. She has developed professional development courses for Tamil preschool teachers is involved in their  training programmes. She has participated in several symposiums and workshops organized by Ministry of Education in promoting mother tongue languages
+       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Dr Sukuna Vijayadevar received her Ph.D. from Victoria University, Wellington, New Zealand. Her research interests include leadership in Early Childhood Education, language acquisition in young children and teachers’ reflective practices. She has developed professional development courses for Tamil pre-school teachers is involved in their  training programmes. She has participated in several symposiums and workshops organized by Ministry of Education in promoting Mother Tongue Languages.
 </p>
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
-       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Research studies in cognitive neuroscience on language acquisition show that children have the propensity to learn languages easily (PNAS,2020). So, why do we need to make the effort to maintain and sustain support for children to acquire and speak their mother tongue language (MTL)?  Research on bilingualism has also shown that due to the impact of environmental influences, children are prone to lose the MTL proficiency they acquire in their early years (De Houwer, 2015). It is significant to create and sustain a vibrant and immersive MTL environment that develops a deep and lasting motivation for life-long learning of one’s MTL in the child. This is especially so in an environment such as Singapore’s, where the de facto working language is English. This sharing session by Dr Vijayadevar will unpack the benefits of nurturing a love for Tamil in children. She will also share how parents and teachers of young children can contribute to developing a vibrant MTL learning environment, which provides engaging and meaningful learning experiences beyond the classroom for their children.
+       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Research studies in cognitive neuroscience on language acquisition show that children have the propensity to learn languages easily (PNAS,2020). So, why do we need to make the effort to maintain and sustain support for children to acquire and speak their Mother Tongue Language (MTL)?  Research on bilingualism has also shown that due to the impact of environmental influences, children are prone to lose the MTL proficiency they acquire in their early years (De Houwer, 2015). It is significant to create and sustain a vibrant and immersive MTL environment that develops a deep and lasting motivation for life-long learning of one’s MTL in the child. This is especially so in an environment such as Singapore’s, where the de facto working language is English. This sharing session by Dr Vijayadevar will unpack the benefits of nurturing a love for Tamil in children. She will also share how parents and teachers of young children can contribute to developing a vibrant MTL learning environment, which provides engaging and meaningful learning experiences beyond the classroom for their children.
 </p></div>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
 	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
