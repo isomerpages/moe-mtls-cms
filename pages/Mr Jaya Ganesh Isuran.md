@@ -73,7 +73,7 @@ max-width:30%;
 <body>
   <table>
   <tr>
-		<td  style="border: none;
+        <td  style="border: none;
   text-align: left;padding: 20px;">
 <a href="/tamil-session">Back</a>
 </td>
@@ -101,18 +101,18 @@ max-width:30%;
  <p style="margin:10px;font-family:Anjal InaiMathi;text-align:justify;">
   திரு. ஜெய கணேஷ் ஈஸ்வரன் பொழுதுபோக்குத் துறையில் அதுவும் குறிப்பாக மீடியாகார்ப்பின் வசந்தம் தொடர்நாடகங்களில் நடித்துக்கொண்டிருக்கும் பிரபலமான கலைஞர். இவர் ஒலி 96.8 வானொலி நிலையத்தில் அறிவிப்பாளராகவும் ‘வசந்தம் ஸ்டார்’, ‘டான்ஸ் ஜோடி’ போன்ற நேரடி நிகழ்ச்சிகளின் தொகுப்பாளராகவும் பணியாற்றியுள்ளார். இவர் சமூக வலைத்தளங்களிலும் வலம் வருகிறார். உள்ளூர்க் கலைஞர்களைச் சிறப்பிக்கும் நோக்கத்தில் வசந்தம் தொலைக்காட்சி நிறுவனம் ஏற்பாடு செய்திருந்த ‘பிரதான விழா 2021’ நிகழ்ச்சியில் இவருக்குச் ‘சிறந்த நகைச்சுவை நடிகர்’,  ‘பிரபலமான நடிகர்’ ஆகிய விருதுகள் வழங்கப்பட்டன. இரு மகன்களுக்குத் தந்தையான இவர் தமது கலையாற்றலால் இன்றும் மக்களை மகிழ்விக்கிறார்.
 </p>
-<h4 id="C2" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">சுருக்கவுரை</h4>
+<h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Profile</h4>
+       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Mr Jaya Ganesh Isuran is a very familiar face in the entertainment industry, known for his roles in Mediacorp’s Vasantham dramas. He was also a radio jockey at Oli 96.8FM, and was a dancer and host for live shows such as Vasantham Star. Mr Ganesh has also been featured on CNA and Today Online due to his popularity in the Tamil media. A recipient of multiple awards at PradhanaVizha 2021, he is also an entrepreneur and a proud father of two boys, ages 4 and 5.</p>
+       <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">
+             Let us Speak in Tamil with Our </h4>
+ <h4 id="C2" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">சுருக்கவுரை</h4>
        <p style="margin:10px;font-family:Anjal InaiMathi;text-align:justify;">
- வசந்தம் தொலைக்காட்சி, வானொலி நாடகங்களில் முத்திரை பதித்துவரும் திரு. ஜெய கணேஷ் தம் அனுபவங்களைப் பகிர்ந்துகொள்வார். இரு குழந்தைகளுக்குத் தந்தையான இவர், எவ்வாறு இல்லங்களில் தமிழ்மொழிச் சூழலை உருவாக்கலாம் என்பது குறித்த தம் அனுபவத்தையும் சில பயனுள்ள உத்திமுறைகளையும்   விளக்குவார். இவர் சந்தித்த சவால்களையும் இவற்றை எதிர்கொள்ள மேற்கொண்ட முயற்சிகளையும் கண்ட வெற்றிகளையும் இவருக்கே உரிய நகைச்சுவை ததும்பும் பாணியில் எடுத்துரைப்பார். பெற்றோர்கள் தமிழ்மொழிப் புழக்கத்திற்கு உதவும் வீட்டுச் சூழலை அமைத்து, வீட்டில் தமிழ்ப்புழக்கம் இருப்பதை உறுதிசெய்ய இந்தப் பகிர்வு துணைபுரியும்.
+ வசந்தம் தொலைக்காட்சி, வானொலி நாடகங்களில் முத்திரை பதித்துவரும் திரு. ஜெய கணேஷ் தம் அனுபவங்களைப் பகிர்ந்துகொள்வார். இரு குழந்தைகளுக்குத் தந்தையான இவர், எவ்வாறு இல்லங்களில் தமிழ்மொழிச் சூழலை உருவாக்கலாம் என்பது குறித்த தம் அனுபவத்தையும் சில பயனுள்ள உத்திமுறைகளையும் விளக்குவார். இவர் சந்தித்த சவால்களையும் இவற்றை எதிர்கொள்ள மேற்கொண்ட முயற்சிகளையும் கண்ட வெற்றிகளையும் இவருக்கே உரிய நகைச்சுவை ததும்பும் பாணியில் எடுத்துரைப்பார். பெற்றோர்கள் தமிழ்மொழிப் புழக்கத்திற்கு உதவும் வீட்டுச் சூழலை அமைத்து, வீட்டில் தமிழ்ப்புழக்கம் இருப்பதை உறுதிசெய்ய இந்தப் பகிர்வு துணைபுரியும்.
 </p>
-      <br />
-			 <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Let us Speak in Tamil with Our Children</h4>
-        <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Profile</h4>
-       <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Mr Jaya Ganesh Isuran is a very familiar face in the entertainment industry, known for his roles in Mediacorp’s Vasantham dramas. He was also a radio jockey at Oli 96.8FM, and was a dancer and host for live shows such as Vasantham Star. Mr Ganesh has also been featured on CNA and Today Online due to his popularity in the Tamil media. A recipient of multiple awards at PradhanaVizha 2021, he is also an entrepreneur and a proud father of two boys, ages 4 and 5.</p><br/>
-      <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
+<h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
        <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">
 Mr Jaya Ganesh is a very popular TV and radio artist who is passionate about Tamil and strongly feels that acquisition of the language should begin at home. He will be sharing  his memorable experience of journeying with his two boys in their language learning. Largely based on his own observations, experiences and tried-and-tested strategies with his own family, the focus of his sharing will be on how parents can create a conducive environment at home for instilling the use of Tamil in children. Participants will also hear about his challenges and the counter-measures he  put in place to overcome them. His live interactive session for parents will be both insightful and entertaining.
       </p></div>
-	<br/><br/>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+    <br/><br/>
+    <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
