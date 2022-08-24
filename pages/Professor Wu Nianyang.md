@@ -105,7 +105,7 @@ max-width:30%;
  </h4>
 <h4 style="color:#d84178;font-family:Lato,sans-serif;">Profile</h4>  
    <p style="font-family:Lato,sans-serif;text-align:justify;">
-Dr. Wu Nianyang and her team believe that reading involves multisensory activities for children, such as listening, narrating, drawing, building, performing, etc. These activities allow children to feel the words and experience the story, which encourage children’s understanding of the content in a more engaging and interactive way. These act as a positive influence upon children’s cognitive development and help cultivate good reading habits and interests.
+Professor Wu Nianyang and her team believe that reading involves multisensory activities for children, such as listening, narrating, drawing, building, performing, etc. These activities allow children to feel the words and experience the story, which encourage children’s understanding of the content in a more engaging and interactive way. These act as a positive influence upon children’s cognitive development and help cultivate good reading habits and interests.
 </p><br />
   <h4 style="color:#d84178;"> Synopsis</h4>  
    <p style="text-align:justify;font-family:Lato,sans-serif;">
