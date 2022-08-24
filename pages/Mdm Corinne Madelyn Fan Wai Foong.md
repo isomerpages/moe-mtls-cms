@@ -77,10 +77,10 @@ max-width:30%;
   text-align: left;padding: 20px;"><a href="/chinese-session">Back</a>
 </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a></td>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a></td>
     </tr>
 </table>
     <div class="sp2">
@@ -107,7 +107,7 @@ max-width:30%;
    <p style="font-family:Lato,sans-serif;text-align:justify;">
 Mdm Corinne Fan has 16 years of experience in the education service. She is currently teaching at the National Institute of Early Childhood Development (NIEC) - Ngee Ann Polytechnic. Besides having taught in primary schools, Mdm Corinne has also worked as a Curriculum Planning and Resource Development Officer in MOE HQ. She was part of the team to plan and develop the Primary 1 and 2 Chinese Language Curriculum and the Starlight Literacy Programme (Chinese Language).
 </p><br />
-  <h4 style="color:#d84178;text-align:justify;font-family:Lato,sans-serif;"> Synopsis</h4>  
+  <h4 style="color:#d84178;text-align:justify;font-family:Lato,sans-serif;">Synopsis</h4>  
    <p style="font-family:Lato,sans-serif; text-align:justify;">
 The COVID-19 pandemic has driven teaching and learning towards full Home-Based Learning (HBL), leading teachers to try, experiment and adopt appropriate ICT tools to complement their teaching.  This sharing session will highlight the use of mobile applications to create meaningful and fun Chinese Language activities for pre-schoolers, motivating them to use the language.
       </p></div>
