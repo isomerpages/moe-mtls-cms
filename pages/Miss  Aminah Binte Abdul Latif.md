@@ -89,7 +89,7 @@ max-width:30%;
      <div class="column">
 <img src="/images/ML-Miss-Aminah.png" style="width:100%" />
    </div>
-     <p style="font-family:Lato,sans-serif;"><strong>Miss Aminah Binte Abdul Latif
+     <p style="font-family:Lato,sans-serif;"><strong>Ms Aminah Binte Abdul Latif
      </strong>
  </p>
  <h4 style="color:#a3c864;font-family:Lato,sans-serif;text-align:justify;">Perkembangan Emosi-Sosial melalui pengalaman di luar bilik darjah
@@ -99,7 +99,7 @@ max-width:30%;
         <h4  id="C2" style="color:#a3c864;font-family:Lato,sans-serif;">Sinopsis</h4> 
       <p style="font-family:Lato,sans-serif;text-align:justify;">Pengalaman bermain di luar ialah satu keperluan asas bagi seorang kanak-kanak untuk membesar. Pengalaman ini memberikan banyak peluang untuk kanak-kanak menggunakan daya kreatif, mengambil risiko dan juga memupuk kemahiran sosial. Misalnya, aktiviti-aktiviti seperti menggali pasir, memanjat pokok dan berlari-lari turun dan naik bukit membawa manfaat kepada perkembangan holistik kanak-kanak. Kanak-kanak yang menghabiskan masa berinteraksi dengan persekitaran mereka di luar bilik darjah dapat membina hubungan yang positif dengan alam semulajadi. Dalam sesi ini, para peserta akan dapat memahami cara permainan aktif di luar  menyumbang pada perkembangan sihat kanak-kanak. Pada penghujung sesi ini, para peserta akan mengetahui cara-cara untuk membimbing kanak-kanak apabila bermain di luar bilik darjah.</p>
      <h4 style="color:#a3c864;">Profile</h4>   
-       <p style="font-family:Lato,sans-serif;text-align:justify;">Aminah is a Forest School Practitioner with 14 years of experience in the pre-school industry. She firmly believes that unstructured play, outdoor movements and connecting with nature are imperative elements in ensuring that a child experiences a balanced, healthy and meaningful life.</p>
+       <p style="font-family:Lato,sans-serif;text-align:justify;">Ms Aminah is a Forest School Practitioner with 14 years of experience in the pre-school industry. She firmly believes that unstructured play, outdoor movements and connecting with nature are imperative elements in ensuring that a child experiences a balanced, healthy and meaningful life.</p>
   <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
      <p style="font-family:Lato,sans-serif;text-align:justify;">Outdoor play is essential for a child’s growth and development. It provides opportunities for children to use their creativity, take risks and develop social skills. For instance, outdoor experiences such as digging in the sand, climbing trees and running up and down the hill contribute to the holistic development of children. Children who spend a great amount of time outdoors will also gradually develop a positive connection with nature. In this workshop, participants will understand how active outdoor play contributes to the healthy development of children. Strategies on supporting unstructured outdoor play will be shared with the participants at the end of the session.</p>
 	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;text-align:justify;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
