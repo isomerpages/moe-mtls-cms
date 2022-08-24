@@ -121,7 +121,7 @@ text-decoration:none;
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Menggunakan Strategi Pemikiran Visual & Pembelajaran Melalui Pengalaman untuk Meningkatkan Pengetahuan Kanak-kanak dalam Bahasa Melayu<br />
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Menggunakan Strategi Pemikiran Visual & Pembelajaran Berdasarkan Pengalaman untuk Meningkatkan Pengalaman Kanak-kanak dalam Bahasa Melayu<br />
 		[M.Y World @ Punggol Edge]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
