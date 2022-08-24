@@ -78,10 +78,10 @@ max-width:30%;
 <a href="/tamil-session">Back</a>
 </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a>
     </td>
     </tr>
 </table>
@@ -113,6 +113,6 @@ max-width:30%;
       <h4 style="padding-top:12px;margin:10px;color:#9b4490;">Synopsis</h4> 
        <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Positive Education and Appreciative Inquiry are educational approaches that are especially suited for language learning. By adopting Positive Education, students’ interests can be kindled through positive emotions, engagement, relationship-building, meaning-creation and achievement, while Appreciative Inquiry tools can be used to instil a love for the language in students, and to help them develop their vocabulary. In this session, Mdm Kunawathyammal will focus on exploring strategies with pre-school and primary educators  to help them kindle an interest in learning Tamil in their students through interactive activities. These strategies will make use of Positive Education and Appreciative Inquiry approaches.</p></div>
   <br/><br/>
-  <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+  <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
   
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
