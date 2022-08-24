@@ -61,3 +61,4 @@ sections:
   - infopic:
       image: /images/Explore-MTLS_Mascot_Scavenger-V1-02.png
 ---
+<img src="/images/Explore-MTLS_Mascot_Scavenger-V1-02.png>
