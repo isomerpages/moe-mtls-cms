@@ -255,7 +255,7 @@ table.center {
 	<h4 style="font-size:25px;color:green;"> PROGRAM-PROGRAM BAHASA MELAYU</h4>
 <p>Sertailah program-program yang menggalakkan penggunaan dan pembelajaran Bahasa Melayu.</p>
 <table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
-	font-weight: 700;"> Program Pentas Esplanade</td></table>
+	font-weight: 700;"> Majlis Bahasa Melayu Singapura – Bulan Bahasa</td></table>
 <p ><span class="dot"></span>&nbsp;&nbsp;&nbsp;    Majlis Bahasa Melayu Singapura - Bulan Bahasa</p>
 <p><strong>CITA</strong><br> Aspirasi kita: Kita mahukan bahasa Melayu kekal relevan dalam kehidupan kita. </p>
 <p><strong>CITRA</strong><br> Bahasa, sastera dan Budaya Melayu dalam pelbagai corak kehidupan negara ialah citra kita.</p>
@@ -292,7 +292,6 @@ Program dan aktiviti sepanjang tahun yang dijalankan di perpusatakaan-perpustaka
 <p><a href="https://www.nlb.gov.sg/" target="_blank">https://www.nlb.gov.sg/</a></p>
 <table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
 	font-weight: 700;"> Program Pentas Esplanade</td></table>
-
 <li> Persembahan seni dan Budaya Melayu sepanjang tahun. </li>
 <li> <span style="color: blue;">Gemadah </span>– Festival Muzik Tradisional Melayu</li>
 <li> <span style="color: blue;">Festival Muara </span> – Persembahan tarian Melayu Nusantara</li>
