@@ -84,7 +84,7 @@ text-decoration:none;
 </style>
 </head>
 <body>
-	<h4> Come, join our Garden Guardians, Xiao Tao, Sani, Kavin and Peppy at the MTLS Joyful Garden! Help them complete various tasks to keep the garden flourishing! Click on the link below to join them now and play the game!</h4>
+	<h4> Come, join our Garden Guardians, Xiao Tao, Sani, Kavin and Peppy at the MTLS Joyful Garden! Help them complete various tasks to keep the garden flourishing! Click on the link below to join them now and play the game!</h4><br/>
 	<table>
   <tr>
     <td style="border: none;
@@ -97,6 +97,6 @@ Complete the activities to collect a minimum of 80 points and redeem a limited-e
 			<a href="" target="_blank" class="btn2" style="color:#fff;">Explore@MTLS Activity Package </a>
 		</td>
 </tr>
-</table>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+</table><br/><br/>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 	<div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
