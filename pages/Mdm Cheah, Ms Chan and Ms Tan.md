@@ -66,7 +66,7 @@ height:auto;
 max-width:30%;
 }
   .sp2 img{
-  width:100%;
+  width:30%;
   }
 </style>
 </head>
