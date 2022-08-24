@@ -78,10 +78,10 @@ max-width:30%;
 <a href="/malay-session">Back</a>
 </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a>
     </td>
     </tr>
 </table>
@@ -106,11 +106,11 @@ max-width:30%;
       <p style="font-family:Lato,sans-serif;text-align:justify;">Penggabungjalinan STEAM (Sains, Teknologi, Kejuruteraan, Seni, Matematik) dalam pembelajaran bahasa Melayu boleh menyokong pengalaman pembelajaran kanak-kanak melalui pembangunan kemahiran penting seperti kebolehan menyelesaikan masalah dan pemikiran kritikal sambil menarik minat untuk mempelajari bahasa Melayu</p>
       <p style="font-family:Lato,sans-serif;text-align:justify;">Ketahuilah strategi-strategi memudah cara pengalaman pembelajaran kanak-kanak  melalui teknik penyoalan yang bermutu.  Para peserta juga berpeluang mempelajari penggabungjalinan sastera Melayu dengan STEAM untuk mengupayakan kanak-kanak meneroka dunia di sekeliling mereka. </p>
      <h4 style="color:#a3c864;">Profile</h4>   
-       <p style="font-family:Lato,sans-serif;text-align:justify;">Nur’afifah is the Head of Programme for Malay Language and the curriculum specialist of OBOR, the Malay Language signature programme under Yaa Bunayya SG Learning Centre. As a trained educator and language enthusiast, Nur’afifah seeks to inspire young children to develop a love for the Malay Language. She constantly finds hands-on and interactive ways to approach learning languages to entice young children such as implementing STEAM into her learning activities. She believes that languages can be easily grasped when reinforced with experiences that are rich, relatable and fun. Nur’afifah aspires to help children discover the beauty in language and hope it can be the beginning of their journey towards discovering the wealth of knowledge</p>
+       <p style="font-family:Lato,sans-serif;text-align:justify;">Ms Nur’afifah is the Head of Programme for Malay Language and the curriculum specialist of OBOR, the Malay Language signature programme under Yaa Bunayya SG Learning Centre. As a trained educator and language enthusiast, Ms Nur’afifah seeks to inspire young children to develop a love for the Malay Language. She constantly finds hands-on and interactive ways to approach learning languages to entice young children such as implementing STEAM into her learning activities. She believes that languages can be easily grasped when reinforced with experiences that are rich, relatable and fun. Ms Nur’afifah aspires to help children discover the beauty in language and hope it can be the beginning of their journey towards discovering the wealth of knowledge</p>
   <h4 style="color:#a3c864;font-family:Lato,sans-serif;">Synopsis</h4> 
      <p style="font-family:Lato,sans-serif;text-align:justify;">Hands-on experiences help to feed the natural curiosity of young children while supporting the development of essential skills including understanding and communication. Using literature as a basis in acquiring language in children, how can we make these experiences more relevant and interesting so as to entice children into learning Malay Language? </p>
      <p style="font-family:Lato,sans-serif;text-align:justify;">Integrating STEAM (Science, Technology, Engineering, Arts, Math) in the learning of Malay Language can help support students’ learning experiences through the development of essential skills such as problem-solving and critical thinking while garnering their interests in learning the Malay Language. </p>
      <p style="font-family:Lato,sans-serif;text-align:justify;">Find out about strategies to facilitate inquiry experiences through such techniques as asking high-quality open-ended questions and integrating Malay literature with STEAM to enable children to learn about the world whilst developing their love for Malay Language.</p>
    </div>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;text-align:justify;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;text-align:justify;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
  <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
