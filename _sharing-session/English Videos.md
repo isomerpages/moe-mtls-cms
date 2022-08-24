@@ -135,7 +135,7 @@ Dr Shuhan C. Wang<br/>
 </table>
     <br/><br/>
     <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
-<img src="/images/Explore-MTLS_Mascot_Scavenger-V1-03.png" style="float: left;">
+<img src="/images/Explore-MTLS_Mascot_Scavenger-V1-03.png" style="float: left;width:50%;">
 </body>
 	</html>
 	</body>
