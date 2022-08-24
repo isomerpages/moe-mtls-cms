@@ -3,7 +3,6 @@ title: Mdm Sumathi Krishnasamy and Mdm Thasneem Parveen
 permalink: /Mdm-Sumathi-Krishnasamy-And-Mdm-Thasneem-Parveen
 description: ""
 ---
-
 <head>
 <style>
   .video-container {
@@ -123,5 +122,5 @@ max-width:30%;
        <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Educators across the nation have long professed the importance of learning through play. By enhancing the teaching of language through play, learning becomes pleasant, which then motivates students to learn. Learning through play not only creates a joyful learning environment, stimulating games also enable students to become self-directed learners and enhance their creativity. It is therefore important to infuse strategies for learning through play in a non-threatening environment so as to etch Tamil Language lessons deeply in the hearts of our students. </p>
        <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">To facilitate learning through play, teachers must decide on lesson objectives, design lesson plans and devise resources. Through this session, participants will learn to infuse games into the teaching of the Tamil Language. Participants will learn more about lesson ideas to enhance students’ interactive conversational skills and vocabulary (with a particular focus on synonyms). They will also learn to design games to cater to the different learning needs of the students.</p></div>
 	<br/><br/>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
