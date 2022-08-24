@@ -78,10 +78,10 @@ max-width:30%;
 <a href="/malay-session">Back</a>
 </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a>
     </td>
     </tr>
 </table>
@@ -93,7 +93,7 @@ max-width:30%;
      <div class="column">
 <img src="/images/ML-Dr-Raudhah-Yahya.png" style="width:100%" />
    </div>
-     <p style="font-family:Lato,sans-serif;"><strong>Dr. Raudhah Yahya
+     <p style="font-family:Lato,sans-serif;"><strong>Dr Raudhah Yahya
      </strong>
  </p>
  <h4 style="color:#a3c864;font-family:Lato,sans-serif;text-align:justify;">Membina Taman dengan Kanak-kanak: Taman untuk Kanak-kanak Meneroka, Menemui, Bermain dan Berkembang Menjadi Penutur Dwibahasa yang Yakin dan Pelajar yang Berdaya tahan Tinggi
