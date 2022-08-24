@@ -105,11 +105,11 @@ max-width:30%;
 			 <h4 style="font-size:30px;font-family:Lato,sans-serif;color:#d84178;text-align:justify;text-align:justify;">Use of Mobile Applications in the Teaching and Learning of Chinese Language for Pre-schoolers</h4>
 <h4 style="color:#d84178;font-family:Lato,sans-serif;">Profile</h4>  
    <p style="font-family:Lato,sans-serif;text-align:justify;">
-Mdm Corinne Fan has 16 years of experience in the education service. She is currently teaching at the National Institute of Early Childhood Development (NIEC) - Ngee Ann Polytechnic. Besides having taught in primary schools, Mdm Corinne has also worked as a Curriculum Planning and Resource Development Officer in MOE HQ. She was part of the team to plan and develop the Primary 1 and 2 Chinese Language Curriculum and the MOE Kindergarten Chinese Curriculum.
+Mdm Corinne Fan has 16 years of experience in the education service. She is currently teaching at the National Institute of Early Childhood Development (NIEC) - Ngee Ann Polytechnic. Besides having taught in primary schools, Mdm Corinne has also worked as a Curriculum Planning and Resource Development Officer in MOE HQ. She was part of the team to plan and develop the Primary 1 and 2 Chinese Language Curriculum and the Starlight Literacy Programme (Chinese Language).
 </p><br />
   <h4 style="color:#d84178;text-align:justify;font-family:Lato,sans-serif;"> Synopsis</h4>  
    <p style="font-family:Lato,sans-serif; text-align:justify;">
-The COVID-19 pandemic has driven teaching and learning towards full home-based learning (HBL), leading teachers to try, experiment and adopt appropriate ICT tools to complement their teaching.  This sharing session will highlight the use of mobile applications to create meaningful and fun Chinese Language activities for pre-schoolers, motivating them to use the language.
+The COVID-19 pandemic has driven teaching and learning towards full Home-Based Learning (HBL), leading teachers to try, experiment and adopt appropriate ICT tools to complement their teaching.  This sharing session will highlight the use of mobile applications to create meaningful and fun Chinese Language activities for pre-schoolers, motivating them to use the language.
       </p></div>
 	<br/><br/>
 	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
