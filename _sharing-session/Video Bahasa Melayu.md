@@ -178,7 +178,7 @@ Dr Raudhah Yahya  <br/>
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Dari Cetak ke Layar: Memanfaatkan Penggunaan Video untuk Menjana Minat Murid terhadap Bahasa<br/>
-	[Recordings will be made available online from 27 August 2022]
+	[Recording will be made available online from 27 August 2022]
   <br/><br/>
 Mr Muhamad Shahzulhari bin Johari <br/>
 		Malay Language Teacher, Wellington Primary School <br/>
