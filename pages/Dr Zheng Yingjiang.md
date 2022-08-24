@@ -76,10 +76,10 @@ max-width:30%;
   text-align: left;padding: 20px;"><a href="/chinese-session">Back</a>
 </td>
     <td style="border: none;
-  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here!</a> </td>
+  text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here! </a></td>
+      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a></td>
     </tr>
 </table>
     <div class="sp2">
@@ -113,5 +113,5 @@ Dr Zheng Yingjiang is a school-based Master Teacher (Blangah Rise Primary School
 Although the transition from pre-school to primary school might seem like a small step in a child’s learning journey, in actuality, they are experiencing two different learning stages. Dr Zheng Yingjiang will be sharing on how to create a positive Chinese Language learning experience for pre-school and lower primary children who come from different language-speaking backgrounds. The pre-school teacher can tap on daily life experience and play to arouse the children’s interest, to help them grasp the basic language skills, in preparation for the next stage of Chinese language learning.
       </p>
       <p style="font-family:Lato,sans-serif;text-align:justify;">When faced with students of different language starting points, the lower primary teacher can use play to link previous learning experiences, so as to enable them to walk into the world of big picture books, animations, songs and stories in the school textbooks, whilst having a growth mindset and falling in love with the Chinese Language.</p>
-	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site , the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
     <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
