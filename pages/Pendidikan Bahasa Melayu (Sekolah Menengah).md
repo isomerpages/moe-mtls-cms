@@ -229,7 +229,8 @@ table.center {
   </div>
 </div>
 	<br><br><tr>
-<h4>PROGRAM BERTERUSAN: KEM MLEP</h4>
+	<div>
+<h4>PROGRAM BERTERUSAN: KEM MLEP</h4></div>
 <p>Kem MLEP yang telah berlangsung pada 
 2 dan 3 Jun 2022.</p>
 
