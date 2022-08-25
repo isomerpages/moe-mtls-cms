@@ -1,5 +1,5 @@
 ---
-title: M3@NeeSoon
+title: M<sup>3</sup>@NeeSoon
 permalink: /ml-M3-NeeSoon-exhibition
 description: ""
 ---
