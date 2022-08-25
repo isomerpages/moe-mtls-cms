@@ -1,5 +1,5 @@
 ---
-title: Esplanade Teater di Persisiran (Sinopsis)
+title: Esplanade - Teater di Persisiran (Sinopsis)
 permalink: /ml-Esplanade-Theatres-on-the-Bay-Synopsis
 description: ""
 ---
