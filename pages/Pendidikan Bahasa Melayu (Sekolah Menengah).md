@@ -105,7 +105,7 @@ table.center {
 </center>
   <h4 style="font-size:25px;color:green;">EMPAT CIRI UTAMA</h4>
   <p>Kurikulum Bahasa Melayu (Sekolah Menengah) 2021 menyerlahkan empat ciri utama yang berikut:</p>
-  <img src="/images/ML Sec 3 v2.png"><br>
+  <img src="/images/MTLS2022_ML_Curriculum_V3_SecSch_1-2.jpg"><br>
 <div class="row">
   <div class="column">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/XjIcQkdKENM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br />
@@ -209,7 +209,7 @@ table.center {
 <p>Simposium EMAS untuk pelajar Menengah 3 dan 4</p>
 <img src="/images/Pic-Sec-ML-14.png"><br/>
 <p><span class="dot"></span>&nbsp;&nbsp;&nbsp;Program MLEP-Menengah</p>
-<img src="/images/MTLS2022_ML_Curriculum_V2_SecSch_4.jpg"><br/>
+<img src="/images/MTLS2022_ML_Curriculum_V3_SecSch_4.jpg"><br/>
 <h4>PROGRAM BERTERUSAN: SEMINAR MLEP</h4>
 <p>Seminar MLEP yang telah berlangsung pada 1 Jun 2022.</p>
 <div class="rowimg1">
