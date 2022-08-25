@@ -76,11 +76,11 @@ max-width:30%;
   text-align: left;padding: 8px;width: 43%;"> <a href="#C1" class="btn1" style="color:#fff;">View Speaker's profile here</a> </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 43%;">
-      <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a>
+      <a href="#C2" class="btn2" style="color:#fff;">View Synopsis here</a>
     </td>
     </tr>
 </table>
-    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/742904082?h=2a6e247e85&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="(7) Ms Aminah (Main) v4"></iframe></div>
+    <br/><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/742904082?h=2a6e247e85&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="(7) Ms Aminah (Main) v4"></iframe></div>
     <br />
 <br />
     <div class="mlimg">
