@@ -81,15 +81,15 @@ PCF Sparkletots @ Punggol Coast Blk 676B</center>
  <div class="row">
   <div class="column">
     <a href="/Mdm-Nazreen-Banu"> <img src="/images/OPMTLPic/Nazreen-outstanding-award.png" style="width:54%" /></a>
- <p> <center> Mdm Nazreen Banu Surali Habeeb Mohamed <br>
-  <span style="font-family:Anjal InaiMathi; font-size:18px;">திருவாட்டி நஸ் ரீன் பானு சூராலி ஹபீப் முகமது</span>
+ <p> <center> Mdm Nazreen Banu <br/>Surali Habeeb Mohamed <br>
+  <span style="font-family:Anjal InaiMathi; font-size:18px;">திருவாட்டி நஸ் ரீன் பானு <br/>சூராலி ஹபீப் முகமது</span>
   <br />PCF Sparkletots @ Sengkang East Blk 187B</center>
 </p>
     </div>
   <div class="column">
     <a href="/Mrs-Kesavan-Bindhu"><img src="/images/OPMTLPic/Kesavan-Bindhu-outstanding-award.png" style="width:54%" ></a> 
  <p> <center> Mdm Kesavan Bindhu  <br/>
-   <span style="font-family:Anjal InaiMathi; font-size:18px;">ததிருவாட்டி கேசவன் பிந்து</span><br>
+   <span style="font-family:Anjal InaiMathi; font-size:18px;">திருவாட்டி கேசவன் பிந்து</span><br>
   PCF Sparkletots @ Kaki Bukit Blk 519 & 545 </center>
    </p>
     </div>
