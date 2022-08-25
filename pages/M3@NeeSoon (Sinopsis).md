@@ -1,5 +1,5 @@
 ---
-title: M3@NeeSoon (Sinopsis)
+title: M<sup>3</sup>@NeeSoon (Sinopsis)
 permalink: /ml-PA-MESRA-Synopsis
 description: ""
 ---
