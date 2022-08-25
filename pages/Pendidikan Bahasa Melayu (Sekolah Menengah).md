@@ -184,7 +184,7 @@ table.center {
 <p>MOE menawarkan dua program elektif Bahasa Melayu yang berikut di peringkat sekolah menengah. Jika anak anda berminat dalam bahasa, budaya dan kesusasteraan Melayu serta mengambil Bahasa Melayu Lanjutan di sekolah rendah (atau ditawarkan Bahasa Melayu Lanjutan selepas PSLE), jangan lepaskan peluang untuk memohon ke sekolah-sekolah EMAS:</p>
 <img src="/images/Pic-Sec-ML-8.png">
 <h4>Program Elektif Bahasa Melayu di Peringkat Sekolah Menengah </h4>
-<p ><span class="dot"></span>&nbsp;&nbsp;&nbsp;Program EMAS</p>
+<p style="font-size:25px;color:green;font-weight:bold;"> Program EMAS</p>
 <img src="/images/MTLS2022_ML_Curriculum_V2_SecSch_3.jpg">
 <p>Perkhemahan EMAS untuk pelajar Menengah 1</p>
 <div class="rowimg1">
@@ -208,7 +208,7 @@ table.center {
 </div>
 <p>Simposium EMAS untuk pelajar Menengah 3 dan 4</p>
 <img src="/images/Pic-Sec-ML-14.png"><br/>
-<p><span class="dot"></span>&nbsp;&nbsp;&nbsp;Program MLEP-Menengah</p>
+<p style="font-size:25px;color:green;font-weight:bold;"> Program MLEP-Menengah</p>
 <img src="/images/MTLS2022_ML_Curriculum_V3_SecSch_4.jpg"><br/>
 <h4>PROGRAM BERTERUSAN: SEMINAR MLEP</h4>
 <p>Seminar MLEP yang telah berlangsung pada 1 Jun 2022.</p>
