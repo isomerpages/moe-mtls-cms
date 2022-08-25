@@ -125,7 +125,8 @@ Changkat Changi Secondary School
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Perkembangan Emosi-Sosial melalui Pengalaman di Luar Bilik Darjah<br/>
- [Recordings will be made available online from 27 August 2022] <br/><br/>
+ [Available online from 27 Aug 22]
+ <br/><br/>
 Miss Aminah Binte Abdul Latif<br/>
 		Forest School Practitioner</td>
     <td style="border: none;
@@ -140,7 +141,8 @@ Miss Aminah Binte Abdul Latif<br/>
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Membentuk Penutur Dwibahasa: Strategi Mengasah Kemahiran Lisan di Rumah<br/>
-[Recordings will be made available online from 27 August 2022] <br/>
+[Available online from 27 Aug 22]
+ <br/>
    <br/>
 Ms Aimuniliyana Md Rahim<br/>
 		Pre-School Educator<br>
@@ -162,7 +164,8 @@ Winner of the Outstanding Pre-School Mother Tongue Language Teacher Award 2020 <
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Membina Taman dengan Kanak-kanak: Taman untuk Kanak-kanak Meneroka, Menemui, Bermain dan Berkembang Menjadi Penutur Dwibahasa yang Yakin dan Pelajar yang Berdaya tahan Tinggi<br/> 
-		[Recordings will be made available online from 27 August 2022] <br/><br/>
+		[Available online from 27 Aug 22]
+ <br/><br/>
 Dr Raudhah Yahya  <br/>
 		Lecturer<br/>NIEC-NP </td>
     <td style="border: none;
@@ -177,8 +180,8 @@ Dr Raudhah Yahya  <br/>
   <tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff;font-family:Lato,sans-serif;font-size:18px;">Dari Cetak ke Layar: Memanfaatkan Penggunaan Video untuk Menjana Minat Murid terhadap Bahasa<br/>
-	[Recording will be made available online from 27 August 2022]
-  <br/><br/>
+	[Available online from 27 Aug 22]
+<br/><br/>
 Mr Muhamad Shahzulhari bin Johari <br/>
 		Malay Language Teacher<br/>Wellington Primary School <br/>
         <br/>
