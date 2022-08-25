@@ -228,9 +228,7 @@ table.center {
     <img src="/images/Pic-Sec-ML-18.png" style="width:100%">
   </div>
 </div>
-	<br><br><tr>
-	<div>
-<h4>PROGRAM BERTERUSAN: KEM MLEP</h4></div>
+<br><h4>PROGRAM BERTERUSAN: KEM MLEP</h4>
 <p>Kem MLEP yang telah berlangsung pada 
 2 dan 3 Jun 2022.</p>
 
