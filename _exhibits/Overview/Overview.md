@@ -41,8 +41,7 @@ third_nav_title: Overview
   cursor:pointer;
   margin-right: 10px;
   margin-bottom: 7px;
-   width:31%;
-  
+   width:31%;  
 }
 .btnClass1:hover {
 background-color: lightgrey;!important;
@@ -60,8 +59,7 @@ background-color: lightgrey;!important;
 <a href="/exhibits/melayu-malay-language-exhibitions-a/gambaran-keseluruhan"><div style="display:inline-block; font-family:Lato,sans-serif;font-size:25px;" class="btnClass1">Pameran Bahasa Melayu</div></a>
 <a href="/exhibits/tmail-exhibitions-a/tl-overview"> <div style="display:inline-block; font-family:Anjal New InaiMathi Sch Book;;font-size:25px;" class="btnClass1">தமிழ்மொழிக் காட்சிக்கூடம்</div></a>
 	</div></div>
-	
- <br/>
+	<br>
  <p style="font-size: 16px;font-family: Lato,sans-serif;font-style:italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <img src="/images/Explore-MTLS_Mascot_Scavenger-V1-04.png
 " style="width:30%; float:right;">
