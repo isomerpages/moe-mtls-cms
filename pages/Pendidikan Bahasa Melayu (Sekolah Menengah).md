@@ -236,8 +236,17 @@ table.center {
 <img src="/images/ML Sec 3.jpg"><br/>
 <h4>PROGRAM BERTERUSAN: TINTA AKSARA</h4>
 <p>Penulisan pelajar Menengah 3 dan 4</p>
-<img src="/images/ML Sec 1v2.jpg"><br/>
-<img src="/images/Pic-Sec-ML-23.png"><br/>
+<div class="row">
+ <div class="column">
+  <img src="/images/ML Sec 1v2.jpg" /><span style="font-size:20px">
+</span><br />
+</div>
+  <div class="column">
+  <img src="/images/Pic-Sec-ML-23.png" /><span style="font-size:20px">
+</span>
+</div>
+ </div>
+<br/>
 <img src="/images/Pic-Sec-ML-24.png"><br/>
 <h4> PROGRAM DIGITAL ALTERNATIF</h4>
 <p>Bengkel Pengayaan Maya untuk pelajar Menengah 2 dan 3</p>
