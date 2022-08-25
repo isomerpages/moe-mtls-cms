@@ -227,7 +227,7 @@ table.center {
   <div class="columnimg1">
     <img src="/images/Pic-Sec-ML-18.png" style="width:100%">
   </div>
-</div>  
+</div>  <&nbsp>
 <br/><br/>
 <h4>PROGRAM BERTERUSAN: KEM MLEP</h4>
 <p>Kem MLEP yang telah berlangsung pada 
