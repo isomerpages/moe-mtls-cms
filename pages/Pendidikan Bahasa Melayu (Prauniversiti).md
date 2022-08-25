@@ -168,11 +168,11 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
  </div><br/>
 <div class="row">
  <div class="column">
-  <img src="/images/Pic-PreUni-9.png" /><span style="font-size:20px">
+  <img src="/images/Cover Saujana 2020 for MTLS v2.jpg" /><span style="font-size:20px">
 </span><br />
 </div>
   <div class="column">
-  <img src="/images/Pic-PreUni-10.png" /><span style="font-size:20px">
+  <img src="/images/Cover of Saujana 2021 for MTLS v2.jpg" /><span style="font-size:20px">
 </span>
 </div>
  </div>
