@@ -135,7 +135,7 @@ PCF Sparkletots @ Paya Lebar Blk 125</center>
      <div class="column">
 <img src="/images/OPMTLPic/Bathmavathi-Kupusamy-merit-award.png" style="width:54%">
  <p> <center>Mdm Bathmavathi Kupusamy<br /><span style="font-family:Anjal InaiMathi; font-size:18px;">திருவாட்டி  பத்மாவதி குப்புசாமி</span><br>
-M.Y WORLD @ Punggol Edge</center>
+MOE Kindergarten @ Punggol Green</center>
  </p>
     </div>
   </div><p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;text-align:justify;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
