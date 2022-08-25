@@ -266,7 +266,7 @@ table.center {
 <p>Sertailah program-program yang menggalakkan penggunaan dan pembelajaran Bahasa Melayu.</p>
 <table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
 	font-weight: 700;"> Majlis Bahasa Melayu Singapura – Bulan Bahasa</td></table>
-<p ><span class="dot"><a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa</a>
+<p ><a href="https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa" target="_blank">https://www.languagecouncils.sg/mbms/my/bulan-buhasa/bulan-bahasa</a>
 </p>
 <p><strong>CITA</strong><br> Aspirasi kita: Kita mahukan bahasa Melayu kekal relevan dalam kehidupan kita. </p>
 <p><strong>CITRA</strong><br> Bahasa, sastera dan Budaya Melayu dalam pelbagai corak kehidupan negara ialah citra kita.</p>
