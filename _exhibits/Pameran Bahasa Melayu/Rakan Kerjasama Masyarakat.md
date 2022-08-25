@@ -180,7 +180,7 @@ text-decoration:none;
 <table style="border-collapse: collapse;
   width: 100%;">
   <tr>
-    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Lembaga Warisan Negara<br />Lembaga Warisan Negara<br/>
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Kenali Bahasa Melayu Melalui Warisan dan Budaya<br />Lembaga Warisan Negara<br/>
 		[National Heritage Board]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
