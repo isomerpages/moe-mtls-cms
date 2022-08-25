@@ -143,7 +143,8 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
 <li>Perkhemahan Kesusasteraan</li>
 <li>Program Penyerapan ke Luar Negara </li>
 <li>Penghasilan karya kreatif dan esei oleh pelajar MLEP untuk dibukukan dalam penerbitan MOE, Saujana Pujangga </li>
-	<h4 style="text-align:center;">Perkhemahan Kesusasteraan</h4>
+<span style="font-size:20px;text-align:center">Perkhemahan Kesusasteraan
+</span><br><br>
 <div class="row">
  <div class="column">
   <img src="/images/Pic-PreUni-5-min.jpg" /><span style="font-size:20px">
@@ -176,9 +177,10 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
 </span>
 </div>
  </div>
- <p style="text-align:center">Penerbitan karya pelajar - Saujana Pujangga</p>
- <h4 style="color:green;">Program Penyerapan ke Luar negara
-</h4>
+<span style="font-size:20px;text-align:center">Penerbitan karya pelajar - Saujana Pujangga
+</span> <br><br>
+<span style="font-size:20px">Program Penyerapan ke Luar negara
+</span>
 <p><img src="/images/Pic-PreUni-11.png" /></p>
 <br />
 <div class="row">
