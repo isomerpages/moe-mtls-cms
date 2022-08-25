@@ -84,10 +84,8 @@ max-width:30%;
       <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a>
     </td>
     </tr>
-</table>
-    <div class="sp2">
-    <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_12.jpg" style="display:none;" />
-    </div>
+</table><br/>
+    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/742934549?h=0858b7cd28&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="(26) Dr Sukuna (Main) v4"></iframe></div>
     <br />
 <br />
      <div class="tlimg">
