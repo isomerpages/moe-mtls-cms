@@ -34,5 +34,9 @@ description: ""
  <p><a href="/exhibits/melayu-malay-language-exhibitions-e/community-partners/" style="float:left;" class="backbtn">Back</a><br /></p>
 <p><img src="/images/Posters/04 LKYFB ML V3.jpg" />
 <br /><br /></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VUyOnIVqZhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<span style="font-size:24px;font-weight:bold">Video Peringatan sempena Ulang tahun ke-10 Dana Kedwibahasaan Lee Kuan Yew</span><br><span style="font-size:20px">Tonton Video Peringatan ini dan layari perjalanan kedwibahasaan Dana LKYFB sepanjang sedekad. </span>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=yMWWiMqa20I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<span style="font-size:18px;">Perbincangan Meja Bulat</span><br><span style="font-size:24px;font-weight:bold">Kedwibahasaan di Singapura pada Tahun 2030 – Visi Kami dan Laluan ke Hadapan </span>
 <p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;text-align:justify;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>
