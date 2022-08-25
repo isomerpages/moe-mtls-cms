@@ -32,7 +32,7 @@ description: ""
 }
  </style>
  <p><a href="/exhibits/melayu-malay-language-exhibitions-e/community-partners/" style="float:left;" class="backbtn">Back</a><br /></p>
-<p><img src="/images/Posters/04 LKYFB ML V3.jpg" />
+<p><img src="/images/Posters/04 LKYFB ML V4.jpg" />
 <br /><br /></p>
 <span style="font-size:24px;font-weight:bold">Video Peringatan sempena Ulang tahun ke-10 Dana Kedwibahasaan Lee Kuan Yew</span><br><span style="font-size:20px">Tonton Video Peringatan ini dan layari perjalanan kedwibahasaan Dana LKYFB sepanjang sedekad. </span>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VUyOnIVqZhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
