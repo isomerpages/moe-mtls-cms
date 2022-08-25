@@ -3,7 +3,6 @@ title: Mdm Hazizah Binte Ibrahim
 permalink: /Hazizah-Binte-Ibrahim
 description: ""
 ---
-
 <style>
   img {
 height:auto;
@@ -24,7 +23,8 @@ max-width:100%;
     font-weight: 600;
 }
 </style>
-  <a href="/OPMTL-Award" style="float:left;">Back</a>
+  <a href="/OPMTL-Award" style="float:left;">Back</a><br>
+	<h4  style="font-family:Lato,sans-serif;font-size:35px;">Anugerah Guru Prasekolah Bahasa Ibunda Cemerlang (Anugerah Cemerlang)</h4><br>
  <img src="/images/OPMTLPic/MTLS_OPMTL_Awards_V3_Mdm-Hazizah-Binte-Ibrahim.png" style="width:100%" />
     <br>
 <h4> Petikan Guru </h4>
