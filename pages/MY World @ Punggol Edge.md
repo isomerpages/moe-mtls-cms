@@ -1,5 +1,5 @@
 ---
-title: M.Y World @ Punggol Edge
+title: M.Y &nbsp; World @ Punggol Edge
 permalink: /MY-World-exhibition
 description: ""
 ---
