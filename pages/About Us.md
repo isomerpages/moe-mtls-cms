@@ -33,6 +33,7 @@ description: ""
   right: 0;
   width: 100%;
   border: none;
+	height:auto;
 }
 	</style>
 <img src="/images/MTLS22_Organised by.png">
