@@ -19,11 +19,11 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
-		.video-container {
+	.video-container {
   position: relative;
   width: 100%;
   overflow: hidden;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+  padding-top: 56.25%; 
 }
 .responsive-iframe {
   position: absolute;
