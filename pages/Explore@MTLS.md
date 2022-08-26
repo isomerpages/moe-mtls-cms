@@ -10,7 +10,7 @@ description: ""
 <a href="https://gametize.com/gameteaser?id=13167" target="_blank">Explore Here!</a>
 
 Click here to download the Explore@MTLS Activity Package:<br/>
-<a href="/files/Explore@MTLS_CL_V7.pdf" target="_blank">Explore@MTLS Activity Package (Chinese Language)</a><br/>
+<a href="/files/Explore@MTLS_CL.pdf" target="_blank">Explore@MTLS Activity Package (Chinese Language)</a><br/>
 <a href="/files/Explore@MTLS_ML_V6.pdf" target="_blank">Explore@MTLS Activity Package (Malay Language)</a><br/>
 <a href="/files/Explore@MTLS_TL_V7.pdf" target="_blank">Explore@MTLS Activity Package (Tamil Language)</a><br/>
 
