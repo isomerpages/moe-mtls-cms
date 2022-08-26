@@ -49,7 +49,7 @@ description: ""
 <a href="/ms-wang-zheng"><img src="/images/Programme/16-Live-CL.jpg"></a><br>
 <a href="/ms-fiza-o-and-mdm-salha-bte-mohamed-hussain"><img src="/images/Programme/17-Live-ML.jpg"></a><br>
 <a href="/mr-jaya-ganesh-isuran"><img src="/images/Programme/18-Live-TL.jpg"></a><br><br>
-<img src="/images/Programme/19-Engagement-Header.jpg"><br>
+<img src="/images/Programme/19-Engagement-Header v2.jpg"><br>
 <a href="/mdm-jiang-yanyan"><img src="/images/Programme/20-Engagement-CL.jpg"></a><br>
 <a href="mr-djohan-bin-abdul-rahman-and-ms-nurain-binte-tajudeen"><img src="/images/Programme/21-Engagement-ML.jpg"></a><br>
 <a href="/ms-sajini-naidu"><img src="/images/Programme/22-Engagement-TL.jpg"></a>
