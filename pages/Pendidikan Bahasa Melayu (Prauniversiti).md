@@ -89,9 +89,7 @@ width:90% ;
   </table>
 <table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
 	font-weight: 700;"> Maktab Rendah yang menawarkan MLEP</td></table>
-	   <p style="font-weight:bold;text-align:left;">Maktab Rendah yang menawarkan MLEP:</p>
- 
-  <ul>
+ <ul>
   	<li>Maktab Rendah Jurong Pioneer</li>
   		<li>Maktab Rendah Kebangsaan</li>
   			<li >Institusi Raffles</li>
@@ -100,12 +98,11 @@ width:90% ;
   </ul>
 <table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
 	font-weight: 700;"> Kemasukan ke Maktab Rendah</td></table>
-	<p style="font-weight:bold;text-align:left;">   Kemasukan ke Maktab Rendah:</p>
 	<p style="font-weight:bold;text-align:left;">     
 Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
 	 <ul>
   	<li>Pelajar Menengah 4 atau 5 mohon ke Maktab Rendah berdasarkan pencapaian dan kecenderungan mereka sebelum keputusan peperiksaan GCE Peringkat ‘O’ diumumkan.</li>
-  		<li>Permohonan dibuka pada pertengahan Mei hingga akhir Jun.</li>	
+<li>Permohonan dibuka pada pertengahan Mei hingga akhir Jun.</li>	
   </ul>
 	
 <p style="font-weight:bold;text-align:left;">     
