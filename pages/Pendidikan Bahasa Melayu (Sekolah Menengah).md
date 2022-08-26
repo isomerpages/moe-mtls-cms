@@ -105,7 +105,7 @@ table.center {
 </center>
   <h4 style="font-size:25px;color:green;">EMPAT CIRI UTAMA</h4>
   <p>Kurikulum Bahasa Melayu (Sekolah Menengah) 2021 menyerlahkan empat ciri utama yang berikut:</p>
-  <img src="/images/MTLS2022_ML_Curriculum_V3_SecSch_1-2.jpg"><br>
+  <img src="/images/MTLS2022_ML_Curriculum_V4_SecSch_1-2.jpg"><br>
 <div class="row">
   <div class="column">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/XjIcQkdKENM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br />
