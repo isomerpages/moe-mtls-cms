@@ -19,21 +19,10 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
-	.video-container {
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-  padding-top: 56.25%; 
-}
-.responsive-iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  border: none;
-	height:auto;
+@media only screen and (max-width: 600px) {
+  iframe {
+    width:100%;
+  }
 }
 	</style>
 <img src="/images/MTLS22_Organised by.png">
