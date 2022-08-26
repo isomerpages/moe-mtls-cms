@@ -35,12 +35,12 @@ description: ""
     color: #fff;
     font-weight: 600;
 }
-  @media only screen and (max-width: 600px){ 
-  .btn1,.btn2{
-   margin-left: -6px;
-    padding: 1px 8px;
-  }
-  }
+ @media only screen and (max-width: 600px) {
+    .btn1 {
+    margin-left: -2px;
+    width: 101%;
+ }
+}
   .btn1,.btn2{
       font-size: 18px;
     font-family: Lato,sans-serif;
