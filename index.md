@@ -68,14 +68,4 @@ sections:
       url: /activities
       image: /images/Online QuestNew.jpg
       alt: Image alt text
-  - infopic:
-      title: Explore@MTLS
-      subtitle: A fun-filled activity package!
-      description: Unleash your child’s creativity and critical thinking by
-        downloading this fun-filled learning package! Have a chance to redeem a
-        limited-edition MTLS souvenir!
-      button: Explore here
-      url: /Explore-MTLS-Activity
-      image: /images/ExploreMTLSNew.jpg
-      alt: Image alt text
 ---
