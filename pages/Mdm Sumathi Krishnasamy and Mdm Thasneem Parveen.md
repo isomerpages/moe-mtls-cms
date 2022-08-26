@@ -93,7 +93,7 @@ max-width:30%;
 <img src="/images/TL-Mdm-Sumathi-Krishnasamy.png" style="width:100%" />
    </div>
     <p style="font-family:Lato,sans-serif;"><strong>Mdm Sumathi Krishnasamy </strong><br/>
-            <span style="font-family:Anjal InaiMathi;"> <strong>திருமதி சுமதி</strong></span><br />
+<span style="font-family:Anjal InaiMathi;"> <strong>திருமதி சுமதி</strong></span><br />
    </p>
     <div class="column">
 <img src="/images/TL-Mdm-Thasneem.png" style="width:100%" />
@@ -101,6 +101,8 @@ max-width:30%;
     <p style="font-family:Lato,sans-serif;"><strong>Mdm Thasneem Parveen D/O Sirazudeen </strong><br/>
             <span style="font-family:Anjal InaiMathi;text-align:justify;"> <strong>திருமதி தஸ்னீம் பர்வீன்</strong></span><br />
    </p>
+<h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">விளையாடு; கற்றுக்கொள்; முன்னேறு!
+விளையாட்டுவழிக் கற்றல் கற்பித்தல்</h4>
     <h4 id="C1" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;text-align:justify;">தன்விவரம்</h4>
  <p style="margin:10px;font-family:Anjal InaiMathi;text-align:justify;">
  திருமதி சுமதி ஹொராய்சன் தொடக்கப்பள்ளியில் மூத்த ஆசிரியராகப் பணிபுரிகிறார். இவர் 25 வருட காலமாகக் கற்பித்தல் துறையில் தம் பங்கை ஆற்றி வருகிறார். 2018-ஆம் ஆண்டில் இவருக்கு நல்லாசிரியருக்கான விருது வழங்கப்பட்டது. இவர் தற்போது N4 குழுமத்தின் தலைவராகவும் வட்டாரக் குழுமத்தின் ஓர் உறுப்பினராகவும் இருக்கின்றார். இவர் MOE ExcelFest, தாய்மொழிகளின் கருத்தரங்கு, உலகத் தமிழாசிரியர் மாநாடுகள், ஆசிரியர் வழிநடத்தும் பயிலரங்குகள், தமிழ்மொழி வலையரங்கம் போன்றவற்றில் பகிர்ந்துகொண்டுள்ளார்.
