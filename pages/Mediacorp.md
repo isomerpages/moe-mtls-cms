@@ -32,7 +32,7 @@ description: ""
 }
  </style>
  <p><a href="/exhibits/melayu-malay-language-exhibitions-e/community-partners/" style="float:left;" class="backbtn">Back</a><br /></p>
-<p><img src="/images/Posters/Mediacorp-ML-V3.jpg" />
+<p><img src="/images/Posters/ML-Mediacorp-V4.jpg" />
 <br /><br /></p>
 <a href="https://www.mewatch.sg/watch/X-Y-and-Zain-E1-HEART-273816" target="_blank">Episode 1 – Xoey & Yuri Meets the Heart </a><br/>
 <a href="https://www.mewatch.sg/watch/X-Y-and-Zain-E7-BICEPS-TRICEPS-283986" target="_blank">Episode 7 – Xoey & Yuri Meets Biceps & Triceps</a><br/>
