@@ -53,7 +53,7 @@ width:100% ;
  <a href="#C2" style="font-size:20px"><span style="color:blue;font-family:Calibri">Sokongan Ibu Bapa</span></a>
 </p>
 <br />
-  <img src="/images/MTLS2022_ML_Curriculum_V3_PriSch_1.jpg" />
+  <img src="/images/MTLS2022_ML_Curriculum_V4_PriSch_1.jpg" />
   <img src="/images/MTLS2022_ML_Curriculum_V3_PriSch_2.jpg" class="image" />  <br />
   <h4 id="C1" style="font-size:30px;"><strong>BAHAN PENGAJARAN DAN PEMBELAJARAN
 </strong></h4>
