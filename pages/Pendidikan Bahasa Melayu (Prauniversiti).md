@@ -87,8 +87,7 @@ width:90% ;
     <td><img src="/images/Pic-PreUni-3.png" /></td>
    </tr>
   </table>
-<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
-	font-weight: 700;"> Maktab Rendah yang menawarkan MLEP</td></table>
+<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;font-weight: 700;"> Maktab Rendah yang menawarkan MLEP</td></table>
  <ul>
   	<li>Maktab Rendah Jurong Pioneer</li>
   		<li>Maktab Rendah Kebangsaan</li>
@@ -96,36 +95,31 @@ width:90% ;
   				<li>Maktab Rendah Tampines Meridian</li>
   					<li >Maktab Rendah Yishun Innova</li>
   </ul>
-<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
-	font-weight: 700;"> Kemasukan ke Maktab Rendah</td></table>
+<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;font-weight: 700;"> Kemasukan ke Maktab Rendah</td></table>
 	<p style="font-weight:bold;text-align:left;">     
 Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
 	 <ul>
   	<li>Pelajar Menengah 4 atau 5 mohon ke Maktab Rendah berdasarkan pencapaian dan kecenderungan mereka sebelum keputusan peperiksaan GCE Peringkat ‘O’ diumumkan.</li>
 <li>Permohonan dibuka pada pertengahan Mei hingga akhir Jun.</li>	
   </ul>
-	
-<p style="font-weight:bold;text-align:left;">     
+	<p style="font-weight:bold;text-align:left;">     
    Permohonan menerusi Latihan Permohonan Bersama (JAE)</p>
 	 <ul>
   	<li>   Pelajar memohon ke Maktab Rendah selepas keputusan peperiksaan GCE Peringkat ‘A’ diumumkan.</li>
   		<li>   Untuk layak, pelajar perlu menawarkan subjek H2 Bahasa dan Kesusasteraan Melayu (H2MLL) dalam permohonan mereka.</li>	
   </ul>
-	
-<p style="font-weight:bold;text-align:left;">     
+	<p style="font-weight:bold;text-align:left;">     
      Mata Bonus</p>
 	 <ul>
   	<li> Pelajar yang berjaya memasuki Program MLEP-JC akan mendapat dua mata bonus untuk kemasukan ke maktab rendah yang menawarkan program ini.</li>
   </ul>
-
-<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
-	font-weight: 700;"> Biasiswa MLEP-JC (MLES)</td></table>
-
+<table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px; font-weight: 700;"> Biasiswa MLEP-JC (MLES)</td></table>
+<ul>
 <li>Warganegara Singapura</li>
 <li>Cemerlang dalam keputusan akademik</li>
 <li>Biasiswa bernilai $1,000 setiap tahun selama dua tahun</li>
 <li>Yuran sekolah akan dibiayai (terhad pada $2,400 setiap tahun)</li>
-<li>Subsidi penuh bagi Program Penyerapan ke Luar Negara</li>
+	<li>Subsidi penuh bagi Program Penyerapan ke Luar Negara</li></ul>
 <br>
 <p>Sila klik pautan-pautan di bawah ini jika ingin informasi selanjutnya.</p>
 <p><a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang Program Elektif Bahasa Melayu  </a></p>
