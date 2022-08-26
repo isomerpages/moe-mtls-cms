@@ -119,8 +119,8 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
 <li>Cemerlang dalam keputusan akademik</li>
 <li>Biasiswa bernilai $1,000 setiap tahun selama dua tahun</li>
 <li>Yuran sekolah akan dibiayai (terhad pada $2,400 setiap tahun)</li>
-	<li>Subsidi penuh bagi Program Penyerapan ke Luar Negara</li></ul>
-<br>
+	<li>Subsidi penuh bagi Program Penyerapan ke Luar Negara</li>
+	</ul>
 <p>Sila klik pautan-pautan di bawah ini jika ingin informasi selanjutnya.</p>
 <p><a href="https://sites.google.com/view/emasmlep/home?authuser=0" target="_blank">Lelaman MOE tentang Program Elektif Bahasa Melayu  </a></p>
 <p><a href="/files/Program-Elektif-Bahasa-Melayu-Maktab-Rendah.pdf" target="_blank">Program Elektif Bahasa Melayu Maktab Rendah(MLEP-JC) </a></p>
