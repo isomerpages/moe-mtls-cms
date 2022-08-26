@@ -95,7 +95,7 @@ max-width:30%;
 <h4 style="font-size:30px;font-family:KaiTi;color:#d84178;text-align:justify;">从学前到小学，为孩童打造积极的华文学习体验</h4>
  <h4 id="C1" style="font-size:30px;font-family:KaiTi;color:#d84178;">介绍</h4>
 <p style="font-size:21px;font-family:KaiTi;text-align:justify;"> 
-郑迎江博士是新加坡教师学院特级教师，目前驻校于布兰雅坡小学、教育部幼儿园(布兰雅坡)’。她与新加坡华文教研中心的同事们一起，致力于提升小学和学前华文教师的专业发展水平。郑博士曾荣获新加坡国庆日表扬奖章、新加坡教育部卓越服务奖和全国模范华文老师奖。她也曾撰写和编辑多部教师专业发展、教学资源方面的著作。</p>
+郑迎江博士是新加坡教师学院特级教师，目前驻校于布兰雅坡小学、教育部幼儿园(布兰雅坡)。她与新加坡华文教研中心的同事们一起，致力于提升小学和学前华文教师的专业发展水平。郑博士曾荣获新加坡国庆日表扬奖章、新加坡教育部卓越服务奖和全国模范华文老师奖。她也曾撰写和编辑多部教师专业发展、教学资源方面的著作。</p>
 <h4 style="color:#d84178;font-family:Lato,sans-serif;">Profile</h4>  
    <p style="font-family:Lato,sans-serif;text-align:justify;">
 Dr Zheng Yingjiang is a school-based Master Teacher (Blangah Rise Primary School and MOE Kindergarten @ Blangah Rise) with the Academy of Singapore Teachers, Ministry of Education. Meanwhile, she is committed to working with her colleagues towards improving professional development for primary and pre-school teachers at the Singapore Centre for Chinese Language. Dr Zheng has been conferred with the National Day Commendation Medal, MOE Service Excellence Award and the National Inspiring Chinese Language Teachers’ Award. She is also an author and editor of teachers’ professional development and teaching and learning resources.
