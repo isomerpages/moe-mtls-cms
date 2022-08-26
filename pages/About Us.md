@@ -40,14 +40,12 @@ description: ""
 	<p style="text-align:justify;font-family:Lato,sans-serif; ">This year, MTLS will be a hybrid event featuring both physical and online components.</p>
 	<p style="text-align:justify;font-family:Lato,sans-serif; ">After ten iterations, MTLS has established its own branding and achieved its intended outcomes considerably. It is an annual event that many children, parents, community partners and MTL educators look forward to.</p>
 <h3> Our Past Symposiums</h3>
-	 <center>
 <div class="video-container">
-<iframe class="responsive-iframe" width="642" height="361" src="https://www.youtube.com/embed/wvuiXKf_bJ4" title="MTLS 2019 Event Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write;" allowfullscreen></iframe></center></div>
+<iframe class="responsive-iframe" width="642" height="361" src="https://www.youtube.com/embed/wvuiXKf_bJ4" title="MTLS 2019 Event Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write;" allowfullscreen></iframe></div>
 <br/><br/>
 		 <div class="video-container">
-	<center>
-<iframe class="responsive-iframe" width="642" height="361" src="https://www.youtube.com/embed/RXaW1jeuEj4" title="MTLS 2018 Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write;" allowfullscreen></iframe></center></div>
-	<br/>
+<iframe class="responsive-iframe" width="642" height="361" src="https://www.youtube.com/embed/RXaW1jeuEj4" title="MTLS 2018 Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write;" allowfullscreen></iframe></div>
+	<br>
 	<br><br><br>
 <img src="/images/MTLS Supported By_Banner 1500x300.jpg"><br><br>
 	<p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.
