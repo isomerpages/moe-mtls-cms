@@ -85,10 +85,11 @@ table.center {
 <p style="text-align:justify;">Kurikulum Bahasa Melayu Peringkat Sekolah Menengah bertujuan untuk melengkapkan pelajar dengan kecekapan berkomunikasi dan menjalin hubungan dengan pihak lain dalam konteks kehidupan di Singapura, rantau dan dunia. Tiga tujuan umum pengajaran dan pembelajaran Bahasa Ibunda adalah untuk:
 <br /><br />
 <img src="/images/MTLS2022_ML_Curriculum_V4_SecSch_1.jpg" /><br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WSq_Lrb2788" title="Bahasa Melayu (Sekolah Menengah) 2021" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br />
+
  <h4 style="font-size:25px;color:green;">KURIKULUM SEKOLAH MENENGAH<br/>
 (Pelaksanaan bermula pada tahun 2021, kohort Menengah 1)
 </h4>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/WSq_Lrb2788" title="Bahasa Melayu (Sekolah Menengah) 2021" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br />
    <center>
  <table style="column-width:50%">
   <tr>
@@ -209,7 +210,7 @@ table.center {
 <p>Simposium EMAS untuk pelajar Menengah 3 dan 4</p>
 <img src="/images/Pic-Sec-ML-14.png"><br/>
 <p style="font-size:25px;color:green;font-weight:bold;"> Program MLEP-Menengah</p>
-<img src="/images/MTLS2022_ML_Curriculum_V3_SecSch_4.jpg"><br/>
+<img src="/images/MTLS2022_ML_Curriculum_V4_SecSch_4.jpg"><br/>
 <h4>PROGRAM BERTERUSAN: SEMINAR MLEP</h4>
 <p>Seminar MLEP yang telah berlangsung pada 1 Jun 2022.</p>
 <div class="rowimg1">
