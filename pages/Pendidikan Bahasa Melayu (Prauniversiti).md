@@ -128,12 +128,14 @@ Pengambilan Masuk ke Sekolah Secara Langsung (DSA-JC)</p>
 <table><td style="text-align: left;background-color:#008000;font-size: 22px;color: #fff;font-size:25px;
 	font-weight: 700;"> Aktiviti-aktiviti program MLEP-JC</td></table>
 <p><strong>Program Perdana anjuran MOE:</strong>  <br/>
+	<ul>
 <li>Forum dan Ceramah</li>
 <li>Bengkel Penterjemahan</li>
 <li>Bengkel Penulisan Kreatif</li>
 <li>Perkhemahan Kesusasteraan</li>
 <li>Program Penyerapan ke Luar Negara </li>
 <li>Penghasilan karya kreatif dan esei oleh pelajar MLEP untuk dibukukan dalam penerbitan MOE, Saujana Pujangga </li>
+	</ul>
 	<h4 style="text-align:center;color:#000000">Perkhemahan Kesusasteraan</h4>
 <div class="row">
  <div class="column">
