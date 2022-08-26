@@ -84,10 +84,8 @@ max-width:30%;
       <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a>
     </td>
     </tr>
-</table>
-    <div class="sp2">
-    <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_12.jpg" style="display:none;" />
-    </div>
+</table><br/>
+   <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/739605781?h=9d098649d0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Let&amp;#039;s Speak in Tamil with our Children!"></iframe></div>
     <br />
 <br />
      <div class="tlimg">
@@ -104,7 +102,7 @@ max-width:30%;
 <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">Profile</h4>
        <p style="margin:10px;font-family:Lato,sans-serif;text-align:justify;">Mr Jaya Ganesh Isuran is a very familiar face in the entertainment industry, known for his roles in Mediacorp’s Vasantham dramas. He was also a radio jockey at Oli 96.8FM, and was a dancer and host for live shows such as Vasantham Star. Mr Ganesh has also been featured on CNA and Today Online due to his popularity in the Tamil media. A recipient of multiple awards at PradhanaVizha 2021, he is also an entrepreneur and a proud father of two boys, ages 4 and 5.</p>
        <h4 style="padding-top:12px;margin:10px;color:#9b4490;font-family:Lato,sans-serif;">
-             Let us Speak in Tamil with Our </h4>
+             Let us Speak in Tamil with Our Children!</h4>
  <h4 id="C2" style="padding-top:12px;margin:10px;color:#9b4490;font-family:Anjal InaiMathi;">சுருக்கவுரை</h4>
        <p style="margin:10px;font-family:Anjal InaiMathi;text-align:justify;">
  வசந்தம் தொலைக்காட்சி, வானொலி நாடகங்களில் முத்திரை பதித்துவரும் திரு. ஜெய கணேஷ் தம் அனுபவங்களைப் பகிர்ந்துகொள்வார். இரு குழந்தைகளுக்குத் தந்தையான இவர், எவ்வாறு இல்லங்களில் தமிழ்மொழிச் சூழலை உருவாக்கலாம் என்பது குறித்த தம் அனுபவத்தையும் சில பயனுள்ள உத்திமுறைகளையும் விளக்குவார். இவர் சந்தித்த சவால்களையும் இவற்றை எதிர்கொள்ள மேற்கொண்ட முயற்சிகளையும் கண்ட வெற்றிகளையும் இவருக்கே உரிய நகைச்சுவை ததும்பும் பாணியில் எடுத்துரைப்பார். பெற்றோர்கள் தமிழ்மொழிப் புழக்கத்திற்கு உதவும் வீட்டுச் சூழலை அமைத்து, வீட்டில் தமிழ்ப்புழக்கம் இருப்பதை உறுதிசெய்ய இந்தப் பகிர்வு துணைபுரியும்.
