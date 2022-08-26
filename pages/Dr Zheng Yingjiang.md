@@ -81,10 +81,8 @@ max-width:30%;
   text-align: left;padding: 8px;width: 43%;">
       <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a></td>
     </tr>
-</table>
-    <div class="sp2">
-    <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_10.jpg" style="display:none;" />
-    </div>
+</table><br/>
+    <iframe src="https://player.vimeo.com/video/739595017?h=36066a40f6&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <br />
     <div class="climg">
   <div class="column">
