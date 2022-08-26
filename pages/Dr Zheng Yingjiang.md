@@ -82,7 +82,7 @@ max-width:30%;
       <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a></td>
     </tr>
 </table><br/>
-    <iframe src="https://player.vimeo.com/video/739595017?h=36066a40f6&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/739595017?h=36066a40f6&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 <br />
     <div class="climg">
   <div class="column">
