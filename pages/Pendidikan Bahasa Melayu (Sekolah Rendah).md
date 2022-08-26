@@ -73,7 +73,7 @@ width:100% ;
    </div>
    </div>
    <h4 id="C2" style="font-size:30px;">Sokongan Ibu Bapa</h4>
-   <img src="/images/MTLS2022_ML_Curriculum_V1_PriSch_7.jpg"><br>
+   <img src="/images/MTLS2022_ML_Curriculum_V4_PriSch_7.jpg"><br>
    <p>Ibu bapa boleh bermain permainan bahasa dengan anak anda agar dapat meningkatkan dan meluaskan kosa kata anak. </p>
 <p><span class="dot"></span>&nbsp;&nbsp;&nbsp;Permainan Kosa Kata </p>
 <img src="/images/MTLS2022_ML_Curriculum_V1_PriSch_8.jpg">
