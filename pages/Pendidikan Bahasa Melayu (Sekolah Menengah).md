@@ -127,21 +127,6 @@ table.center {
   </div>
   </div>
  <img src="/images/MTLS2022_ML_Curriculum_V2_SecSch_2.jpg">
-<h4 style="font-size:25px;color:green;">BAHAN-BAHAN VIDEO KURIKULUM</h4>
-<p>Tontonilah video-video yang berikut untuk mendapatkan maklumat lanjut tentang:</p>
-<li>Kurikulum Bahasa Melayu Sekolah Menengah</li>
-<li> Pengalaman Guru-guru tentang Pelaksanaan Kurikulum</li>
-<br/>
-<div class="row">
-  <div class="column">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WSq_Lrb2788" title="Bahasa Melayu (Sekolah Menengah) 2021" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br />
-    <p style="font-weight:bold;text-align:center;">Pengalaman Guru tentang Pelaksanaan Kurikulum Bahasa Melayu 2021</p>
-  </div>
-  <div class="column">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/hXwe9ccktAo" title="PEMBELAJARAN BAHASA SECARA KOLABORATIF" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-    <p style="font-weight:bold;text-align:center;">Penerangan Kurikulum Bahasa Melayu 2021 (Menengah)</p>
-  </div>
-  </div>
 <h4 style="font-size:25px;color:green;">PEMBELAJARAN TERADUN</h4>
 <p>Pembelajaran Teradun menjadi fitur umum dalam persekolahan pada tahun 2021. Pembelajaran Teradun merupakan pembelajaran yang menggabungkan pembelajaran di rumah dengan pengalaman pembelajaran di sekolah. Pelajar akan mengalami Pembelajaran dari Rumah (HBL) sehari dalam dua minggu, bergantung pada sekolah. Pembelajaran Teradun memperkukuh keupayaan pelajar untuk belajar secara kendiri sejajar dengan gerakan Belajar Sepanjang Hayat yang dianjurkan oleh MOE.</p>
 <h4 style="text-align:justify;"><center>1. Bahan-bahan digital yang menyokong Pembelajaran Teradun</center></h4>
