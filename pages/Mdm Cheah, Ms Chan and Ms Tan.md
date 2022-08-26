@@ -105,8 +105,8 @@ max-width:30%;
    </p>
  <h4 id="C1" style="font-size:30px;font-family:KaiTi;color:#d84178;">介绍</h4>
    <p style="font-size:21px;font-family:KaiTi;"> 
-成为专职母亲之前，谢欣薇从事广告设计的工作。她在香港工作10年，于2003年返回新加坡。两个孩子出世至今，欣薇一直有意识地在家中跟他们使用华语沟通。</p>
-<p style="font-size:21px;font-family:KaiTi;text-align:justify;">陈伟妮是HashTaqs 私人有限公司的创办人兼董事经理，也是H.E.R. Entrepreneur 的创办人。精通双语的她，不仅擅长以英语主持区域论坛，还曾以华语主持中国新加坡商会线上研讨会。身为两个幼童的母亲，她十分重视双语的学习，并积极在家中营造有利于培养孩童双语能力的环境。</p>
+成为专职母亲之前，谢欣薇从事广告设计的工作。她在香港工作10年，于2003年回返新加坡。两个孩子出世至今，谢女士一直有意识地在家中跟她们用华语沟通。</p>
+<p style="font-size:21px;font-family:KaiTi;text-align:justify;">陈伟妮是HashTaqs 私人有限公司的创办人兼董事经理，也是H.E.R. Entrepreneur 的创办人。精通双语的她，不仅擅长以英语主持区域论坛，还曾以华语主持中国新加坡商会线上研讨会。身为两个幼童的母亲，她十分重视双语的学习，并积极在家中营造有利于培养孩子双语能力的环境。</p>
 <h4 style="color:#d84178;font-family:Lato,sans-serif;">Profile</h4>  
 <p style="font-family:Lato,sans-serif;text-align:justify;">
 Mdm Cheah Sin Wei is a stay-home parent. She used to be in the advertising and branding industry and stationed in Hong Kong for about 10 years before returning to Singapore in 2003. She makes a conscious effort to speak to her two children in Mandarin since they were young.
