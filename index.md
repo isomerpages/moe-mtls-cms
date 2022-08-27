@@ -75,7 +75,7 @@ sections:
         downloading this fun-filled learning package! Have a chance to redeem a
         limited-edition MTLS souvenir!
       button: Explore here
-      url: /explore-MTLS
+      url: /Explore-MTLS-Activity
       image: /images/ExploreMTLSNew.jpg
       alt: Image alt text
 ---
