@@ -99,7 +99,7 @@ max-width:30%;
    <div class="climg">
     <img src="/images/CL-Ms-Renee-Tan.png" style="width:100%" />
   </div>
-     <p style="font-family:Lato,sans-serif;"> <strong>Renee Tan </strong><br/>
+     <p style="font-family:Lato,sans-serif;"> <strong>Ms Renee Tan </strong><br/>
    <strong> <span style="font-size:22px;font-family:KaiTi;">陈伟妮 </span></strong><br />
    <strong> <span style="font-size:22px;font-family:Lato,sans-serif;">(Facilitator)</span></strong>
    </p>
