@@ -114,7 +114,7 @@ Mdm Cheah Sin Wei is a stay-home parent. She used to be in the advertising and b
 <p style="font-family:Lato,sans-serif;text-align:justify;">Renee Tan is the Founder and Managing Director of HashTaqs Pte Ltd as well as the Founder of H.E.R. Entrepreneur. Effectively bilingual, Renee is an experienced EL moderator of regional conferences and has hosted Singcham Webinar in Mandarin with Chinese delegates. She is also a mother of two young children, passionately exploring ways to nurture bilingual children at home.</p>
 <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 简介</h4>  
 <h4 id="C2" style="font-family:KaiTi;font-size:30px;color:#d84178;"> 培育双语孩童，方法各异，殊途同归！</h4>  
-<p style="font-size:21px;font-family:KaiTi;text-align:justify;">守护家中使用华语的空间，并坚持用华语和孩子沟通，无疑是培育双语孩子的方法之一。谢欣薇将与我们分享她多年来对这份坚持的感受和寄予的希望，以及她如何在日常生活中让孩子自然而然地爱上华文。此外，欣薇的女儿也加入阵营，以“接收者”的角度分享自己学习华文、华语的历程，使这场分享会更具说服力。
+<p style="font-size:21px;font-family:KaiTi;text-align:justify;">守护家中使用华语的空间，并坚持用华语和孩子沟通，无疑是培育双语孩子的方法之一。谢欣薇将与我们分享她多年来对这份坚持的感受和寄予的希望，以及她如何在日常生活中让孩子自然而然地爱上华文。此外，欣薇的女儿也加入阵营，以“接收者”的角度分享自己学习华文华语的历程，使这场分享会更具说服力。
 </p>
 <p style="font-size:21px;font-family:KaiTi;text-align:justify;">通过母女同台现身说法，这场分享将会让我们体会到在一个以华语为主要用语的家庭里，学习华文华语的乐趣和挑战。 </p>
 <h4 style="color:#d84178;"> Synopsis</h4>  
