@@ -58,14 +58,4 @@ sections:
       alt: Image alt text
       url: https://event-reg.biz/Registration/RegDelegate_MTLS2022InteractiveWorkshop?FLW=sVTQE1ZAU9R70GbnwNjWtA==&SHW=/0fB0bPedlD1kKlGfsVq%7C%7Cg==&GRP=tqqG1TObOL%7C%7CTbw5TUmf2ww==&STP=uTx3HwZBhvahan5gxR/%7C%7CCA==
       image: /images/1200x600_2-100.jpg
-  - infopic:
-      title: Online Quest
-      subtitle: Help our mascots out!
-      description: Join our mascots Xiao Tao, Sani, Kavin and Peppy at the MTLS Joyful
-        Garden!  Help them complete various tasks to keep the garden
-        flourishing!
-      button: Scan the QR Code or click here!
-      url: /activities
-      image: /images/Online QuestNew.jpg
-      alt: Image alt text
 ---
