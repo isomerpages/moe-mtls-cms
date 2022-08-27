@@ -119,7 +119,7 @@ Mdm Cheah Sin Wei is a stay-home parent. She used to be in the advertising and b
 <p style="font-size:21px;font-family:KaiTi;text-align:justify;">通过母女同台现身说法，这场分享将会让我们体会到在一个以华语为主要用语的家庭里，学习华文华语的乐趣和挑战。 </p>
 <h4 style="color:#d84178;"> Synopsis</h4>  
    <p style="font-family:Lato,sans-serif;text-align:justify;" >
-There are many ways of raising bilingual children, and Mdm Cheah’s intentional use of Mandarin at home with her children is one of them. In this session, she will be sharing useful tips on the day-to-day strategies she has adopted to instil love for Chinese in her children. A highlight of this session is the sharing by Mdm Cheah’s daughter of her perspectives on being on the receiving end, which makes the sharing all the more compelling.
+There are many ways of raising bilingual children, and Mdm Cheah’s intentional use of Mandarin at home with her children is one of them. In this session, she will be sharing useful tips on the day-to-day strategies she has adopted to instil love for Chinese in her children. A highlight of this session is the sharing by Mdm Cheah’s daughter of her perspectives on the receiving end, which makes the sharing all the more compelling.
       </p>
       <p style="font-family:Lato,sans-serif;text-align:justify;">Gain authentic insights into the joys and challenges experienced by a Singaporean family that adopts Chinese as the dominant language at home with this pair-sharing by Mdm Cheah and her daughter. </p>
   <br/><br/>
