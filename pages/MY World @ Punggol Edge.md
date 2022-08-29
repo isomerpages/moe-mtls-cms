@@ -32,7 +32,7 @@ description: ""
 }
 </style>
 <a href="/exhibits/pameran-bahasa-melayu-malay-language-exhibitions-c/preschool/" style="float:left;" class="backbtn">Back</a><br>
-<img src="/images/Posters/MTLS_MYWorld_v6.jpg">
+<img src="/images/Posters/MTLS_MYWorld_v8.jpg">
 <br>
 <iframe width="800" height="320" src="https://www.youtube.com/embed/vVjjlMutRdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>Video of sample lesson 1
 <br><br>
