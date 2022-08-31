@@ -12,9 +12,9 @@ sections:
         - title: Exhibits
           description: View all our exhibits here!
           url: /exhibits/overview/overview
-        - title: Register for sharing sessions
-          description: Find out more here!
-          url: /register-now
+        - title: Sharing Sessions
+          description: Watch here!
+          url: /english-session
   - infobar:
       title: Opening Ceremony
       subtitle: Opening Ceremony
