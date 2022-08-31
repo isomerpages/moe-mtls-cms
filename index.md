@@ -12,8 +12,8 @@ sections:
         - title: Exhibits
           description: View all our exhibits here!
           url: /exhibits/overview/overview
-        - title: Register for sharing sessions
-          description: Find out more here!
+        - title: Sharing Sessions
+          description: Watch here!
           url: /register-now
   - infobar:
       title: Opening Ceremony
