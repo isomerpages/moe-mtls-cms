@@ -14,7 +14,7 @@ sections:
           url: /exhibits/overview/overview
         - title: Sharing Sessions
           description: Watch here!
-          url: /register-now
+          url: /english-session
   - infobar:
       title: Opening Ceremony
       subtitle: Opening Ceremony
