@@ -38,7 +38,7 @@ sections:
         Tongue Languages in a fun and engaging way online.
       button: Watch here
       alt: Image alt text
-      url: https://event-reg.biz/Registration/RegDelegate_MTLS2022EngagementSession?FLW=16gFqWgviPD39J0h%7C%7CRNUjA==&SHW=/0fB0bPedlD1kKlGfsVq%7C%7Cg==&GRP=SHatfdeRi657A0m4wzE/Ug==&STP=uTx3HwZBhvahan5gxR/%7C%7CCA==
+      url: /english-session
       image: /images/1200x600_4-100.jpg
   - infopic:
       title: Storytelling Sessions
@@ -47,7 +47,7 @@ sections:
         interactive online Storytelling Sessions. "
       button: Watch here
       alt: Image alt text
-      url: https://event-reg.biz/Registration/RegDelegate_MTLS2022StorytellingSession?FLW=nGOARKRwg7/YcYSAr1kqEQ==&SHW=/0fB0bPedlD1kKlGfsVq%7C%7Cg==&GRP=MP3myIc8Lp0DxoNPRgx8jQ==&STP=uTx3HwZBhvahan5gxR/%7C%7CCA==
+      url: /english-session
       image: /images/1200x600_3-100.jpg
   - infopic:
       title: Interactive Workshops
@@ -56,7 +56,7 @@ sections:
         Interactive Workshops.
       button: Watch here
       alt: Image alt text
-      url: https://event-reg.biz/Registration/RegDelegate_MTLS2022InteractiveWorkshop?FLW=sVTQE1ZAU9R70GbnwNjWtA==&SHW=/0fB0bPedlD1kKlGfsVq%7C%7Cg==&GRP=tqqG1TObOL%7C%7CTbw5TUmf2ww==&STP=uTx3HwZBhvahan5gxR/%7C%7CCA==
+      url: /english-session
       image: /images/1200x600_2-100.jpg
   - infopic:
       title: Online Quest
