@@ -1,6 +1,6 @@
 ---
 title: Mdm Jiang Yanyan
-permalink: /Mdm-Jiang-Yanyan
+permalink: /Mdm-Jiang-Yanyan/
 description: ""
 ---
 <head>
@@ -83,9 +83,8 @@ max-width:30%;
       <a href="#C2" class="btn2" style="color:#fff;">  View Synopsis here</a></td>
     </tr>
 </table>
-    <div class="sp2">
-    <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_10.jpg" style="display:none;" />
-    </div>
+	
+ <a href="/files/Jiang Yanyan Engagement Session - Attachment.pdf" target="_blank">Session Materials</a>
 <br />
     <div class="climg">
   <div class="column">
