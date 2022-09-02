@@ -1,6 +1,6 @@
 ---
 title: Mr Djohan Bin Abdul Rahman &  Ms Nurain Binte Tajudeen
-permalink: /Mr-Djohan-Bin-Abdul-Rahman-And-Ms-Nurain-Binte-Tajudeen
+permalink: /Mr-Djohan-Bin-Abdul-Rahman-And-Ms-Nurain-Binte-Tajudeen/
 description: ""
 ---
 <head>
@@ -85,10 +85,11 @@ max-width:30%;
     </td>
     </tr>
 </table>
-    <div class="sp2">
-    <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_10.jpg" style="display:none;" />
-    </div>
+ <br/><br/>
+	<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/745402087?h=a3a6fe34f7&amp;badge=0&amp;autopause=0&amp;player\_id=0&amp;app\_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ML Engagement Session"></iframe></div>
     <br />
+	<a href="/files/Lampiran Bengkel Interaktif - Kata Adjektif.pdf"target="_blank">Lampiran Bengkel Interaktif - Kata Adjektif</a>
+	<br/>
 <div class="mlimg">
      <div class="column">
 <img src="/images/ML-Mr-Djohan .png" style="width:100%" />
