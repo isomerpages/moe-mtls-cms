@@ -1,6 +1,6 @@
 ---
 title: Ms Nurain Syakirah Binte Nordin
-permalink: /Ms-Nurain-Syakirah-binte-Nordin
+permalink: /Ms-Nurain-Syakirah-binte-Nordin/
 description: ""
 ---
 <head>
@@ -84,10 +84,10 @@ max-width:30%;
     </td>
     </tr>
 </table>
-    <div class="sp2">
-    <img src="/images/2021-08-26_MTLS_Web_Placeholders V1_10.jpg" style="display:none;" />
-    </div>
-    <br />
+<br/><br/>
+	<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/745413326?h=772204d95a&amp;badge=0&amp;autopause=0&amp;player\_id=0&amp;app\_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ML Interactive Session"></iframe></div>
+<br />
+	<a href="/files/Lampiran Sesi Interaktif.pdf" target="_blank">Lampiran Sesi Interaktif</a>
 <br />
     <div class="mlimg">
      <div class="column">
