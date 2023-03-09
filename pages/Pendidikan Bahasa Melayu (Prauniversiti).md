@@ -1,6 +1,6 @@
 ---
 title: Pendidikan Bahasa Melayu (Prauniversiti)
-permalink: /ml-preU
+permalink: /ml-preu/
 description: ""
 ---
 <html>

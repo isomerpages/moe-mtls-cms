@@ -1,6 +1,6 @@
 ---
 title: Ms Zainab
-permalink: /Ms-Zainab/
+permalink: /ms-zainab/
 description: ""
 ---
 <head>

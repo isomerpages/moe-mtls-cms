@@ -1,6 +1,6 @@
 ---
 title: Pusat Bahasa Melayu Singapura
-permalink: /ml-MLCS-exhibition
+permalink: /ml-mlcs-exhibition/
 description: ""
 ---
 <style>

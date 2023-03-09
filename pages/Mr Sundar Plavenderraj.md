@@ -1,6 +1,6 @@
 ---
 title: Mr Sundar Plavenderraj
-permalink: /Mr-Sundar-Plavenderraj
+permalink: /mr-sundar-plavenderraj/
 description: ""
 ---
 <head>

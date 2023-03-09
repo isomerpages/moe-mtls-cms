@@ -1,6 +1,6 @@
 ---
 title: Dana Kedwibahasaan Lee Kuan Yew
-permalink: /ml-LKYFB-Exhibition
+permalink: /ml-lkyfb-exhibition/
 description: ""
 ---
 <style>

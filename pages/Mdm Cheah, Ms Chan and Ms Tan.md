@@ -1,6 +1,6 @@
 ---
 title: Mdm Cheah, Ms Chan and Ms Tan
-permalink: /MdmCheah-and-MsChan-and-MsTan
+permalink: /mdmcheah-and-mschan-and-mstan/
 description: ""
 ---
 <head>

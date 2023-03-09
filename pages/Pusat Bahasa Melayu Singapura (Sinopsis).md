@@ -1,6 +1,6 @@
 ---
 title: Pusat Bahasa Melayu Singapura (Sinopsis)
-permalink: /ML-Language-Centre-of-Singapore-Synopsis
+permalink: /ml-language-centre-of-singapore-synopsis/
 description: ""
 ---
 

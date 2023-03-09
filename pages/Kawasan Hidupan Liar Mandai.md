@@ -1,6 +1,6 @@
 ---
 title: Kawasan Hidupan Liar Mandai
-permalink: /ml-Mandai-Wildlife-Reserve-exhibition
+permalink: /ml-mandai-wildlife-reserve-exhibition/
 description: ""
 ---
 <style>

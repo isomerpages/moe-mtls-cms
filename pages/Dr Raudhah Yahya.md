@@ -1,6 +1,6 @@
 ---
 title: Dr Raudhah Yahya
-permalink: /Dr-Raudhah-Yahya
+permalink: /dr-raudhah-yahya/
 description: ""
 ---
 <head>

@@ -1,6 +1,6 @@
 ---
 title: Mediacorp
-permalink: /ml-Mediacorp-exhibition
+permalink: /ml-mediacorp-exhibition/
 description: ""
 ---
 <style>

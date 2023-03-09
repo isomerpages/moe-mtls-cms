@@ -1,6 +1,6 @@
 ---
 title: Lembaga Perpustakaan Nasional
-permalink: /MTLS-NLB-ML-exhibition
+permalink: /mtls-nlb-ml-exhibition/
 description: ""
 ---
 <style>

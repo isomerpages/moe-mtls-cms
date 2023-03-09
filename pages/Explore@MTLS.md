@@ -1,6 +1,6 @@
 ---
 title: Explore@MTLS
-permalink: /Explore-MTLS-Activity
+permalink: /explore-mtls-activity/
 description: ""
 ---
 <p>Come take part in Explore@MTLS, a collection of fun and interesting activities, from 27 August! Complete the activities to collect a minimum of 80 points and redeem a limited-edition MTLS souvenir, while stocks last!</p>

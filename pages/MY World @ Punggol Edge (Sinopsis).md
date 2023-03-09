@@ -1,6 +1,6 @@
 ---
 title: M.Y  World @ Punggol Edge (Sinopsis)
-permalink: /ml-MY-World-Punggol-Edge-Synopsis
+permalink: /ml-my-world-punggol-edge-synopsis/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Ms Nurain Syakirah Binte Nordin
-permalink: /Ms-Nurain-Syakirah-binte-Nordin/
+permalink: /ms-nurain-syakirah-binte-nordin/
 description: ""
 ---
 <head>

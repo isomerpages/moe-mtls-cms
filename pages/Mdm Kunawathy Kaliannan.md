@@ -1,6 +1,6 @@
 ---
 title: Mdm Kunawathy Kaliannan
-permalink: /Mdm-Kunawathy-Kaliannan
+permalink: /mdm-kunawathy-kaliannan/
 description: ""
 ---
 <head>

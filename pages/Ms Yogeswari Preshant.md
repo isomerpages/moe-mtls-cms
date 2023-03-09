@@ -1,6 +1,6 @@
 ---
 title: Ms Yogeswari Preshant
-permalink: /Ms-Yogeswari-Preshant/
+permalink: /ms-yogeswari-preshant/
 description: ""
 ---
 <head>

@@ -1,6 +1,6 @@
 ---
 title: M<sup>3</sup>@NeeSoon (Sinopsis)
-permalink: /ml-PA-MESRA-Synopsis
+permalink: /ml-pa-mesra-synopsis/
 description: ""
 ---
 <style>

@@ -1,6 +1,6 @@
 ---
 title: Mr Muhammed Shahril Bin Shaik Abdullah
-permalink: /Mr-Muhammed-Shahril-Bin-Shaik-Abdullah/
+permalink: /mr-muhammed-shahril-bin-shaik-abdullah/
 description: ""
 ---
 <head>

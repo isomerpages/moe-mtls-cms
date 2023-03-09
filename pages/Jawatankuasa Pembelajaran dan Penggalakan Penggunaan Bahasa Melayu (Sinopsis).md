@@ -1,6 +1,6 @@
 ---
 title: Jawatankuasa Pembelajaran dan Penggalakan Penggunaan Bahasa Melayu (Sinopsis)
-permalink: /Malay-Language-Learning-Promotion-Committee-Synopsis
+permalink: /malay-language-learning-promotion-committee-synopsis/
 description: ""
 ---
 

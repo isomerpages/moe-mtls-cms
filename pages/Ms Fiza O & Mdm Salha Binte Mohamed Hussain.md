@@ -1,6 +1,6 @@
 ---
 title: Ms Fiza O & Mdm Salha Binte Mohamed Hussain
-permalink: /Ms-Fiza-O-And-Mdm-Salha-Bte-Mohamed-Hussain
+permalink: /ms-fiza-o-and-mdm-salha-bte-mohamed-hussain/
 description: ""
 ---
 <head>

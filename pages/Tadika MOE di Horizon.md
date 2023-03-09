@@ -1,6 +1,6 @@
 ---
 title: Tadika MOE di Horizon
-permalink: /ml-MK-Horizon-exhibition
+permalink: /ml-mk-horizon-exhibition/
 description: ""
 ---
 <style>

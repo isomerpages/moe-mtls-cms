@@ -1,6 +1,6 @@
 ---
 title: Lembaga Warisan Negara
-permalink: /ml-nhb-exhibition
+permalink: /ml-nhb-exhibition/
 description: ""
 ---
 <style>

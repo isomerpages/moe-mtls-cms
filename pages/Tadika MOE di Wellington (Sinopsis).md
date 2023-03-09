@@ -1,6 +1,6 @@
 ---
 title: Tadika MOE di Wellington (Sinopsis)
-permalink: /ml-MK-Wellington-Synopsis
+permalink: /ml-mk-wellington-synopsis/
 description: ""
 ---
 <style>

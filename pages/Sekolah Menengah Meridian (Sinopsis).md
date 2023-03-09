@@ -1,6 +1,6 @@
 ---
 title: Sekolah Menengah Meridian (Sinopsis)
-permalink: /ml-Meridian-Sec-School-Synopsis
+permalink: /ml-meridian-sec-school-synopsis/
 description: ""
 ---
 <style>

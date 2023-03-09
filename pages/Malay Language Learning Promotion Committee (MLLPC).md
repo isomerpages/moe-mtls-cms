@@ -1,6 +1,6 @@
 ---
 title: Malay Language Learning Promotion Committee (MLLPC)
-permalink: /MLLPC-exhibition
+permalink: /mllpc-exhibition/
 description: ""
 ---
 <style>

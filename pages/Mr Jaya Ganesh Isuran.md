@@ -1,6 +1,6 @@
 ---
 title: Mr Jaya Ganesh Isuran
-permalink: /Mr-Jaya-Ganesh-Isuran
+permalink: /mr-jaya-ganesh-isuran/
 description: ""
 ---
 <head>

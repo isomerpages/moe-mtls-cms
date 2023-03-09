@@ -1,6 +1,6 @@
 ---
 title: Tadika MOE di Horizon (Sinopsis)
-permalink: /ml-MK-Horizon-Synopsis
+permalink: /ml-mk-horizon-synopsis/
 description: ""
 ---
 

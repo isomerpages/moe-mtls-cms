@@ -1,6 +1,6 @@
 ---
 title: Pendidikan Bahasa Melayu (Prasekolah)
-permalink: /ml-presch
+permalink: /ml-presch/
 description: ""
 ---
 <html>

@@ -1,6 +1,6 @@
 ---
 title: Ms Ong Peiying
-permalink: /Ms-Ong-Peiying/
+permalink: /ms-ong-peiying/
 description: ""
 ---
 <head>

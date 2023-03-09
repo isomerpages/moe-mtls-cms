@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /exhibits/Overview/overview
+permalink: /exhibits/overview/overview/
 description: ""
 third_nav_title: Overview
 ---

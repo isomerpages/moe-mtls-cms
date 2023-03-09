@@ -1,6 +1,6 @@
 ---
 title: Online Quest
-permalink: /online-quest
+permalink: /online-quest/
 description: ""
 ---
 <html>

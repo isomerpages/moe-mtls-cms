@@ -1,6 +1,6 @@
 ---
 title: Ms Nur'afifah Binte Mohd Hussain
-permalink: /Ms-Nur-afifah
+permalink: /ms-nur-afifah/
 description: ""
 ---
 <head>

@@ -1,6 +1,6 @@
 ---
 title: M<sup>3</sup>@NeeSoon
-permalink: /ml-M3-NeeSoon-exhibition
+permalink: /ml-m3-neesoon-exhibition/
 description: ""
 ---
 <style>

@@ -1,6 +1,6 @@
 ---
 title: Pendidikan Bahasa Melayu (Sekolah Rendah)
-permalink: /ml-prisch
+permalink: /ml-prisch/
 description: ""
 ---
 <html>

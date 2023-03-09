@@ -1,6 +1,6 @@
 ---
 title: Kawasan Hidupan Liar Mandai (Sinopsis)
-permalink: /ml-Mandai-Wildlife-Reserve-Synopsis
+permalink: /ml-mandai-wildlife-reserve-synopsis/
 description: ""
 ---
 <style>

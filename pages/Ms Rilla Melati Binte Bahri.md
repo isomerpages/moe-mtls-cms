@@ -1,6 +1,6 @@
 ---
 title: Ms Rilla Melati Binte Bahri
-permalink: /Ms-Rilla-Melati
+permalink: /ms-rilla-melati/
 description: ""
 ---
 <head>

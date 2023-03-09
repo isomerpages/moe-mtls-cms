@@ -1,6 +1,6 @@
 ---
 title: Mdm Jiang Yanyan
-permalink: /Mdm-Jiang-Yanyan/
+permalink: /mdm-jiang-yanyan/
 description: ""
 ---
 <head>

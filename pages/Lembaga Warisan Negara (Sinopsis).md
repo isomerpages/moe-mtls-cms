@@ -1,6 +1,6 @@
 ---
 title: Lembaga Warisan Negara (Sinopsis)
-permalink: /ml-National-Heritage-Board-Synopsis
+permalink: /ml-national-heritage-board-synopsis/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Ms Rani Kanna
-permalink: /Ms-Rani-Kanna
+permalink: /ms-rani-kanna/
 description: ""
 ---
 <head>

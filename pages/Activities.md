@@ -1,6 +1,6 @@
 ---
 title: Activities
-permalink: /activities
+permalink: /activities/
 description: ""
 ---
 <head>

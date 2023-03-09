@@ -1,6 +1,6 @@
 ---
 title: Sekolah Rendah Junyuan (Sinopsis)
-permalink: /ml-Junyuan-Primary-School-Synopsis
+permalink: /ml-junyuan-primary-school-synopsis/
 description: ""
 ---
 <style>

@@ -1,6 +1,6 @@
 ---
 title: Ms Wang Zheng
-permalink: /Ms-Wang-Zheng/
+permalink: /ms-wang-zheng/
 description: ""
 ---
 <head>

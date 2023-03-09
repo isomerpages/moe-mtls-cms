@@ -1,6 +1,6 @@
 ---
 title: Dana Kedwibahasaan Lee Kuan Yew (Sinopsis)
-permalink: /ml-Lee-Kuan-Yew-Fund-for-Bilingualism-Synopsis
+permalink: /ml-lee-kuan-yew-fund-for-bilingualism-synopsis/
 description: ""
 ---
 

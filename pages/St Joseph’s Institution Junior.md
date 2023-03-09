@@ -1,6 +1,6 @@
 ---
 title: St Joseph’s Institution Junior
-permalink: /ml-St-Joseph-Institution-Junior-exhibition
+permalink: /ml-st-joseph-institution-junior-exhibition/
 description: ""
 ---
 <style>

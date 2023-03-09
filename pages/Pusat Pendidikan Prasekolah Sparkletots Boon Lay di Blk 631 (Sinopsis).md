@@ -1,6 +1,6 @@
 ---
 title: Pusat Pendidikan Prasekolah Sparkletots Boon Lay di Blk 631 (Sinopsis)
-permalink: /ml-PCF-Sparkletots-Boon-Lay-Synopsis
+permalink: /ml-pcf-sparkletots-boon-lay-synopsis/
 description: ""
 ---
 

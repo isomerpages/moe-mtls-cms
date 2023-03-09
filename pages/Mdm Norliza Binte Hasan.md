@@ -1,6 +1,6 @@
 ---
 title: Mdm Norliza Binte Hasan
-permalink: /Norliza-Binte-Hasan
+permalink: /norliza-binte-hasan/
 description: ""
 ---
 <style>
@@ -23,11 +23,11 @@ max-width:100%;
     font-weight: 600;
 }
 </style>
- <body> 
-  <a href="/OPMTL-Award" style="float:left;">Back</a><br/>
-	<h4  style="font-family:Lato,sans-serif;font-size:34px;text-align:justify;line-height:1.5;">Anugerah Guru Prasekolah Bahasa Ibunda Cemerlang (Anugerah Cemerlang)</h4><br>
- <img src="/images/OPMTLPic/MTLS_OPMTL_Awards_V3_Mdm-Norliza-Binte-Hasan.png" style="width:100%" />
-    <br />
+  
+  <a href="/opmtl-award" style="float:left;">Back</a><br>
+	<h4 style="font-family:Lato,sans-serif;font-size:34px;text-align:justify;line-height:1.5;">Anugerah Guru Prasekolah Bahasa Ibunda Cemerlang (Anugerah Cemerlang)</h4><br>
+ <img src="/images/OPMTLPic/MTLS_OPMTL_Awards_V3_Mdm-Norliza-Binte-Hasan.png" style="width:100%">
+    <br>
      <h4 style="font-family:Lato,sans-serif;">Petikan Guru</h4>
     <p style="text-align:justify;font-family:Lato,sans-serif;">
      Bahan-bahan pengajaran yang autentik dan inovatif serta persekitaran yang seronok dan selamat ialah keutamaan saya ketika merancang pembelajaran kanak-kanak. Selain itu, saya menyokong pembelajaran kanak-kanak dengan memberikan mereka pelbagai peluang dan galakan supaya mereka berinteraksi serta menyertai aktiviti-aktiviti secara aktif dalam pelajaran Bahasa Melayu. Faktor-faktor ini telah berjaya meningkatkan minat, keupayaan dan keyakinan diri kanak-kanak untuk mempelajari Bahasa Ibunda mereka.
