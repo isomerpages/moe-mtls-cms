@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/FA MTLS2022_KV_R3 1920x720_150ppi.png
+      background: /images/1920x720-hero-holding-banner-v4b.gif
       key_highlights:
         - title: Exhibits
           description: View all our exhibits here!
