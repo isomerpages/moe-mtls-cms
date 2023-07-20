@@ -2,7 +2,7 @@
 layout: homepage
 title: Mother Tongue Languages Symposium
 description: Mother Tongue Languages Symposium 2022 - A Garden for Joyful Discovery
-image: /images/isomer-logo.svg
+image: /images/MTLS Logo_185x75.ico
 permalink: /
 notification: ""
 sections:
