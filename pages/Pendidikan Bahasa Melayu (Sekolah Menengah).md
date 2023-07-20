@@ -1,6 +1,6 @@
 ---
 title: Pendidikan Bahasa Melayu (Sekolah Menengah)
-permalink: /ml-sec
+permalink: /ml-sec/
 description: ""
 ---
 <html>

@@ -1,6 +1,6 @@
 ---
 title: Gambaran Keseluruhan
-permalink: /exhibits/melayu-malay-language-exhibitions-a/Gambaran-Keseluruhan
+permalink: /exhibits/melayu-malay-language-exhibitions-a/gambaran-keseluruhan/
 description: ""
 third_nav_title: Pameran Bahasa Melayu
 ---

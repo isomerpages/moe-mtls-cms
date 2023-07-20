@@ -1,6 +1,6 @@
 ---
 title: Mr Muhamad Shahzulhari Bin Johari And Mr Airi Bin Bujang
-permalink: /Mr-Muhammad-Shahzulhari-bin-Johari-And-Mr-Airi-Bin-Bujang
+permalink: /mr-muhammad-shahzulhari-bin-johari-and-mr-airi-bin-bujang/
 description: ""
 ---
 <head>

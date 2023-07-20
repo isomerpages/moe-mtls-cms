@@ -1,6 +1,6 @@
 ---
 title: Institut Pendidikan Nasional
-permalink: /ml-NIE-exhibition
+permalink: /ml-nie-exhibition/
 description: ""
 ---
 <style>

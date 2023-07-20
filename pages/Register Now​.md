@@ -1,6 +1,6 @@
 ---
 title: Register Now​
-permalink: /register-now
+permalink: /register-now/
 description: ""
 ---
 <html>

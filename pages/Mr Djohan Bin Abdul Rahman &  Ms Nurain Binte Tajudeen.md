@@ -1,6 +1,6 @@
 ---
 title: Mr Djohan Bin Abdul Rahman &  Ms Nurain Binte Tajudeen
-permalink: /Mr-Djohan-Bin-Abdul-Rahman-And-Ms-Nurain-Binte-Tajudeen/
+permalink: /mr-djohan-bin-abdul-rahman-and-ms-nurain-binte-tajudeen/
 description: ""
 ---
 <head>

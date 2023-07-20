@@ -1,6 +1,6 @@
 ---
 title: Ms Aminah Binte Abdul Latif
-permalink: /Ms-Aminah-Binte-Abdul-Latif
+permalink: /ms-aminah-binte-abdul-latif/
 description: ""
 ---
 <head>

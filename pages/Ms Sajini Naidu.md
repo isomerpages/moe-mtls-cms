@@ -1,6 +1,6 @@
 ---
 title: Ms Sajini Naidu
-permalink: /Ms-Sajini-Naidu/
+permalink: /ms-sajini-naidu/
 description: ""
 ---
 <head>

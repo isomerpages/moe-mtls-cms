@@ -1,6 +1,6 @@
 ---
 title: Mediacorp (Sinopsis)
-permalink: /ml-Mediacorp-Synopsis
+permalink: /ml-mediacorp-synopsis/
 description: ""
 ---
 

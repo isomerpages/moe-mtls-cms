@@ -1,6 +1,6 @@
 ---
 title: Professor Wu Nianyang
-permalink: /Professor-Wu-Nian-Ying
+permalink: /professor-wu-nian-ying/
 description: ""
 ---
 <head>

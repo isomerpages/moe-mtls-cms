@@ -1,6 +1,6 @@
 ---
 title: Sekolah Rendah Waterway
-permalink: /ml-Waterway-Primary-School-exhibition
+permalink: /ml-waterway-primary-school-exhibition/
 description: ""
 ---
 <style>

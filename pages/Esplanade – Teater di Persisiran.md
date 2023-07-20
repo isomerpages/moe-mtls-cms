@@ -1,6 +1,6 @@
 ---
 title: Esplanade – Teater di Persisiran
-permalink: /ml-Esplanade-Theatres-on-the-Bay-exhibition
+permalink: /ml-esplanade-theatres-on-the-bay-exhibition/
 description: ""
 ---
 <style>

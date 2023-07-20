@@ -1,6 +1,6 @@
 ---
 title: Tadika MOE di Wellington
-permalink: /ml-MK-Wellington-exhibition
+permalink: /ml-mk-wellington-exhibition/
 description: ""
 ---
 <style>

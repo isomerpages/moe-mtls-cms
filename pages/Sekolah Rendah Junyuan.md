@@ -1,6 +1,6 @@
 ---
 title: Sekolah Rendah Junyuan
-permalink: /ml-Junyuan-Primary-Exhibition
+permalink: /ml-junyuan-primary-exhibition/
 description: ""
 ---
 <style>

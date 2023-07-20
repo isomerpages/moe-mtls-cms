@@ -1,6 +1,6 @@
 ---
 title: Sekolah Menengah Meridian
-permalink: /ml-meridian-sec-exhibition
+permalink: /ml-meridian-sec-exhibition/
 description: ""
 ---
 <style>

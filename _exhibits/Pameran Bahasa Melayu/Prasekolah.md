@@ -4,7 +4,7 @@ permalink: /exhibits/pameran-bahasa-melayu-malay-language-exhibitions-c/preschoo
 description: ""
 third_nav_title: Pameran Bahasa Melayu
 ---
-<head>
+
 <style>
 	.btntop {
     position: fixed;
@@ -69,67 +69,67 @@ text-decoration:none;
 	 font-size: 17px;
 }
 </style>
-</head>
-<body>
+
+
 <table style="border-collapse: collapse;
   width: 100%;">
-  <tr>
-    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Membangun Kanak-kanak Berdwibahasa<br />Tadika MOE di Horizon<br/>
-[MOE Kindergarten@Horizon]<br />
+  <tbody><tr>
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Membangun Kanak-kanak Berdwibahasa<br>Tadika MOE di Horizon<br>
+[MOE Kindergarten@Horizon]<br>
  </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-MK-Horizon-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-MK-Horizon-exhibition" class="btn2" style="color:#fff;">Lihat Pameran </a>
+ <a href="/ml-mk-horizon-synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
+  <a href="/ml-mk-horizon-exhibition" class="btn2" style="color:#fff;">Lihat Pameran </a>
   </div></td>
     </tr>
-</table>
-<br />
+</tbody></table>
+<br>
 <table style="border-collapse: collapse;
   width: 100%;">
-  <tr>
+  <tbody><tr>
     <td class="data" style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#a3c864;color:#fff">‘Saya Wira/Wirawati Budaya!’ 
-  <br />Tadika MOE di Wellington<br/>
+  <br>Tadika MOE di Wellington<br>
 [MOE Kindergarten@Wellington]
 </td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-MK-Wellington-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/ml-MK-Wellington-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
+ <a href="/ml-mk-wellington-synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
+  <a href="/ml-mk-wellington-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
-</table>
-<br />
+</tbody></table>
+<br>
 <table style="border-collapse: collapse;
   width: 100%;">
-  <tr>
+  <tbody><tr>
     <td class="data" style="border: none; width: 70%;
-  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Transformasi Melalui Kitar Semula <br/>Pusat Pendidikan Prasekolah Sparkletots Boon Lay di Blk 631<br/>
+  text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Transformasi Melalui Kitar Semula <br>Pusat Pendidikan Prasekolah Sparkletots Boon Lay di Blk 631<br>
 			[PCF Sparkletots @ Boon Lay 631]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-PCF-Sparkletots-Boon-Lay-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/MTLS-PCF-Boon-Lay-Exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
+ <a href="/ml-pcf-sparkletots-boon-lay-synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
+  <a href="/mtls-pcf-boon-lay-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
-</table>
-<br />
+</tbody></table>
+<br>
 <table style="border-collapse: collapse;
   width: 100%;">
-  <tr>
-    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Menggunakan Strategi Pemikiran Visual & Pembelajaran Berdasarkan Pengalaman untuk Meningkatkan Pengalaman Kanak-kanak dalam Bahasa Melayu<br />
+  <tbody><tr>
+    <td class="data" style="border: none; width: 70%;text-align: left;padding: 8px;background-color:#a3c864;color:#fff">Menggunakan Strategi Pemikiran Visual &amp; Pembelajaran Berdasarkan Pengalaman untuk Meningkatkan Pengalaman Kanak-kanak dalam Bahasa Melayu<br>
 		[M.Y World @ Punggol Edge]</td>
     <td style="border: none;
   text-align: left;padding: 8px;width: 30%;">
   <div class="btn-group">
- <a href="/ml-MY-World-Punggol-Edge-Synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
-  <a href="/MY-World-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
+ <a href="/ml-my-world-punggol-edge-synopsis" class="btn1" style="color:#fff;">Lihat Sinopsis</a>
+  <a href="/my-world-exhibition" class="btn2" style="color:#fff;">Lihat Pameran</a>
   </div></td>
     </tr>
-</table>
-	<br/><br/><p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
+</tbody></table>
+	<br><br><p style="font-size: 16px;font-family: Lato,sans-serif;font-style: italic;padding-top:12px;margin:10px;">For the best and most accurate viewing experience of this site, the fonts, Murasu Anjal and KaiTi will need to be installed on your device.</p>
 <div class="btntop"><a href="#top" style="text-decoration:none;"><span style="color:white"><b>Top</b></span></a></div>

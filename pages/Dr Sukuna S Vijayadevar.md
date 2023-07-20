@@ -1,6 +1,6 @@
 ---
 title: Dr Sukuna S Vijayadevar
-permalink: /Dr-Sukuna-S-Vijayadevar
+permalink: /dr-sukuna-s-vijayadevar/
 description: ""
 ---
 <head>

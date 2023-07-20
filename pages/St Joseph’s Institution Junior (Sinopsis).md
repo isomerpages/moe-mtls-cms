@@ -1,6 +1,6 @@
 ---
 title: St Joseph’s Institution Junior (Sinopsis)
-permalink: /ml-St-Joseph-Institution-Junior-Synopsis
+permalink: /ml-st-joseph-institution-junior-synopsis/
 description: ""
 ---
 

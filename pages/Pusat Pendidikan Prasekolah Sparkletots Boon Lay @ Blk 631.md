@@ -1,6 +1,6 @@
 ---
 title: Pusat Pendidikan Prasekolah Sparkletots Boon Lay @ Blk 631
-permalink: /MTLS-PCF-Boon-Lay-Exhibition
+permalink: /mtls-pcf-boon-lay-exhibition/
 description: ""
 ---
 <style>

@@ -1,6 +1,6 @@
 ---
 title: M.Y  World @ Punggol Edge
-permalink: /MY-World-exhibition
+permalink: /my-world-exhibition/
 description: ""
 ---
 <style>

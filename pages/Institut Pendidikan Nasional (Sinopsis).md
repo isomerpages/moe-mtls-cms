@@ -1,6 +1,6 @@
 ---
 title: Institut Pendidikan Nasional (Sinopsis)
-permalink: /ml-National-Institute-of-Education-Synopsis
+permalink: /ml-national-institute-of-education-synopsis/
 description: ""
 ---
 <style>

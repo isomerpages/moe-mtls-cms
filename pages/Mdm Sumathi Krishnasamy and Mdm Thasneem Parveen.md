@@ -1,6 +1,6 @@
 ---
 title: Mdm Sumathi Krishnasamy and Mdm Thasneem Parveen
-permalink: /Mdm-Sumathi-Krishnasamy-And-Mdm-Thasneem-Parveen
+permalink: /mdm-sumathi-krishnasamy-and-mdm-thasneem-parveen/
 description: ""
 ---
 <head>

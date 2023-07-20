@@ -1,6 +1,6 @@
 ---
 title: Lembaga Perpustakaan Nasional (Sinopsis)
-permalink: /ml-National-Library-Board-Synopsis
+permalink: /ml-national-library-board-synopsis/
 description: ""
 ---
 <style>

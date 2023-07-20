@@ -1,6 +1,6 @@
 ---
 title: Mdm Corinne Madelyn Fan Wai Foong
-permalink: /Mdm-Corinne-Madelyn
+permalink: /mdm-corinne-madelyn/
 description: ""
 ---
 <head>

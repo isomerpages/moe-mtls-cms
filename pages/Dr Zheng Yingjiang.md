@@ -1,6 +1,6 @@
 ---
 title: Dr Zheng Yingjiang
-permalink: /Dr-Zheng-Yingjiang/
+permalink: /dr-zheng-yingjiang/
 description: ""
 ---
 <head>

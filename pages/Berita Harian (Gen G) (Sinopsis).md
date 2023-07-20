@@ -1,6 +1,6 @@
 ---
 title: Berita Harian (Gen G) (Sinopsis)
-permalink: /ml-Berita-Harian-Gen-G-Synopsis
+permalink: /ml-berita-harian-gen-g-synopsis/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 title: Mother Tongue Languages Symposium
 url: ""
-favicon: /images/MTLS 2022 Logo.ico
+favicon: /images/MTLS Logo_185x75.ico
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-mtls-cms-staging.netlify.app
-prod: https://moe-mtls-cms-prod.netlify.app
+staging: https://staging.d3nfl45u068fd5.amplifyapp.com/
+prod: https://master.d3nfl45u068fd5.amplifyapp.com/
 shareicon: /images/isomer-logo.svg
 is_government: false
 facebook-pixel: ""

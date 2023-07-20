@@ -1,6 +1,6 @@
 ---
 title: Mdm Siti Hasniza Binte Hassan
-permalink: /Siti-Hasniza-Binte-Hassan
+permalink: /siti-hasniza-binte-hassan/
 description: ""
 ---
 <style>
@@ -23,11 +23,11 @@ max-width:100%;
     font-weight: 600;
 }
 </style>
- <body> 
-  <a href="/OPMTL-Award" style="float:left;">Back</a><br/>
-	    <h4  style="font-family:Lato,sans-serif;font-size:34px;text-align:justify;line-height:1.5;">Anugerah Guru Prasekolah Bahasa Ibunda Cemerlang (Anugerah Cemerlang)</h4><br>
- <img src="/images/OPMTLPic/MTLS_OPMTL_Awards_V3_Mdm-Siti-Hasniza-Binte-Hassan.png" style="width:100%" />
-    <br />
+  
+  <a href="/opmtl-award" style="float:left;">Back</a><br>
+	    <h4 style="font-family:Lato,sans-serif;font-size:34px;text-align:justify;line-height:1.5;">Anugerah Guru Prasekolah Bahasa Ibunda Cemerlang (Anugerah Cemerlang)</h4><br>
+ <img src="/images/OPMTLPic/MTLS_OPMTL_Awards_V3_Mdm-Siti-Hasniza-Binte-Hassan.png" style="width:100%">
+    <br>
      <h4 style="font-family:Lato,sans-serif;">Petikan Guru</h4>
     <p style="text-align:justify;font-family:Lato,sans-serif;">
      Sebagai pendidik Bahasa Melayu, saya sentiasa berusaha untuk memupuk perasaan cinta akan bahasa Ibunda dalam diri kanak-kanak. Saya percaya bahawa amalan dwibahasa dalam kelas Bahasa Melayu dapat meningkatkan keyakinan kanak-kanak bertutur dalam bahasa Melayu terutama bagi mereka yang kurang terdedah kepada bahasa ini. Saya juga menerapkan unsur-unsur bahasa dan budaya termasuklah estetika bahasa melalui pantun, cerita rakyat dan lagu ketika menjalankan pelajaran untuk kanak-kanak di bawah bimbingan saya. Selain menyuntik keseronokan, aktiviti-aktiviti yang dijalankan akan menerapkan nilai murni agar dapat membangunkan sahsiah kanak-kanak untuk menjadi seorang insan yang berhemah tinggi.
