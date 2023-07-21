@@ -3,8 +3,6 @@ title: English Videos
 permalink: /english-session/
 description: ""
 ---
-
-
 <style>
     .btn1{
     font-size: 16px;
@@ -32,7 +30,7 @@ text-decoration:none;
 </style>
 
 
-    <h4 style="font-family:Lato,sans-serif;"><b>Live Sharing Session</b></h4>
+   <h4 style="font-family:Lato,sans-serif;"><b>Live Sharing Session</b></h4>
     <table style="border-collapse: collapse;
   width: 100%;">
   <tbody><tr>
@@ -72,5 +70,3 @@ Dr Shuhan C. Wang<br>
 	<img src="/images/Feedback-Slide.jpg">
 <br>
 <img src="/images/Explore-MTLS_Mascot_Scavenger-V1-03.png" style="float: right; width:30%;">
-
-	
