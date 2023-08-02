@@ -31,8 +31,7 @@ text-decoration:none;
 
 
    <h4 style="font-family:Lato,sans-serif;"><b>Live Sharing Session</b></h4>
-    <table style="border-collapse: collapse;
-  width: 100%;">
+    <table style="border-collapse: collapse; width: 100%;">
   <tbody><tr>
     <td style="border: none; width: 70%;
   text-align: left;padding: 8px;background-color:#fa0;color:#fff;font-family:Lato,sans-serif;font-size: 18px;">Edutainment as a Fun Tool in Encouraging the Reluctant MTL Speaker<br>
