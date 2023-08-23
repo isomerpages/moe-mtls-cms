@@ -3,8 +3,7 @@ title: Outstanding Pre-school Mother Tongue Language Teacher Award
 permalink: /opmtl-award/
 description: ""
 ---
-
-  <style>
+<style>
     .btntop {
     position: fixed;
     float: right;
@@ -80,7 +79,7 @@ PCF Sparkletots @ Radin Mas Blk 70A<br> </center>
  </div>
 <div class="row">
   <div class="column">
-   <a href="/siti-hasniza-binte-hassan "><img src="/images/OPMTLPic/Siti-Hasniza-Binte-Hassan-outstanding-award.png" style="width:54%;display:block;"></a>
+   <a href="/siti-hasniza-binte-hassan"><img src="/images/OPMTLPic/Siti-Hasniza-Binte-Hassan-outstanding-award.png" style="width:54%;display:block;"></a>
 <p> </p><center> Mdm Siti Hasniza Binte Hassan <br>
 PCF Sparkletots @ Tampines West Blk 887</center>
   <p></p>
