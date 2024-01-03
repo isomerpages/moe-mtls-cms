@@ -1,0 +1,24 @@
+collections:
+  exhibits:
+    output: true
+    order:
+      - Overview/.keep
+      - Overview/Overview.md
+      - 华文学习展示区/.keep
+      - 华文学习展示区/总览.md
+      - 华文学习展示区/教育部课程.md
+      - 华文学习展示区/学前中心.md
+      - 华文学习展示区/中小学.md
+      - 华文学习展示区/社区合作伙伴.md
+      - Pameran Bahasa Melayu/.keep
+      - Pameran Bahasa Melayu/Gambaran Keseluruhan.md
+      - Pameran Bahasa Melayu/Kurikulum Kementerian Pendidikan Singapura (MOE).md
+      - Pameran Bahasa Melayu/Prasekolah.md
+      - Pameran Bahasa Melayu/Sekolah.md
+      - Pameran Bahasa Melayu/Rakan Kerjasama Masyarakat.md
+      - தமிழ்மொழிக் காட்சிக்கூடம்/.keep
+      - தமிழ்மொழிக் காட்சிக்கூடம்/உள்ளடக்கம்.md
+      - தமிழ்மொழிக் காட்சிக்கூடம்/கல்வி அமைச்சின் பாடக்கலைத்திட்டம்.md
+      - தமிழ்மொழிக் காட்சிக்கூடம்/பாலர் பள்ளிகள்.md
+      - தமிழ்மொழிக் காட்சிக்கூடம்/பள்ளிகள்.md
+      - தமிழ்மொழிக் காட்சிக்கூடம்/சமூகப் பங்காளர்கள்.md
